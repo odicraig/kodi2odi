@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.cfbr" name="College Football Replays" provider-name="mhancoc7" version="0.3.1">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0" />
+        <import addon="script.module.liveresolver"/>
+    </requires>
+    <extension library="main.py" point="xbmc.python.pluginsource">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Watch NCAA College Football replays!</summary>
+        <description>Please visit [COLOR blue]https://www.tvaddons.ag[/COLOR] for addon support! Watch NCAA College Football replays!</description>
+        <platform>all</platform>
+        <forum>https://forums.tvaddons.ag/mhancoc7-s-addons/</forum>
+        <website>https://tvaddons.ag/</website>
+    </extension>
+</addon>

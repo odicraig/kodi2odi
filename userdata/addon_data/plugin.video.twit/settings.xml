@@ -1,0 +1,11 @@
+<settings>
+    <setting id="first_run" value="2.0.7" />
+    <setting id="nickname" value="" />
+    <setting id="password" value="" />
+    <setting id="playback" value="1" />
+    <setting id="run_chat" value="false" />
+    <setting id="show_art" value="true" />
+    <setting id="twit_live" value="6" />
+    <setting id="username" value="" />
+    <setting id="view_mode" value="8" />
+</settings>

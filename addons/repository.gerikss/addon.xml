@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.gerikss" name="Gerikss XBMC/Kodi Repo" version="1.0" provider-name="gerikss">
+	<extension point="xbmc.addon.repository" name="Gerikss XBMC/Kodi Repo">
+		<info compressed="false">https://bitbucket.org/gerikss/kodi-addons/raw/master/addons.xml</info>
+		<checksum>https://bitbucket.org/gerikss/kodi-addons/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://api.bitbucket.org/1.0/repositories/gerikss/kodi-addons/raw/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Kodi Addons</summary>
+		<description>Install Kodi Addons</description>
+		<disclaimer>gerikss</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

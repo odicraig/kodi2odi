@@ -1,0 +1,6 @@
+<settings>
+    <setting id="debug" value="false" />
+    <setting id="quality" value="1" />
+    <setting id="rated" value="false" />
+    <setting id="version" value="1.0.5" />
+</settings>

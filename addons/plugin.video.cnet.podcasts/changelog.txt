@@ -1,0 +1,52 @@
+v1.1.3 (2017-03-03)
+using po-files
+fixed url in addon.xml as per request
+
+v1.1.2 (2016-02-20)
+added some utf-8 stuff
+updated to latest requirements for a Kodi-addon
+added fanart
+added fanart-blurred
+
+v1.1.1 (2014-04-20)
+fix to get the addon working again after changes in the website. 
+I couldn't get in contact with divingmule, therefore i (Skipmode A1) made a new of the addon based on divingmule's sourcecode.  
+Thanks to gtoons for the feedburner tip.
+
+v1.1.0
+update for frodo/gotham
+
+v1.0.8
+fix for changes in Frodo
+
+v1.0.7
+updated podcasts list 
+
+v1.0.6
+fix bug in scraper
+
+v1.0.5
+updated show list, thanks pkscuot
+
+v1.0.2
+fix for feed changes
+new playback setting
+
+v1.0.1
+added the crave podcast
+
+v1.0.0
+new for eden
+
+v0.0.4
+added addon settings for video quality instead of categories
+
+v0.0.3
+updated icon.png
+
+v0.0.2
+added video descriptions
+added categories for SD and HD
+
+v0.0.1
+initial

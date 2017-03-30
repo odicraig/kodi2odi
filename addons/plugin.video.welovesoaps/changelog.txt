@@ -1,0 +1,6 @@
+v1.0.2
+took out the old sources the addon was using for now 
+and made it work with a new source i found.
+
+v1.0.0
+Initial Release

@@ -1,0 +1,26 @@
+<settings>
+    <setting id="debug-enable" value="false" />
+    <setting id="debug-show" value="false" />
+    <setting id="gameEXP" value="0" />
+    <setting id="gameKeys" value="0" />
+    <setting id="gameLevel" value="1" />
+    <setting id="gameLifes" value="1" />
+    <setting id="gameMonstersKilled" value="0" />
+    <setting id="gameMonstersLostTo" value="0" />
+    <setting id="gameMovesMade" value="0" />
+    <setting id="gameStamina" value="1" />
+    <setting id="img-player" value="08 BlackHaired Boy" />
+    <setting id="savegame-onexit" value="true" />
+    <setting id="select-puzzle" value="false" />
+    <setting id="show-items" value="true" />
+    <setting id="show-map" value="false" />
+    <setting id="show-maplocation" value="false" />
+    <setting id="txt-beats" value="beats" />
+    <setting id="txt-draw" value="DRAW" />
+    <setting id="txt-loser" value="LOSER" />
+    <setting id="txt-noonewins" value="NO ONE WINS" />
+    <setting id="txt-winner" value="WINNER" />
+    <setting id="updater" value="true" />
+    <setting id="viz-scale-height" value="11" />
+    <setting id="viz-scale-width" value="19" />
+</settings>

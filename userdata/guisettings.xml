@@ -1,0 +1,1509 @@
+<settings>
+    <accessibility>
+        <audiohearing default="true">false</audiohearing>
+        <audiovisual default="true">false</audiovisual>
+        <subhearing default="true">false</subhearing>
+    </accessibility>
+    <audiocds>
+        <autoaction default="true">0</autoaction>
+        <ejectonrip default="true">true</ejectonrip>
+        <encoder default="true">audioencoder.xbmc.builtin.wav</encoder>
+        <recordingpath default="true"></recordingpath>
+        <trackpathformat default="true">%A/%A - %B/[%N. ][%A - ]%T</trackpathformat>
+        <usecddb default="true">true</usecddb>
+    </audiocds>
+    <audiooutput>
+        <ac3passthrough default="true">true</ac3passthrough>
+        <ac3transcode default="true">false</ac3transcode>
+        <audiodevice default="true">DIRECTSOUND:default</audiodevice>
+        <channels default="true">1</channels>
+        <config default="true">2</config>
+        <dspaddonsenabled default="true">false</dspaddonsenabled>
+        <dtshdpassthrough default="true">false</dtshdpassthrough>
+        <dtspassthrough default="true">false</dtspassthrough>
+        <eac3passthrough default="true">false</eac3passthrough>
+        <guisoundmode default="true">1</guisoundmode>
+        <maintainoriginalvolume default="true">true</maintainoriginalvolume>
+        <passthrough default="true">false</passthrough>
+        <passthroughdevice>DIRECTSOUND:{03666A9C-4A45-4317-B84C-08FAB23ACB2B}</passthroughdevice>
+        <processquality default="true">30</processquality>
+        <samplerate default="true">48000</samplerate>
+        <stereoupmix default="true">false</stereoupmix>
+        <streamsilence default="true">1</streamsilence>
+        <supportdtshdcpudecoding default="true">false</supportdtshdcpudecoding>
+        <truehdpassthrough default="true">false</truehdpassthrough>
+    </audiooutput>
+    <bluray>
+        <playerregion default="true">1</playerregion>
+    </bluray>
+    <cache>
+        <harddisk default="true">256</harddisk>
+    </cache>
+    <cacheaudio>
+        <dvdrom default="true">256</dvdrom>
+        <internet default="true">256</internet>
+        <lan default="true">256</lan>
+    </cacheaudio>
+    <cachedvd>
+        <dvdrom default="true">2048</dvdrom>
+        <lan default="true">2048</lan>
+    </cachedvd>
+    <cacheunknown>
+        <internet default="true">4096</internet>
+    </cacheunknown>
+    <cachevideo>
+        <dvdrom default="true">2048</dvdrom>
+        <internet default="true">4096</internet>
+        <lan default="true">2048</lan>
+    </cachevideo>
+    <debug>
+        <extralogging default="true">true</extralogging>
+        <screenshotpath>C:\Craig_Work\</screenshotpath>
+        <setextraloglevel default="true">32768</setextraloglevel>
+        <showloginfo default="true">false</showloginfo>
+    </debug>
+    <disc>
+        <playback default="true">0</playback>
+    </disc>
+    <dvds>
+        <automenu default="true">false</automenu>
+        <autorun default="true">false</autorun>
+        <playerregion default="true">0</playerregion>
+    </dvds>
+    <epg>
+        <daystodisplay default="true">3</daystodisplay>
+        <epgupdate default="true">120</epgupdate>
+        <hidenoinfoavailable default="true">true</hidenoinfoavailable>
+        <ignoredbforclient default="true">false</ignoredbforclient>
+        <preventupdateswhileplayingtv default="true">false</preventupdateswhileplayingtv>
+        <selectaction>1</selectaction>
+    </epg>
+    <eventlog>
+        <enabled default="true">true</enabled>
+        <enablednotifications default="true">false</enablednotifications>
+    </eventlog>
+    <filelists>
+        <allowfiledeletion default="true">false</allowfiledeletion>
+        <ignorethewhensorting default="true">true</ignorethewhensorting>
+        <showaddsourcebuttons default="true">true</showaddsourcebuttons>
+        <showextensions default="true">true</showextensions>
+        <showhidden default="true">false</showhidden>
+        <showparentdiritems>false</showparentdiritems>
+    </filelists>
+    <general>
+        <addonbrokenfilter default="true">true</addonbrokenfilter>
+        <addonforeignfilter default="true">false</addonforeignfilter>
+        <addonnotifications default="true">true</addonnotifications>
+        <addonupdates default="true">0</addonupdates>
+        <systemtotaluptime>19811</systemtotaluptime>
+        <settinglevel>3</settinglevel>
+        <eventlog>
+            <level>0</level>
+            <showhigherlevels>true</showhigherlevels>
+        </eventlog>
+    </general>
+    <input>
+        <enablejoystick default="true">true</enablejoystick>
+        <enablemouse default="true">true</enablemouse>
+    </input>
+    <locale>
+        <audiolanguage default="true">original</audiolanguage>
+        <charset default="true">DEFAULT</charset>
+        <country default="true">USA (12h)</country>
+        <keyboardlayouts default="true">English QWERTY</keyboardlayouts>
+        <language default="true">resource.language.en_gb</language>
+        <longdateformat default="true">regional</longdateformat>
+        <shortdateformat default="true">regional</shortdateformat>
+        <speedunit default="true">regional</speedunit>
+        <subtitlelanguage default="true">original</subtitlelanguage>
+        <temperatureunit default="true">regional</temperatureunit>
+        <timeformat default="true">regional</timeformat>
+        <timezone>America/New_York</timezone>
+        <timezonecountry>United States</timezonecountry>
+        <use24hourclock default="true">regional</use24hourclock>
+    </locale>
+    <lookandfeel>
+        <enablerssfeeds>false</enablerssfeeds>
+        <font default="true">Default</font>
+        <rssedit default="true"></rssedit>
+        <skin>skin.eminence</skin>
+        <skincolors>Lime</skincolors>
+        <skintheme>Glass</skintheme>
+        <skinzoom default="true">0</skinzoom>
+        <soundskin default="true">resource.uisounds.confluence</soundskin>
+        <startupwindow>12600</startupwindow>
+        <stereostrength default="true">5</stereostrength>
+    </lookandfeel>
+    <masterlock>
+        <maxretries default="true">3</maxretries>
+        <startuplock default="true">false</startuplock>
+    </masterlock>
+    <musicfiles>
+        <findremotethumbs default="true">true</findremotethumbs>
+        <librarytrackformat default="true"></librarytrackformat>
+        <nowplayingtrackformat default="true"></nowplayingtrackformat>
+        <trackformat default="true">[%N. ]%A - %T</trackformat>
+        <usetags default="true">true</usetags>
+    </musicfiles>
+    <musiclibrary>
+        <albumsscraper default="true">metadata.album.universal</albumsscraper>
+        <artistsscraper default="true">metadata.artists.universal</artistsscraper>
+        <backgroundupdate default="true">false</backgroundupdate>
+        <downloadinfo default="true">false</downloadinfo>
+        <overridetags default="true">false</overridetags>
+        <showallitems default="true">true</showallitems>
+        <showcompilationartists default="true">true</showcompilationartists>
+        <updateonstartup default="true">false</updateonstartup>
+    </musiclibrary>
+    <musicplayer>
+        <autoplaynextitem default="true">true</autoplaynextitem>
+        <crossfade default="true">0</crossfade>
+        <crossfadealbumtracks default="true">true</crossfadealbumtracks>
+        <queuebydefault default="true">false</queuebydefault>
+        <replaygainavoidclipping default="true">false</replaygainavoidclipping>
+        <replaygainnogainpreamp default="true">89</replaygainnogainpreamp>
+        <replaygainpreamp default="true">89</replaygainpreamp>
+        <replaygaintype default="true">1</replaygaintype>
+        <seekdelay default="true">750</seekdelay>
+        <seeksteps default="true">-60,-30,-10,10,30,60</seeksteps>
+        <visualisation default="true">visualization.milkdrop</visualisation>
+    </musicplayer>
+    <mymusic>
+        <defaultlibview default="true"></defaultlibview>
+        <songthumbinvis default="true">false</songthumbinvis>
+        <startwindow>10502</startwindow>
+        <playlist>
+            <repeat>false</repeat>
+            <shuffle>false</shuffle>
+        </playlist>
+        <needsupdate>0</needsupdate>
+    </mymusic>
+    <myvideos>
+        <extractchapterthumbs default="true">true</extractchapterthumbs>
+        <extractflags default="true">true</extractflags>
+        <extractthumb default="true">true</extractthumb>
+        <flatten default="true">false</flatten>
+        <replacelabels default="true">true</replacelabels>
+        <selectaction default="true">1</selectaction>
+        <stackvideos default="true">false</stackvideos>
+        <watchmodemovies>0</watchmodemovies>
+        <watchmodetvshows>0</watchmodetvshows>
+        <watchmodemusicvideos>0</watchmodemusicvideos>
+        <playlist>
+            <repeat>false</repeat>
+            <shuffle>false</shuffle>
+        </playlist>
+        <needsupdate>0</needsupdate>
+    </myvideos>
+    <network>
+        <bandwidth default="true">0</bandwidth>
+        <httpproxypassword default="true"></httpproxypassword>
+        <httpproxyport default="true">8080</httpproxyport>
+        <httpproxyserver default="true"></httpproxyserver>
+        <httpproxytype default="true">0</httpproxytype>
+        <httpproxyusername default="true"></httpproxyusername>
+        <usehttpproxy default="true">false</usehttpproxy>
+    </network>
+    <pictures>
+        <displayresolution default="true">14</displayresolution>
+        <generatethumbs default="true">true</generatethumbs>
+        <showvideos default="true">true</showvideos>
+    </pictures>
+    <powermanagement>
+        <displaysoff default="true">0</displaysoff>
+        <shutdownstate default="true">0</shutdownstate>
+        <shutdowntime default="true">0</shutdowntime>
+        <wakeonaccess default="true">false</wakeonaccess>
+    </powermanagement>
+    <pvrmanager>
+        <backendchannelorder default="true">true</backendchannelorder>
+        <enabled>true</enabled>
+        <hideconnectionlostwarning default="true">false</hideconnectionlostwarning>
+        <syncchannelgroups default="true">true</syncchannelgroups>
+        <usebackendchannelnumbers default="true">false</usebackendchannelnumbers>
+    </pvrmanager>
+    <pvrmenu>
+        <closechannelosdonswitch default="true">true</closechannelosdonswitch>
+        <displaychannelinfo default="true">5</displaychannelinfo>
+        <iconpath default="true"></iconpath>
+    </pvrmenu>
+    <pvrparental>
+        <duration default="true">300</duration>
+        <enabled default="true">false</enabled>
+        <pin default="true"></pin>
+    </pvrparental>
+    <pvrplayback>
+        <channelentrytimeout>500</channelentrytimeout>
+        <confirmchannelswitch default="true">false</confirmchannelswitch>
+        <enableradiords default="true">true</enableradiords>
+        <fps default="true">0</fps>
+        <playminimized>false</playminimized>
+        <scantime>3</scantime>
+        <sendrdstrafficmsg default="true">false</sendrdstrafficmsg>
+        <signalquality default="true">true</signalquality>
+        <startlast default="true">0</startlast>
+        <trafficadvisory default="true">false</trafficadvisory>
+        <trafficadvisoryvolume default="true">10</trafficadvisoryvolume>
+    </pvrplayback>
+    <pvrpowermanagement>
+        <backendidletime default="true">15</backendidletime>
+        <dailywakeup default="true">false</dailywakeup>
+        <dailywakeuptime default="true">00:00:00</dailywakeuptime>
+        <enabled default="true">false</enabled>
+        <prewakeup default="true">15</prewakeup>
+        <setwakeupcmd default="true"></setwakeupcmd>
+    </pvrpowermanagement>
+    <pvrrecord>
+        <defaultlifetime default="true">99</defaultlifetime>
+        <defaultpriority default="true">50</defaultpriority>
+        <instantrecordtime default="true">120</instantrecordtime>
+        <marginend default="true">0</marginend>
+        <marginstart default="true">0</marginstart>
+        <preventduplicateepisodes default="true">0</preventduplicateepisodes>
+        <timernotifications default="true">true</timernotifications>
+    </pvrrecord>
+    <pvrtimers>
+        <timertypefilter default="true">true</timertypefilter>
+    </pvrtimers>
+    <scrapers>
+        <moviesdefault default="true">metadata.themoviedb.org</moviesdefault>
+        <musicvideosdefault default="true">metadata.local</musicvideosdefault>
+        <tvshowsdefault default="true">metadata.tvdb.com</tvshowsdefault>
+    </scrapers>
+    <screensaver>
+        <mode>screensaver.atv4</mode>
+        <time>20</time>
+        <usedimonpause>false</usedimonpause>
+        <usemusicvisinstead default="true">true</usemusicvisinstead>
+    </screensaver>
+    <services>
+        <airplay default="true">false</airplay>
+        <airplaypassword default="true"></airplaypassword>
+        <airplayvideosupport default="true">true</airplayvideosupport>
+        <airplayvolumecontrol default="true">true</airplayvolumecontrol>
+        <devicename default="true">Kodi</devicename>
+        <esallinterfaces>true</esallinterfaces>
+        <escontinuousdelay default="true">25</escontinuousdelay>
+        <esenabled default="true">true</esenabled>
+        <esinitialdelay default="true">750</esinitialdelay>
+        <esmaxclients default="true">20</esmaxclients>
+        <esport default="true">9777</esport>
+        <esportrange default="true">10</esportrange>
+        <upnpannounce default="true">true</upnpannounce>
+        <upnpcontroller default="true">false</upnpcontroller>
+        <upnplookforexternalsubtitles default="true">false</upnplookforexternalsubtitles>
+        <upnprenderer default="true">false</upnprenderer>
+        <upnpserver default="true">false</upnpserver>
+        <useairplaypassword default="true">false</useairplaypassword>
+        <webserver default="true">false</webserver>
+        <webserverpassword default="true"></webserverpassword>
+        <webserverport>80</webserverport>
+        <webserverusername default="true">kodi</webserverusername>
+        <webskin default="true">webinterface.default</webskin>
+        <zeroconf default="true">false</zeroconf>
+    </services>
+    <slideshow>
+        <displayeffects default="true">true</displayeffects>
+        <shuffle default="true">false</shuffle>
+        <staytime default="true">5</staytime>
+    </slideshow>
+    <smb>
+        <winsserver default="true">0.0.0.0</winsserver>
+        <workgroup default="true">WORKGROUP</workgroup>
+    </smb>
+    <subtitles>
+        <align default="true">0</align>
+        <charset default="true">DEFAULT</charset>
+        <color default="true">1</color>
+        <custompath default="true"></custompath>
+        <downloadfirst default="true">false</downloadfirst>
+        <font default="true">arial.ttf</font>
+        <height default="true">28</height>
+        <languages default="true">English</languages>
+        <movie default="true"></movie>
+        <overrideassfonts default="true">false</overrideassfonts>
+        <parsecaptions default="true">false</parsecaptions>
+        <pauseonsearch default="true">true</pauseonsearch>
+        <stereoscopicdepth default="true">0</stereoscopicdepth>
+        <storagemode default="true">0</storagemode>
+        <style default="true">1</style>
+        <tv default="true"></tv>
+    </subtitles>
+    <system>
+        <playlistspath>special://profile/playlists/</playlistspath>
+    </system>
+    <videolibrary>
+        <actorthumbs default="true">true</actorthumbs>
+        <backgroundupdate default="true">false</backgroundupdate>
+        <flattentvshows default="true">1</flattentvshows>
+        <groupmoviesets default="true">false</groupmoviesets>
+        <groupsingleitemsets default="true">false</groupsingleitemsets>
+        <showallitems default="true">true</showallitems>
+        <showemptytvshows default="true">false</showemptytvshows>
+        <showunwatchedplots default="true">true</showunwatchedplots>
+        <tvshowsincludeallseasonsandspecials default="true">0</tvshowsincludeallseasonsandspecials>
+        <tvshowsselectfirstunwatcheditem default="true">0</tvshowsselectfirstunwatcheditem>
+        <updateonstartup default="true">false</updateonstartup>
+    </videolibrary>
+    <videoplayer>
+        <adjustrefreshrate default="true">0</adjustrefreshrate>
+        <autoplaynextitem default="true">false</autoplaynextitem>
+        <errorinaspect default="true">0</errorinaspect>
+        <hqscalers default="true">0</hqscalers>
+        <pauseafterrefreshchange default="true">0</pauseafterrefreshchange>
+        <preferdefaultflag default="true">true</preferdefaultflag>
+        <prefervaapirender default="true">true</prefervaapirender>
+        <quitstereomodeonstop default="true">true</quitstereomodeonstop>
+        <rendermethod default="true">0</rendermethod>
+        <seekdelay default="true">750</seekdelay>
+        <seeksteps default="true">-600,-300,-180,-60,-30,-10,10,30,60,180,300,600</seeksteps>
+        <stereoscopicplaybackmode default="true">0</stereoscopicplaybackmode>
+        <stretch43 default="true">0</stretch43>
+        <teletextenabled default="true">true</teletextenabled>
+        <teletextscale default="true">true</teletextscale>
+        <useamcodec default="true">true</useamcodec>
+        <usedisplayasclock default="true">false</usedisplayasclock>
+        <usedxva2 default="true">true</usedxva2>
+        <useomx default="true">true</useomx>
+        <useomxplayer default="true">true</useomxplayer>
+        <usevaapi default="true">true</usevaapi>
+        <usevaapimpeg2 default="true">true</usevaapimpeg2>
+        <usevaapimpeg4 default="true">true</usevaapimpeg4>
+        <usevaapivc1 default="true">true</usevaapivc1>
+        <usevda default="true">true</usevda>
+        <usevdpau default="true">true</usevdpau>
+        <usevdpaumixer default="true">true</usevdpaumixer>
+        <usevdpaumpeg2 default="true">true</usevdpaumpeg2>
+        <usevdpaumpeg4 default="true">false</usevdpaumpeg4>
+        <usevdpauvc1 default="true">true</usevdpauvc1>
+        <usevideotoolbox default="true">true</usevideotoolbox>
+    </videoplayer>
+    <videoscreen>
+        <blankdisplays default="true">false</blankdisplays>
+        <fakefullscreen default="true">true</fakefullscreen>
+        <limitedrange default="true">false</limitedrange>
+        <monitor default="true">Default</monitor>
+        <preferedstereoscopicmode default="true">100</preferedstereoscopicmode>
+        <resolution default="true">16</resolution>
+        <screen default="true">0</screen>
+        <screenmode default="true">DESKTOP</screenmode>
+        <stereoscopicmode default="true">0</stereoscopicmode>
+        <vsync default="true">2</vsync>
+    </videoscreen>
+    <weather>
+        <addon>weather.yahoo</addon>
+        <currentlocation default="true">1</currentlocation>
+    </weather>
+    <window>
+        <height>1057</height>
+        <width>1920</width>
+    </window>
+    <resolutions />
+    <defaultvideosettings>
+        <deinterlacemode>1</deinterlacemode>
+        <interlacemethod>1</interlacemethod>
+        <scalingmethod>1</scalingmethod>
+        <noisereduction>0.000000</noisereduction>
+        <postprocess>false</postprocess>
+        <sharpness>0.000000</sharpness>
+        <viewmode>0</viewmode>
+        <zoomamount>1.000000</zoomamount>
+        <pixelratio>1.000000</pixelratio>
+        <verticalshift>0.000000</verticalshift>
+        <volumeamplification>0.000000</volumeamplification>
+        <outputtoallspeakers>false</outputtoallspeakers>
+        <showsubtitles>true</showsubtitles>
+        <brightness>50.000000</brightness>
+        <contrast>50.000000</contrast>
+        <gamma>20.000000</gamma>
+        <audiodelay>0.000000</audiodelay>
+        <subtitledelay>0.000000</subtitledelay>
+        <nonlinstretch>false</nonlinstretch>
+        <stereomode>0</stereomode>
+    </defaultvideosettings>
+    <defaultaudiosettings>
+        <masterstreamtype>7</masterstreamtype>
+        <masterstreamtypesel>7</masterstreamtypesel>
+        <masterstreambase>0</masterstreambase>
+        <masterprocess_0_0>0</masterprocess_0_0>
+        <masterprocess_0_1>0</masterprocess_0_1>
+        <masterprocess_0_2>0</masterprocess_0_2>
+        <masterprocess_0_3>0</masterprocess_0_3>
+        <masterprocess_0_4>0</masterprocess_0_4>
+        <masterprocess_0_5>0</masterprocess_0_5>
+        <masterprocess_0_6>0</masterprocess_0_6>
+        <masterprocess_0_7>0</masterprocess_0_7>
+        <masterprocess_0_8>0</masterprocess_0_8>
+        <masterprocess_0_9>0</masterprocess_0_9>
+        <masterprocess_0_10>0</masterprocess_0_10>
+        <masterprocess_1_0>0</masterprocess_1_0>
+        <masterprocess_1_1>0</masterprocess_1_1>
+        <masterprocess_1_2>0</masterprocess_1_2>
+        <masterprocess_1_3>0</masterprocess_1_3>
+        <masterprocess_1_4>0</masterprocess_1_4>
+        <masterprocess_1_5>0</masterprocess_1_5>
+        <masterprocess_1_6>0</masterprocess_1_6>
+        <masterprocess_1_7>0</masterprocess_1_7>
+        <masterprocess_1_8>0</masterprocess_1_8>
+        <masterprocess_1_9>0</masterprocess_1_9>
+        <masterprocess_1_10>0</masterprocess_1_10>
+        <masterprocess_2_0>0</masterprocess_2_0>
+        <masterprocess_2_1>0</masterprocess_2_1>
+        <masterprocess_2_2>0</masterprocess_2_2>
+        <masterprocess_2_3>0</masterprocess_2_3>
+        <masterprocess_2_4>0</masterprocess_2_4>
+        <masterprocess_2_5>0</masterprocess_2_5>
+        <masterprocess_2_6>0</masterprocess_2_6>
+        <masterprocess_2_7>0</masterprocess_2_7>
+        <masterprocess_2_8>0</masterprocess_2_8>
+        <masterprocess_2_9>0</masterprocess_2_9>
+        <masterprocess_2_10>0</masterprocess_2_10>
+        <masterprocess_3_0>0</masterprocess_3_0>
+        <masterprocess_3_1>0</masterprocess_3_1>
+        <masterprocess_3_2>0</masterprocess_3_2>
+        <masterprocess_3_3>0</masterprocess_3_3>
+        <masterprocess_3_4>0</masterprocess_3_4>
+        <masterprocess_3_5>0</masterprocess_3_5>
+        <masterprocess_3_6>0</masterprocess_3_6>
+        <masterprocess_3_7>0</masterprocess_3_7>
+        <masterprocess_3_8>0</masterprocess_3_8>
+        <masterprocess_3_9>0</masterprocess_3_9>
+        <masterprocess_3_10>0</masterprocess_3_10>
+        <masterprocess_4_0>0</masterprocess_4_0>
+        <masterprocess_4_1>0</masterprocess_4_1>
+        <masterprocess_4_2>0</masterprocess_4_2>
+        <masterprocess_4_3>0</masterprocess_4_3>
+        <masterprocess_4_4>0</masterprocess_4_4>
+        <masterprocess_4_5>0</masterprocess_4_5>
+        <masterprocess_4_6>0</masterprocess_4_6>
+        <masterprocess_4_7>0</masterprocess_4_7>
+        <masterprocess_4_8>0</masterprocess_4_8>
+        <masterprocess_4_9>0</masterprocess_4_9>
+        <masterprocess_4_10>0</masterprocess_4_10>
+        <masterprocess_5_0>0</masterprocess_5_0>
+        <masterprocess_5_1>0</masterprocess_5_1>
+        <masterprocess_5_2>0</masterprocess_5_2>
+        <masterprocess_5_3>0</masterprocess_5_3>
+        <masterprocess_5_4>0</masterprocess_5_4>
+        <masterprocess_5_5>0</masterprocess_5_5>
+        <masterprocess_5_6>0</masterprocess_5_6>
+        <masterprocess_5_7>0</masterprocess_5_7>
+        <masterprocess_5_8>0</masterprocess_5_8>
+        <masterprocess_5_9>0</masterprocess_5_9>
+        <masterprocess_5_10>0</masterprocess_5_10>
+        <masterprocess_6_0>0</masterprocess_6_0>
+        <masterprocess_6_1>0</masterprocess_6_1>
+        <masterprocess_6_2>0</masterprocess_6_2>
+        <masterprocess_6_3>0</masterprocess_6_3>
+        <masterprocess_6_4>0</masterprocess_6_4>
+        <masterprocess_6_5>0</masterprocess_6_5>
+        <masterprocess_6_6>0</masterprocess_6_6>
+        <masterprocess_6_7>0</masterprocess_6_7>
+        <masterprocess_6_8>0</masterprocess_6_8>
+        <masterprocess_6_9>0</masterprocess_6_9>
+        <masterprocess_6_10>0</masterprocess_6_10>
+        <masterprocess_7_0>0</masterprocess_7_0>
+        <masterprocess_7_1>0</masterprocess_7_1>
+        <masterprocess_7_2>0</masterprocess_7_2>
+        <masterprocess_7_3>0</masterprocess_7_3>
+        <masterprocess_7_4>0</masterprocess_7_4>
+        <masterprocess_7_5>0</masterprocess_7_5>
+        <masterprocess_7_6>0</masterprocess_7_6>
+        <masterprocess_7_7>0</masterprocess_7_7>
+        <masterprocess_7_8>0</masterprocess_7_8>
+        <masterprocess_7_9>0</masterprocess_7_9>
+        <masterprocess_7_10>0</masterprocess_7_10>
+    </defaultaudiosettings>
+    <skinsettings>
+        <setting id="skin.box.SideMenuTile2.ImageType" type="string"></setting>
+        <setting id="skin.box.SubMenu9Tile4.ImageType" type="string"></setting>
+        <setting id="skin.box.HomeMenu5.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu6Tile4.Image" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.4.SubTypeName" type="string">Episodes</setting>
+        <setting id="skin.1080xf.HomeProgramTile10.Animate" type="string"></setting>
+        <setting id="skin.box.SubMenu9Tile5.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu1Tile5.Path" type="string"></setting>
+        <setting id="skin.1080xf.HomeVideoTile2.ShowLabel" type="string"></setting>
+        <setting id="skin.sio2x.HomeFav.2.Icon" type="string"></setting>
+        <setting id="skin.box.SubMenu1Tile4.Image" type="string"></setting>
+        <setting id="skin.box.HomeWidget15.Layout" type="string"></setting>
+        <setting id="skin.sio2x.theatersshelf" type="string"></setting>
+        <setting id="skin.box.SubMenu7Tile4.ImageType" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.4.Resume" type="string">False</setting>
+        <setting id="skin.1080xf.HomeWidget.2.Method" type="string">Playlist</setting>
+        <setting id="skin.box.SubMenu14Tile3.ImageType" type="string"></setting>
+        <setting id="skin.box.HomeWidget9.Type" type="string"></setting>
+        <setting id="skin.1080xf.HomeMusicTile1.Path" type="string"></setting>
+        <setting id="skin.box.SubMenu3Tile2.ImageType" type="string"></setting>
+        <setting id="skin.box.SubMenu3Tile3.ImageType" type="string"></setting>
+        <setting id="skin.box.HomeWidget14.Label" type="string"></setting>
+        <setting id="skin.box.HomeMenu14.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu3Tile1.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu5Tile5.Image" type="string"></setting>
+        <setting id="skin.box.HomeWidget2.Layout" type="string">Poster</setting>
+        <setting id="skin.box.SubMenu7Tile3.Label" type="string"></setting>
+        <setting id="skin.sio2x.HomeAddon.11.Icon" type="string"></setting>
+        <setting id="skin.maximinimalism.globalBackground" type="string"></setting>
+        <setting id="skin.box.HomeWidget4.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu14Tile4.Label" type="string"></setting>
+        <setting id="skin.box.SideMenuTile9.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu10Tile5.ImageType" type="string"></setting>
+        <setting id="skin.sio2x.maps" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile2.Path" type="string"></setting>
+        <setting id="skin.1080xf.HomeMusicTile4.Animate" type="string"></setting>
+        <setting id="skin.box.HomeMenu13.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu14Tile1.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu2Tile1.Image" type="string"></setting>
+        <setting id="skin.box.MainMenu13.Path" type="string"></setting>
+        <setting id="skin.box.SubMenu3Tile2.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu1Tile1.Type" type="string">Movies</setting>
+        <setting id="skin.box.SubMenu4Tile1.Type" type="string"></setting>
+        <setting id="skin.sio2x.HomeAddon.6.Icon" type="string"></setting>
+        <setting id="skin.box.SubMenu13Tile5.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu7Tile4.Image" type="string"></setting>
+        <setting id="skin.box.HomeWidget13.Type" type="string"></setting>
+        <setting id="skin.sio2x.HomeAddon.2.Label" type="string"></setting>
+        <setting id="skin.box.HomeWidget12.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu15Tile2.Image" type="string"></setting>
+        <setting id="skin.box.SideMenuTile2.Image" type="string"></setting>
+        <setting id="skin.box.CustomHomeTile.ImageType" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.3.Type" type="string">service.skin.widgets</setting>
+        <setting id="skin.1080xf.HomeWidget.5.Playlist" type="string"></setting>
+        <setting id="skin.1080xf.HomeMusicMultiImage" type="string"></setting>
+        <setting id="skin.1080xf.HomeMusicTile6.Path" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.2.SubTypeName" type="string">Movies</setting>
+        <setting id="skin.box.SubMenu10Tile5.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu2Tile4.ImageType" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile3.ShowLabel" type="string"></setting>
+        <setting id="skin.box.CustomHomeTile.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu10Tile2.ImageType" type="string"></setting>
+        <setting id="skin.box.SideMenuTile11.Image" type="string"></setting>
+        <setting id="skin.sio2x.3dmovs" type="bool">false</setting>
+        <setting id="skin.sio2x.HideClock" type="bool">false</setting>
+        <setting id="skin.box.ActivateTvTunes" type="bool">false</setting>
+        <setting id="skin.maximinimalism.hideSearch" type="bool">false</setting>
+        <setting id="skin.1080xf.Guide.Custom2" type="bool">false</setting>
+        <setting id="skin.box.DebugInfo" type="bool">false</setting>
+        <setting id="skin.confluence.FirstTimeRun" type="bool">true</setting>
+        <setting id="skin.box.EnableEpisodesExtrafanart" type="bool">false</setting>
+        <setting id="skin.box.DebugGrid" type="bool">false</setting>
+        <setting id="skin.1080xf.HomeMusic" type="bool">false</setting>
+        <setting id="skin.sio2x.hidepic" type="bool">false</setting>
+        <setting id="skin.confluence.AutoScroll" type="bool">false</setting>
+        <setting id="skin.confluence.homepageWeatherinfo" type="bool">false</setting>
+        <setting id="skin.box.DisableArtistExtrafanartInNavigation" type="bool">false</setting>
+        <setting id="skin.box.EnableHomeMenu15" type="bool">false</setting>
+        <setting id="skin.box.EnableHomeMenu1" type="bool">true</setting>
+        <setting id="skin.1080xf.EPGGenreColors.Enabled" type="bool">false</setting>
+        <setting id="skin.box.moviewidelist" type="bool">false</setting>
+        <setting id="skin.box.DisableHomeFanart" type="bool">false</setting>
+        <setting id="skin.confluence.HomeMenuNoTVShowButton" type="bool">false</setting>
+        <setting id="skin.box.showHomeHiddenMenu" type="bool">false</setting>
+        <setting id="skin.box.HideHomeMenuIcons" type="bool">true</setting>
+        <setting id="skin.sio2x.hidevidroot" type="bool">false</setting>
+        <setting id="skin.maximinimalism.hidePictures" type="bool">false</setting>
+        <setting id="skin.box.EnableHomeMenu13" type="bool">false</setting>
+        <setting id="skin.sio2x.showtheater" type="bool">false</setting>
+        <setting id="skin.sio2x.sear" type="bool">false</setting>
+        <setting id="skin.maximinimalism.DebugInfo" type="bool">false</setting>
+        <setting id="skin.1080xf.GlobalRSS.Bottom" type="bool">false</setting>
+        <setting id="skin.box.EnableHomeMenu10" type="bool">false</setting>
+        <setting id="skin.box.EnableHomeMenu6" type="bool">false</setting>
+        <setting id="skin.sio2x.hidesett" type="bool">false</setting>
+        <setting id="skin.sio2x.AddonsShelf_Custom" type="bool">false</setting>
+        <setting id="skin.1080xf.Guide.Custom4" type="bool">false</setting>
+        <setting id="skin.maximinimalism.exitFirst" type="bool">false</setting>
+        <setting id="skin.1080xf.ArtistSlideShow.Enabled" type="bool">false</setting>
+        <setting id="skin.box.EnableHomeMenu8" type="bool">false</setting>
+        <setting id="skin.box.EnableTvShowNexAired" type="bool">false</setting>
+        <setting id="skin.sio2x.CustomImage" type="bool">false</setting>
+        <setting id="skin.1080xf.Guide.Custom3" type="bool">false</setting>
+        <setting id="skin.1080xf.HideHomeSubmenuArrow" type="bool">false</setting>
+        <setting id="skin.box.showViewOptions" type="bool">false</setting>
+        <setting id="skin.sio2x.hidetv" type="bool">false</setting>
+        <setting id="skin.sio2x.hidewtr" type="bool">false</setting>
+        <setting id="skin.confluence.HomeMenuNoWeatherButton" type="bool">false</setting>
+        <setting id="skin.box.EnableMoviesExtrafanart" type="bool">false</setting>
+        <setting id="skin.1080xf.HomePrograms" type="bool">false</setting>
+        <setting id="skin.box.showHomeCustomizationHiddenMenu" type="bool">false</setting>
+        <setting id="skin.box.EnableHomeMenu12" type="bool">false</setting>
+        <setting id="skin.box.EnableHomeMenu7" type="bool">false</setting>
+        <setting id="skin.confluence.homepageMusicinfo" type="bool">false</setting>
+        <setting id="skin.1080xf.HideHomeButtons" type="bool">false</setting>
+        <setting id="skin.sio2x.nextair" type="bool">false</setting>
+        <setting id="skin.sio2x.showdvdrel" type="bool">false</setting>
+        <setting id="skin.1080xf.OSDDefaultSubtitleButton.Enabled" type="bool">false</setting>
+        <setting id="skin.confluence.HideBackGroundFanart" type="bool">false</setting>
+        <setting id="skin.maximinimalism.lowPowerMode" type="bool">false</setting>
+        <setting id="skin.sio2x.hidemovie" type="bool">false</setting>
+        <setting id="skin.box.Fanart" type="bool">false</setting>
+        <setting id="skin.maximinimalism.hideFavourites" type="bool">false</setting>
+        <setting id="skin.confluence.HomeMenuNoMusicButton" type="bool">false</setting>
+        <setting id="skin.sio2x.naked" type="bool">false</setting>
+        <setting id="skin.1080xf.Guide.HideClock" type="bool">false</setting>
+        <setting id="skin.confluence.HomeMenuNoMovieButton" type="bool">false</setting>
+        <setting id="skin.maximinimalism.stopVideoOnMenu" type="bool">false</setting>
+        <setting id="skin.sio2x.hidevaddons" type="bool">false</setting>
+        <setting id="skin.1080xf.HomeWeather" type="bool">false</setting>
+        <setting id="skin.box.EnableHomeMenu14" type="bool">false</setting>
+        <setting id="skin.box.DisableHomeAnimations" type="bool">true</setting>
+        <setting id="skin.1080xf.NextAired.Update" type="bool">false</setting>
+        <setting id="skin.box.SubMenu12Tile5.ImageType" type="string"></setting>
+        <setting id="skin.box.SubMenu14Tile4.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu3Tile5.Type" type="string">MusicAddons</setting>
+        <setting id="skin.maximinimalism.videoFanartLocation" type="string"></setting>
+        <setting id="skin.box.SubMenu7Tile4.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu5Tile2.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu10Tile4.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu8Tile3.ImageType" type="string"></setting>
+        <setting id="skin.box.SubMenu13Tile4.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu4Tile3.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu4Tile2.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeMusicTile5.ShowLabel" type="string"></setting>
+        <setting id="skin.box.SideMenuTile4.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu12Tile4.Type" type="string"></setting>
+        <setting id="skin.1080xf.Guide.Custom1.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu11Tile1.Label" type="string"></setting>
+        <setting id="skin.sio2x.HomeAddon.4.Icon" type="string"></setting>
+        <setting id="skin.1080xf.GlobalBackdropSingle" type="string">special://skin/extras/backgrounds/01.jpg</setting>
+        <setting id="skin.box.SubMenu14Tile5.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu15Tile1.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeVideoTile5.Icon" type="string"></setting>
+        <setting id="skin.box.MainMenu11.Type" type="string"></setting>
+        <setting id="skin.1080xf.HomeSettingsMultiImage" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile3.Path" type="string"></setting>
+        <setting id="skin.box.SubMenu3Tile2.Label" type="string"></setting>
+        <setting id="skin.sio2x.HomeAddon.3.Label" type="string"></setting>
+        <setting id="skin.box.MainMenu14.Path" type="string"></setting>
+        <setting id="skin.sio2x.HomeAddon.5.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu2Tile3.ImageType" type="string"></setting>
+        <setting id="skin.box.SubMenu13Tile2.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu10Tile2.Type" type="string"></setting>
+        <setting id="skin.box.SideMenuTile7.Image" type="string"></setting>
+        <setting id="skin.1080xf.HomeTVShowTile3.Icon" type="string"></setting>
+        <setting id="skin.sio2x.HomeFav.2.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu10Tile3.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu8Tile2.ImageType" type="string"></setting>
+        <setting id="skin.box.SideMenuTile8.Type" type="string"></setting>
+        <setting id="skin.1080xf.HomeWeatherSingleImage" type="string"></setting>
+        <setting id="skin.box.SideMenuTile13.Type" type="string"></setting>
+        <setting id="skin.sio2x.HomeAddon.1.Icon" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.2.TypeName" type="string">Ongoing tv shows</setting>
+        <setting id="skin.box.SubMenu15Tile5.Image" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile1.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeTVShowTile3.ShowLabel" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile10.Icon" type="string"></setting>
+        <setting id="skin.box.HomeWidget11.Label" type="string"></setting>
+        <setting id="skin.box.MainMenu9.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu5Tile2.Image" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.1.SubTypeName" type="string">Movies</setting>
+        <setting id="skin.box.SubMenu2Tile2.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeHomeTile2.Icon" type="string"></setting>
+        <setting id="skin.1080xf.HomeVideoTile1.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeMusicTile6.Animate" type="string"></setting>
+        <setting id="skin.box.SideMenuTile7.ImageType" type="string"></setting>
+        <setting id="skin.box.SubMenu14Tile2.ImageType" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile4.Animate" type="string"></setting>
+        <setting id="skin.box.HomeMenu2.Label" type="string">Tv Shows</setting>
+        <setting id="skin.box.HomeWidget14.Layout" type="string"></setting>
+        <setting id="skin.box.SubMenu2Tile4.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu9Tile1.Type" type="string"></setting>
+        <setting id="skin.confluence.HomeVideosButton4" type="string"></setting>
+        <setting id="skin.1080xf.HomeMusicTile2.ShowLabel" type="string"></setting>
+        <setting id="skin.sio2x.HomeAddon.5.Icon" type="string"></setting>
+        <setting id="skin.box.SubMenu14Tile3.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu1Tile5.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeTVShowTile4.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu6Tile3.ImageType" type="string"></setting>
+        <setting id="skin.sio2x.addonsshelf" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.3.TypeName" type="string">New movies</setting>
+        <setting id="skin.box.HomeMenu8.Label" type="string"></setting>
+        <setting id="skin.confluence.HomeProgramButton3" type="string"></setting>
+        <setting id="skin.box.SubMenu3Tile3.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu1Tile5.Image" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.1.Resume" type="string">False</setting>
+        <setting id="skin.box.SelectedMainMenu" type="string">MainMenu1</setting>
+        <setting id="skin.box.SubMenu7Tile1.Type" type="string"></setting>
+        <setting id="skin.1080xf.HomeMusicTile1.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeMusicTile3.Icon" type="string"></setting>
+        <setting id="skin.sio2x.ShelfCustomImage" type="string"></setting>
+        <setting id="skin.box.SubMenu14Tile2.Image" type="string"></setting>
+        <setting id="skin.box.SideMenuTile5.Type" type="string">Settings</setting>
+        <setting id="skin.box.SubMenu7Tile5.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu2Tile3.Type" type="string">RecentylAddedEpisodes</setting>
+        <setting id="skin.1080xf.HomeVideoTile5.Animate" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramsSingleImage" type="string"></setting>
+        <setting id="skin.1080xf.HomeVideoTile6.ShowLabel" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.1.UnWatched" type="string">False</setting>
+        <setting id="skin.box.SubMenu12Tile5.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu1Tile3.Type" type="string">RecentylAddedMovies</setting>
+        <setting id="skin.box.SubMenu6Tile3.Type" type="string"></setting>
+        <setting id="skin.box.CustomHomeTile.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu3Tile4.Type" type="string">MusicFiles</setting>
+        <setting id="skin.sio2x.HomeFav.7.Label" type="string"></setting>
+        <setting id="skin.box.HomeMenu6.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu1Tile3.ImageType" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile6.Path" type="string"></setting>
+        <setting id="skin.box.HomeMenu6.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu4Tile2.ImageType" type="string"></setting>
+        <setting id="skin.1080xf.HomeVideoTile2.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu4Tile4.ImageType" type="string"></setting>
+        <setting id="skin.maximinimalism.gameFanartLocation" type="string"></setting>
+        <setting id="skin.sio2x.HomeFav.8.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu8Tile5.Label" type="string"></setting>
+        <setting id="skin.box.SideMenuTile9.ImageType" type="string"></setting>
+        <setting id="skin.box.SubMenu8Tile4.ImageType" type="string"></setting>
+        <setting id="skin.box.SubMenu5Tile3.Type" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile1.Animate" type="string"></setting>
+        <setting id="skin.box.SubMenu7Tile5.Type" type="string"></setting>
+        <setting id="skin.box.SideMenuTile11.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu4Tile1.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu1Tile5.Type" type="string">VideoAddons</setting>
+        <setting id="skin.1080xf.HomeWidget.5.TypeName" type="string">Featured albums</setting>
+        <setting id="skin.box.SubMenu2Tile4.Type" type="string">VideoLibrary</setting>
+        <setting id="skin.1080xf.HomeHomeTile1.Icon" type="string"></setting>
+        <setting id="skin.box.SubMenu6Tile2.ImageType" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.1.SubType" type="string">Movie</setting>
+        <setting id="skin.box.SubMenu14Tile5.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile8.Icon" type="string"></setting>
+        <setting id="skin.box.SideMenuTile10.ImageType" type="string"></setting>
+        <setting id="skin.sio2x.HomeAddon.10.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeTVShowTile1.Path" type="string"></setting>
+        <setting id="skin.box.SubMenu1Tile4.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile10.Path" type="string"></setting>
+        <setting id="skin.1080xf.HomeTVShowTile2.Path" type="string"></setting>
+        <setting id="skin.box.HomeMenu13.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu2Tile3.Image" type="string"></setting>
+        <setting id="skin.confluence.HomePictureButton1" type="string"></setting>
+        <setting id="skin.box.SubMenu1Tile2.ImageType" type="string"></setting>
+        <setting id="skin.box.SubMenu10Tile5.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu15Tile5.ImageType" type="string"></setting>
+        <setting id="skin.box.MainMenu3.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu10Tile2.Image" type="string"></setting>
+        <setting id="skin.box.SideMenuTile13.Image" type="string"></setting>
+        <setting id="skin.box.SideMenuTile6.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu13Tile5.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu15Tile5.Type" type="string"></setting>
+        <setting id="skin.box.HomeMenu10.Image" type="string"></setting>
+        <setting id="skin.box.HomeWidget15.Label" type="string"></setting>
+        <setting id="skin.sio2x.HomeFav.1.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu15Tile3.Label" type="string"></setting>
+        <setting id="skin.box.SideMenuTile1.Label" type="string"></setting>
+        <setting id="skin.sio2x.dvdsshelf" type="string"></setting>
+        <setting id="skin.box.SubMenu1Tile2.Image" type="string"></setting>
+        <setting id="skin.box.SideMenuTile14.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.4.Playlist" type="string"></setting>
+        <setting id="skin.sio2x.HomeFav.3.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu2Tile1.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu9Tile2.ImageType" type="string"></setting>
+        <setting id="skin.sio2x.TVshelf" type="string"></setting>
+        <setting id="skin.1080xf.HomeMusicTile3.Animate" type="string"></setting>
+        <setting id="skin.box.SubMenu5Tile3.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu9Tile3.Image" type="string"></setting>
+        <setting id="skin.box.SideMenuTile10.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeMusicTile4.ShowLabel" type="string"></setting>
+        <setting id="skin.box.SubMenu11Tile3.Image" type="string"></setting>
+        <setting id="skin.box.HomeWidget6.Type" type="string"></setting>
+        <setting id="skin.sio2x.HomeFav.5.Icon" type="string"></setting>
+        <setting id="skin.1080xf.Guide.Custom3.Label" type="string"></setting>
+        <setting id="skin.confluence.HomeProgramButton2" type="string"></setting>
+        <setting id="skin.box.SubMenu11Tile3.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.2.UnWatched" type="string">False</setting>
+        <setting id="skin.1080xf.HomeTVShowTile2.Label" type="string"></setting>
+        <setting id="skin.sio2x.HomeFav.5.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeTVShowTile2.Animate" type="string"></setting>
+        <setting id="skin.box.HomeWidget12.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.4.SubType" type="string">Episode</setting>
+        <setting id="skin.1080xf.HomeProgramTile3.Icon" type="string"></setting>
+        <setting id="skin.1080xf.HomeMusicTile5.Path" type="string"></setting>
+        <setting id="skin.box.SubMenu5Tile5.Type" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile6.ShowLabel" type="string"></setting>
+        <setting id="skin.box.SideMenuTile12.ImageType" type="string"></setting>
+        <setting id="skin.box.SubMenu5Tile2.ImageType" type="string"></setting>
+        <setting id="skin.box.HomeWidget4.Layout" type="string"></setting>
+        <setting id="skin.box.SubMenu8Tile4.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.2.Playlist" type="string"></setting>
+        <setting id="skin.confluence.HomeVideosButton2" type="string"></setting>
+        <setting id="skin.box.HomeMenu15.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu7Tile2.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu4Tile3.Type" type="string"></setting>
+        <setting id="skin.1080xf.HomeMusicTile5.Label" type="string"></setting>
+        <setting id="skin.box.SideMenuTile8.Image" type="string"></setting>
+        <setting id="skin.sio2x.CustomBgHome" type="string"></setting>
+        <setting id="skin.box.MainMenu7.Type" type="string"></setting>
+        <setting id="skin.1080xf.music.name" type="string">Library</setting>
+        <setting id="skin.box.MainMenu11.Path" type="string"></setting>
+        <setting id="skin.box.SubMenu5Tile4.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.2.Type" type="string">service.skin.widgets</setting>
+        <setting id="skin.box.SubMenu9Tile2.Image" type="string"></setting>
+        <setting id="skin.1080xf.HomeTVShowTile4.Animate" type="string"></setting>
+        <setting id="skin.1080xf.HomeHomeTile2.Animate" type="string"></setting>
+        <setting id="skin.box.HomeMenu2.Image" type="string">HomeIcons/TvShows.png</setting>
+        <setting id="skin.1080xf.HomeWidget.1.TypeName" type="string">Spotlight</setting>
+        <setting id="skin.1080xf.HomeTVShowTile4.ShowLabel" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.1.Type" type="string">service.skin.widgets</setting>
+        <setting id="skin.box.SubMenu6Tile4.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu12Tile4.ImageType" type="string"></setting>
+        <setting id="skin.1080xf.HomeVideoTile2.Path" type="string"></setting>
+        <setting id="skin.box.HomeWidget4.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu13Tile1.Image" type="string"></setting>
+        <setting id="skin.box.HomeWidget7.Label" type="string"></setting>
+        <setting id="skin.box.HomeMenu11.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu7Tile5.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeSettingsSingleImage" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile2.Icon" type="string"></setting>
+        <setting id="skin.box.SubMenu11Tile5.ImageType" type="string"></setting>
+        <setting id="skin.1080xf.HomeMusicTile3.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu7Tile4.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu12Tile4.Image" type="string"></setting>
+        <setting id="skin.box.HomeWidget8.Layout" type="string"></setting>
+        <setting id="skin.confluence.HomeMusicButton1" type="string"></setting>
+        <setting id="skin.box.SubMenu11Tile2.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeHomeTile1.ShowLabel" type="string"></setting>
+        <setting id="skin.box.SubMenu4Tile5.ImageType" type="string"></setting>
+        <setting id="skin.1080xf.HomeMusicTile2.Label" type="string"></setting>
+        <setting id="skin.box.SideMenuTile3.Image" type="string"></setting>
+        <setting id="skin.box.HomeWidget12.Layout" type="string"></setting>
+        <setting id="skin.box.SubMenu8Tile1.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu15Tile4.Image" type="string"></setting>
+        <setting id="skin.confluence.CustomBackgroundPath" type="string"></setting>
+        <setting id="skin.box.SubMenu11Tile1.Image" type="string"></setting>
+        <setting id="skin.1080xf.HomeTVShowTile1.Animate" type="string"></setting>
+        <setting id="skin.confluence.HomeVideosButton3" type="string"></setting>
+        <setting id="skin.box.SideMenuTile2.Type" type="string">Pictures</setting>
+        <setting id="skin.box.HomeWidget9.Layout" type="string"></setting>
+        <setting id="skin.box.MainMenu15.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu14Tile1.Label" type="string"></setting>
+        <setting id="skin.box.HomeWidget1.Layout" type="string">Poster</setting>
+        <setting id="skin.box.SubMenu4Tile2.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu10Tile3.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu12Tile1.Image" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.3.UnWatched" type="string">False</setting>
+        <setting id="skin.box.SubMenu7Tile2.Label" type="string"></setting>
+        <setting id="skin.box.HomeWidget1.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu3Tile4.Label" type="string"></setting>
+        <setting id="skin.box.SideMenuTile1.Type" type="string">Weather</setting>
+        <setting id="skin.box.SubMenu9Tile2.Label" type="string"></setting>
+        <setting id="skin.box.SideMenuTile6.Type" type="string">Shutdown</setting>
+        <setting id="skin.box.SubMenu7Tile2.ImageType" type="string"></setting>
+        <setting id="skin.box.SideMenuTile5.ImageType" type="string"></setting>
+        <setting id="skin.box.SideMenuTile9.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu12Tile5.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu7Tile1.Image" type="string"></setting>
+        <setting id="skin.box.ArtistsFanartPath" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.5.Method" type="string">Playlist</setting>
+        <setting id="skin.confluence.HomePictureButton2" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile4.Path" type="string"></setting>
+        <setting id="skin.box.SubMenu12Tile5.Type" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.3.Method" type="string">Playlist</setting>
+        <setting id="skin.1080xf.HomeHomeTile2.ShowLabel" type="string"></setting>
+        <setting id="skin.box.SubMenu7Tile3.Type" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.4.Method" type="string">Playlist</setting>
+        <setting id="skin.box.SubMenu1Tile2.Type" type="string">MovieLibrary</setting>
+        <setting id="skin.sio2x.HomeAddon.1.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu14Tile3.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile9.Icon" type="string"></setting>
+        <setting id="skin.1080xf.HomeMusicTile4.Label" type="string"></setting>
+        <setting id="skin.box.SideMenuTile14.Image" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile2.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu4Tile4.Type" type="string"></setting>
+        <setting id="skin.box.MainMenu12.Path" type="string"></setting>
+        <setting id="skin.box.SubMenu6Tile2.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu14Tile3.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu4Tile5.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu5Tile3.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu15Tile2.ImageType" type="string"></setting>
+        <setting id="skin.box.HomeWidget5.Label" type="string"></setting>
+        <setting id="skin.sio2x.HomeFav.7.Icon" type="string"></setting>
+        <setting id="skin.1080xf.HomeHomeTile1.Animate" type="string"></setting>
+        <setting id="skin.box.HomeMenu1.Image" type="string">HomeIcons/Movies.png</setting>
+        <setting id="skin.box.SubMenu5Tile4.Type" type="string"></setting>
+        <setting id="skin.confluence.HomePictureButton5" type="string"></setting>
+        <setting id="skin.box.SubMenu2Tile5.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu13Tile4.ImageType" type="string"></setting>
+        <setting id="skin.box.SubMenu5Tile5.ImageType" type="string"></setting>
+        <setting id="skin.1080xf.HomeVideoTile6.Icon" type="string"></setting>
+        <setting id="skin.box.SubMenu10Tile4.Image" type="string"></setting>
+        <setting id="skin.1080xf.GlobalBackdropMulti" type="string"></setting>
+        <setting id="skin.1080xf.HomeTVShowTile3.Animate" type="string"></setting>
+        <setting id="skin.1080xf.HomeVideoTile2.Icon" type="string"></setting>
+        <setting id="skin.box.SubMenu2Tile2.ImageType" type="string"></setting>
+        <setting id="skin.box.HomeMenu11.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu7Tile3.ImageType" type="string"></setting>
+        <setting id="skin.box.SideMenuTile12.Image" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.3.SubTypeName" type="string">Movies</setting>
+        <setting id="skin.1080xf.HomeMusicTile5.Animate" type="string"></setting>
+        <setting id="skin.confluence.HomeProgramButton1" type="string"></setting>
+        <setting id="skin.box.CustomHomeTile.Image" type="string"></setting>
+        <setting id="skin.box.SideMenuTile10.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu12Tile3.ImageType" type="string"></setting>
+        <setting id="skin.1080xf.SubtitleScript_Path" type="string"></setting>
+        <setting id="skin.box.SubMenu12Tile2.Type" type="string"></setting>
+        <setting id="skin.confluence.HomeMusicButton5" type="string"></setting>
+        <setting id="skin.sio2x.HomeAddon.7.Label" type="string"></setting>
+        <setting id="skin.box.HomeWidget14.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu8Tile3.Label" type="string"></setting>
+        <setting id="skin.sio2x.HomeAddon.8.Icon" type="string"></setting>
+        <setting id="skin.box.SubMenu14Tile4.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu14Tile2.Label" type="string"></setting>
+        <setting id="skin.box.HomeWidget6.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu10Tile1.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu9Tile5.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu8Tile5.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu1Tile5.ImageType" type="string"></setting>
+        <setting id="skin.box.MainMenu3.Path" type="string"></setting>
+        <setting id="skin.box.MainMenu15.Path" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.2.SubType" type="string">Movie</setting>
+        <setting id="skin.1080xf.HomeHomeTile2.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile9.ShowLabel" type="string"></setting>
+        <setting id="skin.box.SubMenu8Tile3.Image" type="string"></setting>
+        <setting id="skin.box.HomeWidget5.Layout" type="string"></setting>
+        <setting id="skin.1080xf.HomeTVShowTile3.Path" type="string"></setting>
+        <setting id="skin.1080xf.HomeMusicTile4.Path" type="string"></setting>
+        <setting id="skin.1080xf.HomeTVShowsMultiImage" type="string"></setting>
+        <setting id="skin.box.HomeMenu9.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu11Tile4.ImageType" type="string"></setting>
+        <setting id="skin.box.SideMenuTile11.ImageType" type="string"></setting>
+        <setting id="skin.1080xf.HomeMoviesMultiImage" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile8.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu10Tile2.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeTVShowTile1.Icon" type="string"></setting>
+        <setting id="skin.box.SubMenu15Tile1.Image" type="string"></setting>
+        <setting id="skin.1080xf.HomeVideoTile1.Icon" type="string"></setting>
+        <setting id="skin.box.SubMenu1Tile1.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu13Tile1.Type" type="string"></setting>
+        <setting id="skin.box.FirstSkinRun" type="string">Configured</setting>
+        <setting id="skin.box.SelectedHomeTitle" type="string">SubMenu1Tile1</setting>
+        <setting id="skin.box.SubMenu13Tile1.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu2Tile2.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu12Tile2.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu8Tile1.Label" type="string"></setting>
+        <setting id="skin.box.SideMenuTile13.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu5Tile4.ImageType" type="string"></setting>
+        <setting id="skin.1080xf.HomeVideoTile1.ShowLabel" type="string"></setting>
+        <setting id="skin.box.SubMenu10Tile1.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu6Tile5.ImageType" type="string"></setting>
+        <setting id="skin.box.HomeMenu3.Label" type="string">Music</setting>
+        <setting id="skin.box.SubMenu15Tile3.ImageType" type="string"></setting>
+        <setting id="skin.box.SubMenu12Tile2.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeVideoTile5.ShowLabel" type="string"></setting>
+        <setting id="skin.box.MainMenu14.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu10Tile3.Image" type="string"></setting>
+        <setting id="skin.sio2x.HomeFav.4.Icon" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.4.TypeName" type="string">New tv shows</setting>
+        <setting id="skin.box.SideMenuTile3.ImageType" type="string"></setting>
+        <setting id="skin.box.SubMenu9Tile3.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu1Tile2.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeMoviesSingleImage" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.1.Playlist" type="string"></setting>
+        <setting id="skin.box.SubMenu15Tile1.Type" type="string"></setting>
+        <setting id="skin.box.SideMenuTile7.Label" type="string"></setting>
+        <setting id="skin.box.HomeWidget3.Type" type="string">RecentAlbums</setting>
+        <setting id="skin.box.SubMenu10Tile1.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu10Tile5.Type" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile1.Path" type="string"></setting>
+        <setting id="skin.box.SubMenu7Tile1.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu13Tile3.Image" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile3.Animate" type="string"></setting>
+        <setting id="skin.box.SubMenu1Tile3.Label" type="string"></setting>
+        <setting id="skin.sio2x.HomeAddon.12.Icon" type="string"></setting>
+        <setting id="skin.1080xf.HomeMusicTile6.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu12Tile1.Type" type="string"></setting>
+        <setting id="skin.box.HideNewEpisodes" type="bool">false</setting>
+        <setting id="skin.sio2x.Scrollbars_Passive" type="bool">false</setting>
+        <setting id="skin.box.ThemeBackgroundColor" type="bool">false</setting>
+        <setting id="skin.sio2x.kiosk" type="bool">false</setting>
+        <setting id="skin.1080xf.OSDVisualisation.Enabled" type="bool">false</setting>
+        <setting id="skin.maximinimalism.hidePrograms" type="bool">false</setting>
+        <setting id="skin.confluence.ShowBackgroundVideo" type="bool">false</setting>
+        <setting id="skin.confluence.Use_Startup_Playlist" type="bool">false</setting>
+        <setting id="skin.box.EnableHomeMenu11" type="bool">false</setting>
+        <setting id="skin.sio2x.noinfosicon" type="bool">false</setting>
+        <setting id="skin.1080xf.Guide.HideUserImage" type="bool">false</setting>
+        <setting id="skin.1080xf.HideHomeProfileInfo" type="bool">false</setting>
+        <setting id="skin.sio2x.hideSources" type="bool">false</setting>
+        <setting id="skin.box.tvshowwidelist" type="bool">false</setting>
+        <setting id="skin.box.showNowPlayingOnHome" type="bool">false</setting>
+        <setting id="skin.1080xf.HideFanart" type="bool">false</setting>
+        <setting id="skin.sio2x.PicturesShelf_Custom" type="bool">false</setting>
+        <setting id="skin.box.PlayingVideoOnBackground" type="bool">false</setting>
+        <setting id="skin.box.EnableHomeMenu9" type="bool">false</setting>
+        <setting id="skin.1080xf.MovieInformation.PlayTrailer" type="bool">false</setting>
+        <setting id="skin.box.episodewidelist" type="bool">false</setting>
+        <setting id="skin.1080xf.HomeTVShows" type="bool">false</setting>
+        <setting id="skin.1080xf.BackgroundVideo" type="bool">false</setting>
+        <setting id="skin.box.EnableHomeMenu2" type="bool">true</setting>
+        <setting id="skin.confluence.HomeMenuNoVideosButton" type="bool">false</setting>
+        <setting id="skin.box.EnableHomeMenu4" type="bool">false</setting>
+        <setting id="skin.box.musicwidelist" type="bool">false</setting>
+        <setting id="skin.confluence.HomepageHideRecentlyAddedAlbums" type="bool">false</setting>
+        <setting id="skin.box.EnableTvShowsExtrafanart" type="bool">false</setting>
+        <setting id="skin.1080xf.OSDVisualisation.ShowFanart" type="bool">false</setting>
+        <setting id="skin.box.Visualization" type="bool">false</setting>
+        <setting id="skin.1080xf.AutoScroll.Disable" type="bool">false</setting>
+        <setting id="skin.box.ShowIconSelector" type="bool">false</setting>
+        <setting id="skin.maximinimalism.DebugGrid" type="bool">false</setting>
+        <setting id="skin.sio2x.XBMC3" type="bool">false</setting>
+        <setting id="skin.1080xf.HideShutdownButton" type="bool">false</setting>
+        <setting id="skin.box.EnableSeasonsExtrafanart" type="bool">false</setting>
+        <setting id="skin.1080xf.Guide.Custom1" type="bool">false</setting>
+        <setting id="skin.confluence.HomepageHideRecentlyAddedVideo" type="bool">false</setting>
+        <setting id="skin.box.EnableHomeMenu3" type="bool">true</setting>
+        <setting id="skin.confluence.HomeMenuNoProgramsButton" type="bool">false</setting>
+        <setting id="skin.1080xf.GlobalRSS.Top" type="bool">false</setting>
+        <setting id="skin.1080xf.KioskMode" type="bool">false</setting>
+        <setting id="skin.sio2x.hidebro" type="bool">false</setting>
+        <setting id="skin.sio2x.hidemusic" type="bool">false</setting>
+        <setting id="skin.maximinimalism.hideMusic" type="bool">false</setting>
+        <setting id="skin.1080xf.OSDMusicAlt.Enabled" type="bool">false</setting>
+        <setting id="skin.sio2x.hidefav" type="bool">false</setting>
+        <setting id="skin.confluence.homepageVideoinfo" type="bool">false</setting>
+        <setting id="skin.box.DisplayWeatherInfo" type="bool">false</setting>
+        <setting id="skin.sio2x.colormenu" type="bool">false</setting>
+        <setting id="skin.sio2x.cpudebug" type="bool">false</setting>
+        <setting id="skin.confluence.UseCustomBackground" type="bool">false</setting>
+        <setting id="skin.1080xf.Skin.Initialization" type="bool">true</setting>
+        <setting id="skin.maximinimalism.hideVideo" type="bool">false</setting>
+        <setting id="skin.sio2x.CustomBg" type="bool">false</setting>
+        <setting id="skin.box.musicartistswidelist" type="bool">false</setting>
+        <setting id="skin.1080xf.StartupPlaylist" type="bool">false</setting>
+        <setting id="skin.1080xf.PlayTrailer.Minimized" type="bool">false</setting>
+        <setting id="skin.1080xf.SpinControl.Default" type="bool">false</setting>
+        <setting id="skin.1080xf.AutoMusicFullscreen.Enabled" type="bool">false</setting>
+        <setting id="skin.1080xf.NextAired.Enabled" type="bool">false</setting>
+        <setting id="skin.sio2x.no3d" type="bool">false</setting>
+        <setting id="skin.1080xf.UpdateArt.Enabled" type="bool">false</setting>
+        <setting id="skin.confluence.ShowBackgroundVis" type="bool">false</setting>
+        <setting id="skin.1080xf.ShowWeatherFanart" type="bool">false</setting>
+        <setting id="skin.box.DisplayScrollingText" type="bool">false</setting>
+        <setting id="skin.maximinimalism.disableFullscreenMusicBackground" type="bool">false</setting>
+        <setting id="skin.sio2x.PVRhide" type="bool">false</setting>
+        <setting id="skin.maximinimalism.hideGames" type="bool">false</setting>
+        <setting id="skin.sio2x.ViewsMenuOff" type="bool">false</setting>
+        <setting id="skin.confluence.HomeMenuNoPicturesButton" type="bool">false</setting>
+        <setting id="skin.sio2x.hidevidhelp" type="bool">false</setting>
+        <setting id="skin.sio2x.hideconnection" type="bool">false</setting>
+        <setting id="skin.maximinimalism.useGlobalFanartBackground" type="bool">false</setting>
+        <setting id="skin.sio2x.MusicShelf_Custom" type="bool">false</setting>
+        <setting id="skin.1080xf.TVTunes.Enabled" type="bool">false</setting>
+        <setting id="skin.1080xf.ArtistSlideShow.Animate" type="bool">false</setting>
+        <setting id="skin.1080xf.HideOptionsButton" type="bool">false</setting>
+        <setting id="skin.1080xf.HomeMovies" type="bool">false</setting>
+        <setting id="skin.sio2x.hideaddon" type="bool">false</setting>
+        <setting id="skin.1080xf.VideoOSD.OnTop" type="bool">false</setting>
+        <setting id="skin.box.EnableHomeMenu5" type="bool">false</setting>
+        <setting id="skin.box.EnableArtistSlideshowAddon" type="bool">false</setting>
+        <setting id="skin.box.HomeMenu15.Image" type="string"></setting>
+        <setting id="skin.confluence.HomePictureButton3" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile4.Icon" type="string"></setting>
+        <setting id="skin.box.HomeWidget2.Label" type="string"></setting>
+        <setting id="skin.box.MainMenu4.Type" type="string"></setting>
+        <setting id="skin.box.SideMenuTile5.Image" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile7.Animate" type="string"></setting>
+        <setting id="skin.box.SubMenu1Tile4.Type" type="string">VideoLibrary</setting>
+        <setting id="skin.1080xf.HomeProgramTile2.ShowLabel" type="string"></setting>
+        <setting id="skin.box.SubMenu4Tile4.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu9Tile3.ImageType" type="string"></setting>
+        <setting id="skin.box.SubMenu2Tile5.Type" type="string">VideoAddons</setting>
+        <setting id="skin.1080xf.HomeMusicTile3.ShowLabel" type="string"></setting>
+        <setting id="skin.box.SideMenuTile10.Image" type="string"></setting>
+        <setting id="skin.1080xf.rss.setting" type="string">Disabled</setting>
+        <setting id="skin.1080xf.HomeTVShowTile4.Path" type="string"></setting>
+        <setting id="skin.box.SubMenu3Tile3.Type" type="string">Artists</setting>
+        <setting id="skin.sio2x.HomeFav.4.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile6.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeTVShowTile1.Label" type="string"></setting>
+        <setting id="skin.box.SideMenuTile5.Label" type="string"></setting>
+        <setting id="skin.confluence.HomeMusicButton2" type="string"></setting>
+        <setting id="skin.box.MainMenu12.Type" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.3.SubType" type="string">Movie</setting>
+        <setting id="skin.box.SubMenu2Tile1.Type" type="string">TvShows</setting>
+        <setting id="skin.1080xf.HomeMusicSingleImage" type="string"></setting>
+        <setting id="skin.box.SubMenu1Tile4.ImageType" type="string"></setting>
+        <setting id="skin.1080xf.HomeVideoTile1.Animate" type="string"></setting>
+        <setting id="skin.box.HomeWidget5.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu11Tile2.Image" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile6.Icon" type="string"></setting>
+        <setting id="skin.sio2x.HomeAddon.9.Icon" type="string"></setting>
+        <setting id="skin.box.SubMenu8Tile3.Type" type="string"></setting>
+        <setting id="skin.box.MainMenu8.Path" type="string"></setting>
+        <setting id="skin.box.SubMenu15Tile4.Type" type="string"></setting>
+        <setting id="skin.1080xf.HomeVideoTile2.Animate" type="string"></setting>
+        <setting id="skin.box.SubMenu5Tile5.Label" type="string"></setting>
+        <setting id="skin.box.MainMenu10.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu6Tile4.ImageType" type="string"></setting>
+        <setting id="skin.box.SubMenu13Tile2.Type" type="string"></setting>
+        <setting id="skin.box.HomeWidget13.Layout" type="string"></setting>
+        <setting id="skin.box.MainMenu2.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu3Tile2.Type" type="string">MusicLibrary</setting>
+        <setting id="skin.1080xf.HomeWidget.5.Type" type="string">service.skin.widgets.random</setting>
+        <setting id="skin.box.HomeMenu4.Label" type="string"></setting>
+        <setting id="skin.box.HomeWidget6.Layout" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile4.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile5.Label" type="string"></setting>
+        <setting id="skin.box.SideMenuTile1.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu8Tile5.ImageType" type="string"></setting>
+        <setting id="skin.box.SubMenu8Tile4.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu15Tile4.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu2Tile5.Label" type="string"></setting>
+        <setting id="skin.box.HomeWidget2.Type" type="string">RecentTvShows</setting>
+        <setting id="skin.1080xf.HomeTVShowTile2.ShowLabel" type="string"></setting>
+        <setting id="skin.box.SideMenuTile8.ImageType" type="string"></setting>
+        <setting id="skin.box.SideMenuTile4.Type" type="string">Favourites</setting>
+        <setting id="skin.box.SubMenu11Tile3.ImageType" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.1.Method" type="string">Playlist</setting>
+        <setting id="skin.1080xf.HomeWidget.2.Resume" type="string">False</setting>
+        <setting id="skin.box.HomeWidget10.Layout" type="string"></setting>
+        <setting id="skin.box.SubMenu5Tile1.Label" type="string"></setting>
+        <setting id="skin.box.MainMenu6.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu8Tile4.Type" type="string"></setting>
+        <setting id="skin.box.HomeMenu14.Image" type="string"></setting>
+        <setting id="skin.box.MainMenu4.Path" type="string"></setting>
+        <setting id="skin.box.SubMenu6Tile3.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu5Tile1.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu14Tile5.ImageType" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramsMultiImage" type="string"></setting>
+        <setting id="skin.box.SubMenu2Tile5.ImageType" type="string"></setting>
+        <setting id="skin.box.SubMenu15Tile3.Image" type="string"></setting>
+        <setting id="skin.1080xf.WeatherFanartDir" type="string"></setting>
+        <setting id="skin.box.SubMenu15Tile5.Label" type="string"></setting>
+        <setting id="skin.box.HomeMenu7.Label" type="string"></setting>
+        <setting id="skin.box.SideMenuTile3.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu9Tile1.Label" type="string"></setting>
+        <setting id="skin.confluence.HomeMusicButton3" type="string"></setting>
+        <setting id="skin.box.SideMenuTile12.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu6Tile4.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu11Tile3.Type" type="string"></setting>
+        <setting id="skin.box.HomeWidget3.Layout" type="string">Cover</setting>
+        <setting id="skin.1080xf.HomeProgramTile1.Icon" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.5.SubTypeName" type="string">Music</setting>
+        <setting id="skin.box.SideMenuTile14.Type" type="string"></setting>
+        <setting id="skin.box.MainMenu6.Path" type="string"></setting>
+        <setting id="skin.box.SubMenu6Tile5.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu15Tile4.ImageType" type="string"></setting>
+        <setting id="skin.box.HomeWidget7.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu9Tile4.Image" type="string"></setting>
+        <setting id="skin.box.MainMenu9.Path" type="string"></setting>
+        <setting id="skin.box.SelectedHomeWidget" type="string">HomeWidget1</setting>
+        <setting id="skin.1080xf.HomeMusicTile4.Icon" type="string"></setting>
+        <setting id="skin.box.SubMenu4Tile2.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu8Tile1.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu13Tile3.Label" type="string"></setting>
+        <setting id="skin.confluence.HomeProgramButton5" type="string"></setting>
+        <setting id="skin.sio2x.HomeAddon.6.Label" type="string"></setting>
+        <setting id="skin.box.MainMenu10.Path" type="string"></setting>
+        <setting id="skin.box.SideMenuTile11.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu14Tile4.ImageType" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile2.Animate" type="string"></setting>
+        <setting id="skin.box.SubMenu14Tile5.Image" type="string"></setting>
+        <setting id="skin.1080xf.HomeMusicTile1.Icon" type="string"></setting>
+        <setting id="skin.sio2x.HomeFav.1.Icon" type="string"></setting>
+        <setting id="skin.1080xf.HomeVideoTile1.Path" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile3.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile8.ShowLabel" type="string"></setting>
+        <setting id="skin.box.MainMenu5.Path" type="string"></setting>
+        <setting id="skin.box.SubMenu8Tile5.Type" type="string"></setting>
+        <setting id="skin.1080xf.HomeVideoTile6.Path" type="string"></setting>
+        <setting id="skin.box.MainMenu13.Type" type="string"></setting>
+        <setting id="skin.box.HomeWidget9.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu3Tile4.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu6Tile1.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu6Tile5.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu4Tile3.ImageType" type="string"></setting>
+        <setting id="skin.box.SubMenu9Tile4.Label" type="string"></setting>
+        <setting id="skin.box.SideMenuTile3.Type" type="string">Programs</setting>
+        <setting id="skin.box.SubMenu2Tile4.Label" type="string"></setting>
+        <setting id="skin.confluence.HomeVideosButton5" type="string"></setting>
+        <setting id="skin.confluence.HomeProgramButton4" type="string"></setting>
+        <setting id="skin.box.HomeWidget10.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu4Tile3.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu9Tile3.Type" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.3.Resume" type="string">False</setting>
+        <setting id="skin.box.SubMenu8Tile2.Label" type="string"></setting>
+        <setting id="skin.sio2x.unwatchedbadge" type="bool">false</setting>
+        <setting id="skin.box.SideMenuTile2.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeHomeTile1.Label" type="string"></setting>
+        <setting id="skin.box.SideMenuTile4.ImageType" type="string"></setting>
+        <setting id="skin.box.SubMenu6Tile2.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu11Tile5.Type" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile7.ShowLabel" type="string"></setting>
+        <setting id="skin.1080xf.HomeHomeSingleImage" type="string"></setting>
+        <setting id="skin.box.SubMenu10Tile3.ImageType" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile7.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeTVShowsSingleImage" type="string"></setting>
+        <setting id="skin.1080xf.HomeMusicTile2.Icon" type="string"></setting>
+        <setting id="skin.1080xf.HomeMusicTile6.ShowLabel" type="string"></setting>
+        <setting id="skin.box.HomeMenu9.Image" type="string"></setting>
+        <setting id="skin.1080xf.HomeMusicTile2.Path" type="string"></setting>
+        <setting id="skin.box.HomeMenu1.Label" type="string">Movies</setting>
+        <setting id="skin.box.MainMenu7.Path" type="string"></setting>
+        <setting id="skin.box.SubMenu14Tile2.Type" type="string"></setting>
+        <setting id="skin.box.HomeWidget15.Type" type="string"></setting>
+        <setting id="skin.1080xf.HomeMusicTile2.Animate" type="string"></setting>
+        <setting id="skin.box.SubMenu5Tile1.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu15Tile2.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu11Tile5.Image" type="string"></setting>
+        <setting id="skin.sio2x.HomeAddon.10.Icon" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.4.UnWatched" type="string">False</setting>
+        <setting id="skin.1080xf.HomeProgramTile1.ShowLabel" type="string"></setting>
+        <setting id="skin.sio2x.moviesshelf" type="string"></setting>
+        <setting id="skin.box.SubMenu11Tile1.Type" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.4.Type" type="string">service.skin.widgets</setting>
+        <setting id="skin.box.HomeWidget8.Type" type="string"></setting>
+        <setting id="skin.box.SideMenuTile12.Type" type="string"></setting>
+        <setting id="skin.box.SideMenuTile6.Image" type="string"></setting>
+        <setting id="skin.box.HomeMenu8.Image" type="string"></setting>
+        <setting id="skin.1080xf.HomeMusicTile1.ShowLabel" type="string"></setting>
+        <setting id="skin.box.SubMenu6Tile1.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu6Tile2.Image" type="string"></setting>
+        <setting id="skin.sio2x.shutdown" type="string"></setting>
+        <setting id="skin.box.SubMenu11Tile4.Label" type="string"></setting>
+        <setting id="skin.box.MainMenu5.Type" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile10.ShowLabel" type="string"></setting>
+        <setting id="skin.box.SubMenu13Tile4.Type" type="string"></setting>
+        <setting id="skin.box.SideMenuTile5.Path" type="string"></setting>
+        <setting id="skin.box.MainMenu8.Type" type="string"></setting>
+        <setting id="skin.1080xf.StartupPlaylist.Path" type="string"></setting>
+        <setting id="skin.sio2x.HomeAddon.11.Label" type="string"></setting>
+        <setting id="skin.box.HomeWidget11.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu14Tile1.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu4Tile5.Type" type="string"></setting>
+        <setting id="skin.1080xf.HomeVideoTile5.Label" type="string"></setting>
+        <setting id="skin.sio2x.HomeAddon.4.Label" type="string"></setting>
+        <setting id="skin.sio2x.HomeFav.6.Icon" type="string"></setting>
+        <setting id="skin.box.SubMenu13Tile3.ImageType" type="string"></setting>
+        <setting id="skin.box.SubMenu4Tile5.Label" type="string"></setting>
+        <setting id="skin.box.HomeWidget7.Layout" type="string"></setting>
+        <setting id="skin.box.SubMenu13Tile2.ImageType" type="string"></setting>
+        <setting id="skin.sio2x.version" type="string">3.2.0</setting>
+        <setting id="skin.box.HomeMenu7.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu7Tile5.ImageType" type="string"></setting>
+        <setting id="skin.1080xf.LyricScript_Path" type="string"></setting>
+        <setting id="skin.box.SubMenu15Tile2.Type" type="string"></setting>
+        <setting id="skin.box.HomeMenu12.Image" type="string"></setting>
+        <setting id="skin.box.HomeWidget3.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu3Tile5.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu11Tile2.Type" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.5.SubType" type="string">Music</setting>
+        <setting id="skin.1080xf.HomeTVShowTile3.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu1Tile1.Image" type="string"></setting>
+        <setting id="skin.maximinimalism.musicFanartLocation" type="string"></setting>
+        <setting id="skin.box.HomeMenu10.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu15Tile3.Type" type="string"></setting>
+        <setting id="skin.1080xf.HomeMusicTile1.Animate" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile9.Animate" type="string"></setting>
+        <setting id="skin.sio2x.HomeAddon.9.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu1Tile3.Image" type="string"></setting>
+        <setting id="skin.box.HomeMenu4.Image" type="string"></setting>
+        <setting id="skin.1080xf.HomeHomeTile1.Path" type="string"></setting>
+        <setting id="skin.1080xf.HomeMusicTile5.Icon" type="string"></setting>
+        <setting id="skin.sio2x.HomeAddon.8.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile10.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile6.Animate" type="string"></setting>
+        <setting id="skin.sio2x.HomeAddon.12.Label" type="string"></setting>
+        <setting id="skin.confluence.HomeMusicButton4" type="string"></setting>
+        <setting id="skin.box.SideMenuTile9.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu13Tile2.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu9Tile2.Type" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile8.Path" type="string"></setting>
+        <setting id="skin.1080xf.HomeVideoTile5.Path" type="string"></setting>
+        <setting id="skin.box.SubMenu3Tile5.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu4Tile4.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeVideoTile6.Animate" type="string"></setting>
+        <setting id="skin.box.HomeMenu12.Label" type="string"></setting>
+        <setting id="skin.box.CustomHomeTile.Icon" type="string"></setting>
+        <setting id="skin.box.SubMenu5Tile3.ImageType" type="string"></setting>
+        <setting id="skin.box.SubMenu5Tile2.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu12Tile3.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu7Tile2.Image" type="string"></setting>
+        <setting id="skin.sio2x.HomeAddon.2.Icon" type="string"></setting>
+        <setting id="skin.1080xf.HomeTVShowTile4.Icon" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile5.Icon" type="string"></setting>
+        <setting id="skin.box.SubMenu13Tile5.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu12Tile2.ImageType" type="string"></setting>
+        <setting id="skin.confluence.HomePictureButton4" type="string"></setting>
+        <setting id="skin.box.SubMenu2Tile3.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu6Tile3.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu8Tile2.Type" type="string"></setting>
+        <setting id="skin.box.SideMenuTile6.ImageType" type="string"></setting>
+        <setting id="skin.confluence.HomeVideosButton1" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.3.Playlist" type="string"></setting>
+        <setting id="skin.box.SubMenu3Tile1.Type" type="string">Albums</setting>
+        <setting id="skin.box.MainMenu1.Path" type="string">plugin.video.giantbomb</setting>
+        <setting id="skin.box.HomeWidget10.Type" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile4.ShowLabel" type="string"></setting>
+        <setting id="skin.box.SubMenu12Tile1.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu12Tile3.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeWeatherMultiImage" type="string"></setting>
+        <setting id="skin.box.HomeMenu3.Image" type="string">HomeIcons/Music.png</setting>
+        <setting id="skin.sio2x.HomeAddon.3.Icon" type="string"></setting>
+        <setting id="skin.box.SubMenu9Tile5.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu13Tile3.Type" type="string"></setting>
+        <setting id="skin.box.HomeWidget8.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu9Tile4.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu3Tile5.ImageType" type="string"></setting>
+        <setting id="skin.box.SubMenu11Tile5.Label" type="string"></setting>
+        <setting id="skin.sio2x.musicshelf" type="string"></setting>
+        <setting id="skin.box.SubMenu13Tile5.ImageType" type="string"></setting>
+        <setting id="skin.box.SubMenu11Tile2.ImageType" type="string"></setting>
+        <setting id="skin.box.SubMenu3Tile3.Image" type="string"></setting>
+        <setting id="skin.box.HomeWidget13.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile9.Path" type="string"></setting>
+        <setting id="skin.1080xf.HomeTVShowTile1.ShowLabel" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile9.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu8Tile2.Image" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile5.Path" type="string"></setting>
+        <setting id="skin.box.SubMenu10Tile4.ImageType" type="string"></setting>
+        <setting id="skin.box.HomeWidget1.Custom.Path" type="string"></setting>
+        <setting id="skin.box.SubMenu3Tile4.ImageType" type="string"></setting>
+        <setting id="skin.box.HomeMenu5.Image" type="string"></setting>
+        <setting id="skin.box.MainMenu2.Path" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.5.Resume" type="string">False</setting>
+        <setting id="skin.1080xf.HomeProgramTile8.Animate" type="string"></setting>
+        <setting id="skin.1080xf.HomeVideoTile6.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu12Tile3.Image" type="string"></setting>
+        <setting id="skin.box.SubMenu11Tile4.Type" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile7.Path" type="string"></setting>
+        <setting id="skin.box.SideMenuTile7.Type" type="string"></setting>
+        <setting id="skin.1080xf.MovieMPAALang" type="string"></setting>
+        <setting id="skin.1080xf.HomeMusicTile6.Icon" type="string"></setting>
+        <setting id="skin.box.SubMenu11Tile4.Image" type="string"></setting>
+        <setting id="skin.sio2x.MusicLink" type="string"></setting>
+        <setting id="skin.box.SubMenu9Tile1.Image" type="string"></setting>
+        <setting id="skin.box.HomeWidget1.Type" type="string">RecentMovies</setting>
+        <setting id="skin.box.SubMenu2Tile2.Type" type="string">TVShowLibrary</setting>
+        <setting id="skin.box.SideMenuTile4.Image" type="string"></setting>
+        <setting id="skin.sio2x.HomeFav.8.Icon" type="string"></setting>
+        <setting id="skin.box.SubMenu3Tile1.Label" type="string"></setting>
+        <setting id="skin.box.SubMenu5Tile4.Image" type="string"></setting>
+        <setting id="skin.box.SideMenuTile8.Label" type="string"></setting>
+        <setting id="skin.box.MainMenu1.Type" type="string">addon</setting>
+        <setting id="skin.sio2x.HomeAddon.7.Icon" type="string"></setting>
+        <setting id="skin.box.SubMenu10Tile4.Type" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile5.Animate" type="string"></setting>
+        <setting id="skin.sio2x.HomeFav.6.Label" type="string"></setting>
+        <setting id="skin.1080xf.Guide.Custom4.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile7.Icon" type="string"></setting>
+        <setting id="skin.box.SubMenu7Tile3.Image" type="string"></setting>
+        <setting id="skin.box.HomeWidget11.Layout" type="string"></setting>
+        <setting id="skin.1080xf.HomeMusicTile3.Path" type="string"></setting>
+        <setting id="skin.1080xf.HomeTVShowTile2.Icon" type="string"></setting>
+        <setting id="skin.box.SubMenu6Tile1.Label" type="string"></setting>
+        <setting id="skin.1080xf.Guide.Custom2.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeWidget.5.UnWatched" type="string">False</setting>
+        <setting id="skin.box.CustomHomeTile.Path" type="string"></setting>
+        <setting id="skin.box.SubMenu9Tile5.ImageType" type="string"></setting>
+        <setting id="skin.1080xf.HomeHomeMultiImage" type="string"></setting>
+        <setting id="skin.1080xf.HomeHomeTile2.Path" type="string"></setting>
+        <setting id="skin.box.SubMenu12Tile4.Label" type="string"></setting>
+        <setting id="skin.sio2x.LyricPath" type="string"></setting>
+        <setting id="skin.box.SubMenu4Tile1.Label" type="string"></setting>
+        <setting id="skin.1080xf.HomeProgramTile5.ShowLabel" type="string"></setting>
+        <setting id="skin.box.SubMenu6Tile5.Type" type="string"></setting>
+        <setting id="skin.box.SubMenu13Tile4.Image" type="string"></setting>
+        <setting id="skin.box.SideMenuTile1.ImageType" type="string"></setting>
+        <setting id="skin.sio2x.HomeFav.3.Icon" type="string"></setting>
+    </skinsettings>
+    <viewstates>
+        <musicfiles>
+            <viewmode>720896</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </musicfiles>
+        <musiclastfm>
+            <viewmode>65536</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </musiclastfm>
+        <musicnavalbums>
+            <viewmode>65536</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </musicnavalbums>
+        <musicnavartists>
+            <viewmode>65536</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </musicnavartists>
+        <musicnavsongs>
+            <viewmode>65536</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </musicnavsongs>
+        <pictures>
+            <viewmode>720896</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </pictures>
+        <programs>
+            <viewmode>66036</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>1</sortattributes>
+        </programs>
+        <videofiles>
+            <viewmode>720896</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </videofiles>
+        <videonavactors>
+            <viewmode>65536</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </videonavactors>
+        <videonavepisodes>
+            <viewmode>720896</viewmode>
+            <sortmethod>21</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </videonavepisodes>
+        <videonavgenres>
+            <viewmode>65536</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </videonavgenres>
+        <videonavmusicvideos>
+            <viewmode>65536</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </videonavmusicvideos>
+        <videonavseasons>
+            <viewmode>65536</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </videonavseasons>
+        <videonavtitles>
+            <viewmode>65536</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </videonavtitles>
+        <videonavtvshows>
+            <viewmode>65536</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </videonavtvshows>
+        <videonavyears>
+            <viewmode>65536</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </videonavyears>
+    </viewstates>
+    <audio>
+        <mute>false</mute>
+        <fvolumelevel>1.000000</fvolumelevel>
+    </audio>
+</settings>

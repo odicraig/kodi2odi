@@ -1,0 +1,70 @@
+#######################################################################################################################################
+<poster>Team Phoenix</poster>
+<fanart>http://s20.postimg.org/w4r6o7t3x/Phoenix_Fanart.png</fanart>
+#######################################################################################################################################
+
+<item>
+<title>Nickelodeon (2 soundtracks)</title>
+<link>
+<sublink>http://91.205.164.201:8181/udp/239.1.5.8:1234</sublink>
+<sublink>rtmp://rtmp.myhdcast.com/redirect/ playpath=fCqfhb14WwwFbAsDbV3Z swfUrl=http://cdn.zerocast.tv/player/jwplayer.flash.swf pageUrl=http://zerocast.in/embed.php?a=8&id=&width=650&height=470&autostart=true&strech= token=OOG17t.x#K9Vh#|</sublink>
+</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/cartoonsandfiction/images/f/fe/Nickelodeon-logo.png/revision/latest?cb=20121013060525</thumbnail>
+</item>
+
+<item>
+<title>Cartoon network (2 soundtracks)</title>
+<link>
+<sublink>http://91.205.164.201:8181/udp/239.1.5.10:1234</sublink>
+<sublink>rtmpe://rtmp.zerocast.tv/redirect/ playpath=08pydvp1b7ZwZb3a5TW1 swfUrl=http://cdn.zerocast.tv/player/jwplayer.flash.swf pageUrl=http://zerocast.in/embed.php?a=8&id=&width=650&height=470&autostart=true&strech= token=OOG17t.x#K9Vh#|</sublink>
+<sublink>rtmp://rtmp.myhdcast.com/redirect/ playpath=08pydvp1b7ZwZb3a5TW1 swfUrl=http://cdn.zerocast.tv/player/jwplayer.flash.swf pageUrl=http://zerocast.in/embed.php?a=8&id=&width=650&height=470&autostart=true&strech= token=OOG17t.x#K9Vh#|</sublink>
+</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png</thumbnail>
+</item>
+
+<item>
+<title>CBeebies</title>
+<link>
+<sublink>http://live.cdn.tvplayer.com/16UEOJXE3G3K4V10MW24/3/playlist.m3u8?e=1426521472&h=97676ff401b2c22e830bf6925b870fd0</sublink>
+<sublink>http://86.166.86.56:9981/stream/channelid/1583531521?ticket=CC608F7DD20970517221616BE9785F4E6BBBA8DB&profile=pass</sublink>
+</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/fr/a/a5/Cbeebies.png</thumbnail>
+</item>
+
+<item>
+<title>cbbc</title>
+<link>
+<sublink>http://live.cdn.tvplayer.com/mediaexcel01/channel06/5/prog_index.m3u8?e=1426521614&h=0e209f87c6efb62a08a82f2b1bee3613</sublink>
+<sublink>http://86.166.86.56:9981/stream/channelid/2016879369?ticket=2EF78CF113BF70426DC5489E209ED4D9870A8B3A&profile=pass</sublink>
+</link>
+<thumbnail>http://downloads.bbc.co.uk/commissioning/site/CBBC_New_Logo_RGB.png</thumbnail>
+</item>
+
+<item>
+<title>Pop</title>
+<link>
+<sublink>http://86.166.86.56:9981/stream/channelid/1578091645?ticket=0A459ED395BE72D7E05E9842456840AF0341DD21&profile=pass</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/6/68/Pop_(UK_TV_channel)_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Tiny Pop</title>
+<link>
+<sublink>http://86.166.86.56:9981/stream/channelid/576206569?ticket=E3B3F70E195FDC17B31D48DEED403F1FB2CB10C3&profile=pass</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/6/6e/Tiny_Pop_2011_logo.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+

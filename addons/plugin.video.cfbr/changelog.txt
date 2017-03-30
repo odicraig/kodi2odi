@@ -1,0 +1,71 @@
+[B]Version 0.3.1[/B]
+- updated forum link in addon.xml
+
+[B]Version 0.3.0[/B]
+- Cleaned up description
+- Updated TVADDONS branding
+
+[B]Version 0.2.9[/B]
+- Added TVADDONS branding dialog
+
+[B]Version 0.2.8[/B]
+- Fixed issue with Week images
+
+[B]Version 0.2.7[/B]
+- Added Video title stream
+
+[B]Version 0.2.6[/B]
+- Fixed typo
+
+[B]Version 0.2.5[/B]
+- Fixed sort order yet again
+
+[B]Version 0.2.4[/B]
+- Refactored to be much more efficient
+
+[B]Version 0.2.3[/B]
+- Fixed sort order yet again
+
+[B]Version 0.2.2[/B]
+- Added checks if service is offline
+
+[B]Version 0.2.1[/B]
+- Fixed issue with Week images
+
+[B]Version 0.2.0[/B]
+- Fixed sort order
+
+[B]Version 0.1.9[/B]
+- Setup with newly refined system.
+
+[B]Version 0.1.8[/B]
+- Updated to be a bit faster to load
+
+[B]Version 0.1.7[/B]
+- Updated to a more dynamic way to build lists
+
+[B]Version 0.1.6[/B]
+- Added stream status check to show error message if stream is no longer available
+
+[B]Version 0.1.5[/B]
+- Minor update to sort the streams in alphabetical order
+
+[B]Version 0.1.4[/B]
+- Divided current season into weeks
+- Streams are not pulled from single managed Youtube playlist
+
+[B]Version 0.1.3[/B]
+- Updated icon. Thanks jokster!
+- Updated fanart. Thanks jokster!
+- Updated fanart to include TVADDONS logo
+- Updated addon.xml file with forum link
+
+[B]Version 0.1.2[/B]
+- Updated icon to have a background looks better on many skins
+- Fixed setcontent issue with Estuary skin
+
+[B]Version 0.1.1[/B]
+- Bumping version number to correct incorrect versioning
+
+[B]Version 0.1.0[/B]
+- Initial version

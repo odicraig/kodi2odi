@@ -1,0 +1,9 @@
+<settings>
+    <setting id="auth1" value="http://adstreams.dynns.com/fifa.php" />
+    <setting id="auto-view" value="false" />
+    <setting id="default" value="50" />
+    <setting id="movies" value="500" />
+    <setting id="pak_key" value="E9X4U3YWRXYB88WBZ8XB44W5I8BZ01QD" />
+    <setting id="pakuser" value="bak%20TV/1.0 CFNetwork/758.2.8 Darwin/15.123" />
+    <setting id="sort" value="false" />
+</settings>

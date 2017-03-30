@@ -1,0 +1,5 @@
+#LWP-Cookies-2.0
+Set-Cookie3: ftv_token="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJGaWxtT25UViIsImF1ZCI6IkZpbG1PblRWX01HTyIsImV4cCI6MTQ1MzIzODk1MCwibmJmIjoxNDUwNjQ2ODkwLCJpYXQiOjE0NTA2NDY5NTAsInJlcXVlc3QiOltdfQ.6rPaafH0g_dIxGiTTKQWMAsKfI71UcDjV8WB_BnMurE"; path="/"; domain=".filmon.com"; path_spec; expires="2016-01-19 21:29:07Z"; version=0
+Set-Cookie3: PHPSESSID=52bkkqujl3m0lpa2ji65al60o3; path="/"; domain="www.filmon.com"; path_spec; discard; version=0
+Set-Cookie3: lang=en; path="/"; domain="www.filmon.com"; path_spec; expires="2016-01-19 21:29:07Z"; version=0
+Set-Cookie3: ftv_defq=hd; path="/group"; domain="www.filmon.com"; discard; version=0

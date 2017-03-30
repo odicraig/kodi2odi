@@ -1,0 +1,16 @@
+<settings>
+    <setting id="background" value="true" />
+    <setting id="cache" value="true" />
+    <setting id="create" value="" />
+    <setting id="date" value="false" />
+    <setting id="effect" value="2" />
+    <setting id="iptc" value="false" />
+    <setting id="label" value="0" />
+    <setting id="level" value="100" />
+    <setting id="music" value="false" />
+    <setting id="path" value="/tmp/" />
+    <setting id="random" value="true" />
+    <setting id="scale" value="false" />
+    <setting id="time" value="9" />
+    <setting id="type" value="1" />
+</settings>

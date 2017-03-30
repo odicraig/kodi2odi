@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.odiwizard" name="ODI Wizard" version="0.12.0" provider-name="oditv.com">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+		<summary lang="en">ODI TV Wizard</summary>
+		<description lang="en">Clicking this button will allow you to install your latest ODI TV menus and updates</description>
+		<disclaimer lang="en">ODI TV does not host or stream any copyrighted content - we scour the Internet and the Kodi landscape daily to make your Kodi experience a smooth and painless one!</disclaimer>
+		<forum>http://oditv.com/</forum>
+		<source>http://oditv.com/</source>
+		<website>https://oditv.com</website>
+		<platform>all</platform>
+	</extension>
+</addon>

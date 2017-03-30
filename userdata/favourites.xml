@@ -1,0 +1,5 @@
+<favourites>
+    <favourite name="Internet Archive ROM Launcher" thumb="C:\Users\darkn\AppData\Roaming\Kodi\addons\plugin.program.iarl\icon.png">ActivateWindow(10025,&quot;plugin://plugin.program.iarl/&quot;,return)</favourite>
+    <favourite name="Movies" thumb="C:\Users\darkn\AppData\Roaming\Kodi\addons\script.exodus.artwork\resources\media\exodus\movies.png">ActivateWindow(10025,&quot;plugin://plugin.video.exodus/?action=movieNavigator&quot;,return)</favourite>
+    <favourite name="TV Shows" thumb="C:\Users\darkn\AppData\Roaming\Kodi\addons\script.exodus.artwork\resources\media\exodus\tvshows.png">ActivateWindow(10025,&quot;plugin://plugin.video.exodus/?action=tvNavigator&quot;,return)</favourite>
+</favourites>

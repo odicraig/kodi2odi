@@ -1,0 +1,10 @@
+<settings>
+    <setting id="auto-view" value="false" />
+    <setting id="default" value="500" />
+    <setting id="epg" value="503" />
+    <setting id="filmon" value="false" />
+    <setting id="firstrun" value="true" />
+    <setting id="pass" value="" />
+    <setting id="res" value="0" />
+    <setting id="user" value="" />
+</settings>

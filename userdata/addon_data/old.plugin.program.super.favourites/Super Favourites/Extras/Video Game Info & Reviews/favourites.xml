@@ -1,0 +1,5 @@
+<favourites>
+	<favourite name="IGN" thumb="special://home/addons\plugin.video.IGNentertainment\icon.png">ActivateWindow(10025,&quot;plugin://plugin.video.IGNentertainment/?sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.IGNentertainment%5Cfanart.jpg%26_options_sf&quot;,return)</favourite>
+	<favourite name="Giant Bomb" thumb="special://home/addons\plugin.video.giantbomb\icon.png">ActivateWindow(10025,&quot;plugin://plugin.video.giantbomb/?sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.giantbomb%5Cfanart.jpg%26_options_sf&quot;,return)</favourite>
+	<favourite name="TwitchTV" thumb="special://home/addons\plugin.video.twitch\icon.png">ActivateWindow(10025,&quot;plugin://plugin.video.twitch/&quot;,return)</favourite>
+</favourites>

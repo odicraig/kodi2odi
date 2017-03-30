@@ -1,0 +1,5 @@
+<favourites>
+	<favourite name="Vaughn Live" thumb="special://home/addons\plugin.stream.vaughnlive.tv\icon.png">ActivateWindow(10025,&quot;plugin://plugin.stream.vaughnlive.tv/?sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.stream.vaughnlive.tv%5Cfanart.jpg%26_options_sf&quot;,return)</favourite>
+	<favourite name="Pluto.TV" thumb="special://home/addons\plugin.video.plutotv\icon.png">ActivateWindow(10025,&quot;plugin://plugin.video.plutotv/?sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.plutotv%5Cfanart.jpg%26_options_sf&quot;,return)</favourite>
+	<favourite name="EarthCam" thumb="special://home/addons\plugin.video.earthcam\icon.png">ActivateWindow(10025,&quot;plugin://plugin.video.earthcam/?sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.earthcam%5Cfanart.jpg%26_options_sf&quot;,return)</favourite>
+</favourites>

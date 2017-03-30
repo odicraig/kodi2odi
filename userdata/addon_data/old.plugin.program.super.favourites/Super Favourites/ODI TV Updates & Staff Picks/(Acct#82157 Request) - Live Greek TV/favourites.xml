@@ -1,0 +1,3 @@
+<favourites>
+	<favourite name="Live Greek TV" thumb="special://home/addons\plugin.video.hellenic.tv\resources/art/root_livetv.jpg">ActivateWindow(10025,&quot;plugin://plugin.video.hellenic.tv/?action=root_livetv&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.hellenic.tv%5Cfanart.jpg%26desc%3DGreek+television%26_options_sf&quot;,return)</favourite>
+</favourites>

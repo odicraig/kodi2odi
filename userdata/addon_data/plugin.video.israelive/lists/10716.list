@@ -1,0 +1,210 @@
+[
+  {
+    "group": "10716", 
+    "name": "RAI 1", 
+    "url": "http://b2everyrai-lh.akamaihd.net/i/rai1_1@398068/master.m3u8", 
+    "image": "http://www.rai1.rai.it/dl/PortaliRai/images/share_Rai1.png", 
+    "type": "ignore", 
+    "id": "10728"
+  }, 
+  {
+    "group": "10716", 
+    "name": "RAI 2", 
+    "url": "http://b2everyrai-lh.akamaihd.net/i/rai2_1@66477/master.m3u8", 
+    "image": "http://www.rai2.rai.it/dl/PortaliRai/images/share_Rai2.png", 
+    "type": "ignore", 
+    "id": "10729"
+  }, 
+  {
+    "group": "10716", 
+    "name": "RAI 3", 
+    "url": "http://b2everyrai-lh.akamaihd.net/i/rai3_1@91501/master.m3u8", 
+    "image": "http://www.rai3.rai.it/dl/PortaliRai/images/share_Rai3.png", 
+    "type": "ignore", 
+    "id": "10741"
+  }, 
+  {
+    "group": "10716", 
+    "name": "RAI 4", 
+    "url": "mmsh://212.162.68.163/Rai4", 
+    "image": "http://tvstreamingita.altervista.org/alterpages/medium/387px-rai_4_logo_2010.svg.jpg", 
+    "type": "ignore", 
+    "id": "11388"
+  }, 
+  {
+    "group": "10716", 
+    "name": "Camera dei Deputati", 
+    "url": "379?mode=1", 
+    "image": "http://static.filmon.com/couch/channels/379/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10720"
+  }, 
+  {
+    "group": "10716", 
+    "name": "RAI 5", 
+    "url": "mmsh://212.162.68.162/rai5", 
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rai_5_logo.svg/260px-Rai_5_logo.svg.png", 
+    "type": "ignore", 
+    "id": "11389"
+  }, 
+  {
+    "group": "10716", 
+    "name": "RAI 5", 
+    "url": "http://b2.stream12.rai.it/live/rai5.smil/playlist.m3u8", 
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rai_5_logo.svg/260px-Rai_5_logo.svg.png", 
+    "type": "video", 
+    "id": "12078"
+  }, 
+  {
+    "group": "10716", 
+    "name": "RAI Movie", 
+    "url": "http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8", 
+    "image": "http://www.raimovie.rai.it/dl/PortaliRai/images/share_RaiMovie.png", 
+    "type": "video", 
+    "id": "12079"
+  }, 
+  {
+    "group": "10716", 
+    "name": "rai premium", 
+    "url": "http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-b.m3u8?sd=10&amp;rebase=on", 
+    "image": "", 
+    "type": "video", 
+    "id": "10731"
+  }, 
+  {
+    "group": "10716", 
+    "name": "RAI STORIA", 
+    "url": "http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10732"
+  }, 
+  {
+    "group": "10716", 
+    "name": "rai yoyo itali", 
+    "url": "http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-b.m3u8", 
+    "image": "http://images4.wikia.nocookie.net/__cb20100519121157/logopedia/images/4/43/Rai_YoYo_2010.svg", 
+    "type": "video", 
+    "id": "12617"
+  }, 
+  {
+    "group": "10716", 
+    "name": "Rai Scuola", 
+    "url": "http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8", 
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_Rai_Scuola.png/260px-Logo_Rai_Scuola.png", 
+    "type": "video", 
+    "id": "10733"
+  }, 
+  {
+    "group": "10716", 
+    "name": "rai sport", 
+    "url": "4112?mode=1", 
+    "image": "http://sicilia.onderadio.net/Loghi/TV/RaiSport1.png", 
+    "type": "video", 
+    "id": "12415"
+  }, 
+  {
+    "group": "10716", 
+    "name": "rai sport 1", 
+    "url": "mmsh://212.162.68.163/raisport+?MSWMExt=.asf", 
+    "image": "http://sicilia.onderadio.net/Loghi/TV/RaiSport1.png", 
+    "type": "ignore", 
+    "id": "11339"
+  }, 
+  {
+    "group": "10716", 
+    "name": "RAI Nettuno Sat Uno", 
+    "url": "http://212.162.68.163/Rai_Nettuno", 
+    "image": "http://www.tvinstreaming.org/wp-content/uploads/2011/12/Rai-Nettuno-Sat-Uno-in-streaming.jpg", 
+    "type": "ignore", 
+    "id": "11387"
+  }, 
+  {
+    "group": "10716", 
+    "name": "LA7", 
+    "url": "http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_2_av-p.m3u8", 
+    "image": "http://en.wikipedia.org/wiki/La7#mediaviewer/File:LA7_logo.png", 
+    "type": "video", 
+    "id": "10739"
+  }, 
+  {
+    "group": "10716", 
+    "name": "Paramount Channel", 
+    "url": "http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-b.m3u8?sd=10&rebase=on", 
+    "image": "", 
+    "type": "video", 
+    "id": "12087"
+  }, 
+  {
+    "group": "10716", 
+    "name": "Tv2000", 
+    "url": "http://mi1.wz.tv2000.it/tv2000_alfa.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11579"
+  }, 
+  {
+    "group": "10716", 
+    "name": "Nova", 
+    "url": "https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11583"
+  }, 
+  {
+    "group": "10716", 
+    "name": "Cielo", 
+    "url": "it/5?mode=9", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/8/8b/Logo_cielo.png", 
+    "type": "ignore", 
+    "id": "11584"
+  }, 
+  {
+    "group": "10716", 
+    "name": "Cielo", 
+    "url": "http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/8/8b/Logo_cielo.png", 
+    "type": "ignore", 
+    "id": "12082"
+  }, 
+  {
+    "group": "10716", 
+    "name": "IRIS", 
+    "url": "it/22?mode=9", 
+    "image": "http://en.wikipedia.org/wiki/Iris_%28TV_channel%29#/media/File:Logo_iris.png", 
+    "type": "ignore", 
+    "id": "11580"
+  }, 
+  {
+    "group": "10716", 
+    "name": "RSI La 1", 
+    "url": "3917?mode=1", 
+    "image": "https://lafibre.info/images/tv/logo_rsi_la1.jpg", 
+    "type": "video", 
+    "id": "12394"
+  }, 
+  {
+    "group": "10716", 
+    "name": "RSI La 1", 
+    "url": "it/1?mode=9", 
+    "image": "https://lafibre.info/images/tv/logo_rsi_la1.jpg", 
+    "type": "ignore", 
+    "id": "11591"
+  }, 
+  {
+    "group": "10716", 
+    "name": "RSI La 2", 
+    "url": "it/2?mode=9", 
+    "image": "http://www.publisuisse.ch/mm/mm002/rsila2_klein.jpg", 
+    "type": "ignore", 
+    "id": "11592"
+  }, 
+  {
+    "group": "10716", 
+    "name": "R.ItaliaTV", 
+    "url": "4115?mode=1", 
+    "image": "http://static.filmon.com/couch/channels/4115/extra_big_logo.png", 
+    "type": "video", 
+    "id": "12416"
+  }
+]

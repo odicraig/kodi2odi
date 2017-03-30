@@ -1,0 +1,4 @@
+<favourites>
+	<favourite name="iTBN" thumb="special://home/addons/plugin.video.itbn_org/icon.png">ActivateWindow(10025,&quot;plugin://plugin.video.itbn_org/?sf_options=desc%3DiTBN+gives+access+to+thousands+of+hours+worth+of+videos+that+have+aired+on+TBN%2C+The+Church+Channel%2C+JC-TV%2C+Smile+of+a+Child%2C+and+more.%5BCR%5D%5BCR%5DThis+addon+gives+the+ability+to+view+videos+from+iTBN.org+and+also+provides+live+streams+of+TBN%27s+13+television+networks.%26_options_sf&quot;,return)</favourite>
+	<favourite name="GodTube" thumb="special://home/addons/plugin.video.godtube_com/icon.png">ActivateWindow(10025,&quot;plugin://plugin.video.godtube_com/?sf_options=desc%3DPlugin+that+allows+you+to+browse+and+play+videos+from+everybody%27s+favorite+christian+video+site%21%26_options_sf&quot;,return)</favourite>
+</favourites>

@@ -1,0 +1,5 @@
+<settings>
+    <setting id="maxsearches" value="0" />
+    <setting id="searchqueries" value="[&apos;guns roses&apos;]" />
+    <setting id="shuffle" value="false" />
+</settings>

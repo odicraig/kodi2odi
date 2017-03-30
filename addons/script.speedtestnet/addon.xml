@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.speedtestnet"
+       name="ODI TV Internet Speed Tester"
+       version="0.0.4"
+       provider-name="ODITV.com">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.script"
+             library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">ODI TV Internet Speed Tester App</summary>
+    <description lang="en">ODI TV'S Speed Tester powered by speedtest.net will give you accurate Internet speed/ping test results.  Brought to you by http://www.oditv.com</description>
+    <platform>all</platform>
+  </extension>
+</addon>

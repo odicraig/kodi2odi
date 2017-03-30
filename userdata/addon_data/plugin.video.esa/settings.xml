@@ -1,0 +1,6 @@
+<settings>
+    <setting id="debug" value="false" />
+    <setting id="language" value="0" />
+    <setting id="show_fanart" value="false" />
+    <setting id="sort" value="0" />
+</settings>

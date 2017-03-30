@@ -1,0 +1,37 @@
+<settings>
+    <setting id="CMI_ChangeFanart" value="true" />
+    <setting id="CMI_DownloadWallpaper" value="true" />
+    <setting id="CMI_FindAirDates" value="false" />
+    <setting id="CMI_JDownloader" value="false" />
+    <setting id="CMI_JDownloaderResolver" value="false" />
+    <setting id="CMI_RefreshMetaData" value="false" />
+    <setting id="CMI_Search1Channel" value="false" />
+    <setting id="CMI_SearchIceFilms" value="false" />
+    <setting id="CMI_SearchKissAnime" value="false" />
+    <setting id="CMI_SearchMerDBru" value="false" />
+    <setting id="CMI_SearchPrimeWire" value="false" />
+    <setting id="CMI_SearchSolarMovieso" value="false" />
+    <setting id="CMI_ShowInfo" value="true" />
+    <setting id="DefaultTimeOut" value="30" />
+    <setting id="anime-view" value="515" />
+    <setting id="auto-view" value="false" />
+    <setting id="core-player" value="AUTO" />
+    <setting id="debug-enable" value="false" />
+    <setting id="debug-show" value="false" />
+    <setting id="default-view" value="500" />
+    <setting id="episode-view" value="515" />
+    <setting id="label-empty-favorites" value="false" />
+    <setting id="links-view" value="50" />
+    <setting id="linksmaxshown" value="9999" />
+    <setting id="movies-view" value="515" />
+    <setting id="pages" value="1" />
+    <setting id="playback_eod" value="false" />
+    <setting id="playback_urlonly" value="false" />
+    <setting id="playback_urlresolve" value="true" />
+    <setting id="season-view" value="50" />
+    <setting id="server-number" value="0" />
+    <setting id="sort-by-name" value="false" />
+    <setting id="special-code" value="" />
+    <setting id="thumbnail-type" value="false" />
+    <setting id="tvshows-view" value="500" />
+</settings>

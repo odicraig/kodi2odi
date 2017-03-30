@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID>tvshows</defaultID>
+		<label>$SKIN[31002|skin.bello|TV Shows]</label>
+		<label2>Common Shortcut</label2>
+		<icon>DefaultTVShows.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,TVShowTitles,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>movies</defaultID>
+		<label>Movies</label>
+		<label2>Favourite</label2>
+		<icon>DefaultFolder.png</icon>
+		<thumb>special://home/addons\plugin.program.super.favourites\icon.png</thumb>
+		<action>ActivateWindow(10001,"plugin://plugin.program.super.favourites/?label=Movies&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper%20Favourites%5CMovies&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.program.super.favourites%5Cfanart.jpg%26_options_sf",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>music</defaultID>
+		<label>10005</label>
+		<label2>Common Shortcut</label2>
+		<icon>DefaultMusicAlbums.png</icon>
+		<thumb />
+		<action>ActivateWindow(Music)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>videos</defaultID>
+		<label>10006</label>
+		<label2>Common Shortcut</label2>
+		<icon>DefaultVideo.png</icon>
+		<thumb />
+		<action>ActivateWindow(videos,sources://video/,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>addons</defaultID>
+		<label>24001</label>
+		<label2>Common Shortcut</label2>
+		<icon>DefaultAddon.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,Addons,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>pictures</defaultID>
+		<label>10002</label>
+		<label2>Common Shortcut</label2>
+		<icon>DefaultPicture.png</icon>
+		<thumb />
+		<action>ActivateWindow(Pictures)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>programs</defaultID>
+		<label>10001</label>
+		<label2>Common Shortcut</label2>
+		<icon>DefaultProgram.png</icon>
+		<thumb />
+		<action>ActivateWindow(Programs,Addons,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>livetv</defaultID>
+		<label>$SKIN[31000|skin.bello|Live TV]</label>
+		<label2>Common Shortcut</label2>
+		<icon>DefaultLiveTV.png</icon>
+		<thumb />
+		<action>ActivateWindow(TVChannels)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>trailers</defaultID>
+		<label>$SKIN[31018|skin.bello|Trailers]</label>
+		<label2>Common Shortcut</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(videos,plugin://$INFO[Skin.String(TrailersAddon_Path)])</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>weather</defaultID>
+		<label>12600</label>
+		<label2>Common Shortcut</label2>
+		<icon>special://skin/extras/icons/Weather.png</icon>
+		<thumb />
+		<action>ActivateWindow(Weather)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>settings</defaultID>
+		<label>10004</label>
+		<label2>Common Shortcut</label2>
+		<icon>special://skin/extras/icons/Settings.png</icon>
+		<thumb />
+		<action>ActivateWindow(AppearanceSettings)</action>
+	</shortcut>
+</shortcuts>

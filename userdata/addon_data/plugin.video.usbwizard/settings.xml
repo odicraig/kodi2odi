@@ -1,0 +1,8 @@
+<settings>
+    <setting id="custom_port" value="" />
+    <setting id="custom_server" value="" />
+    <setting id="email" value="" />
+    <setting id="favs" value="" />
+    <setting id="server" value="Gmail" />
+    <setting id="zip" value="C:\Craig_Work\" />
+</settings>

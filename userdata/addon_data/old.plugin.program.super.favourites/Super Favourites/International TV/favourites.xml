@@ -1,0 +1,4 @@
+<favourites>
+	<favourite name="[COLOR red]International Channels - Live TV By Country (Quality May Vary)[/COLOR]" thumb="http://alaska.watchkodi.com/crusader88A.png">ActivateWindow(10025,&quot;plugin://plugin.video.phstreams/?mode=dmode&amp;name=International%20Channels&amp;sound&amp;url=http%3a%2f%2falaska.watchkodi.com%2fmaindir%2fmain2.xml&amp;sf_options=fanart%3Dnone%26_options_sf&quot;,return)</favourite>
+	<favourite name="[COLOR blueviolet]Live International Streams - specializing in Italian and European content![/COLOR]" thumb="http://s29.postimg.org/l4tra401j/ONELIVETV.png">ActivateWindow(10025,&quot;plugin://plugin.video.phstreams/?mode=ndmode&amp;name=Live%20International%20Streams&amp;sound&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fForiegn%2fitalyTV1.xml&amp;sf_options=fanart%3Dhttp%3A%2F%2Fs8.postimg.org%2F97jzm7rhh%2FONE242415_HOFPAINl_LARGE.jpg%26_options_sf&quot;,return)</favourite>
+</favourites>

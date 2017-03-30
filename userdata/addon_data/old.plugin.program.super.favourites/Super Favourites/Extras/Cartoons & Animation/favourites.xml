@@ -1,0 +1,4 @@
+<favourites>
+	<favourite name="Cartoon HD" thumb="special://home/addons\plugin.video.cartoonhd\icon.png">ActivateWindow(10025,&quot;plugin://plugin.video.cartoonhd/&quot;,return)</favourite>
+	<favourite name="Animation" thumb="">ActivateWindow(10025,&quot;plugin://plugin.video.cartoonhdtwo/?description&amp;fanart&amp;iconimage&amp;mode=2&amp;name=Animation&amp;url=Animation&quot;,return)</favourite>
+</favourites>

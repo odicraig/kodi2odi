@@ -1,0 +1,77 @@
+<settings>
+    <setting id="1" value="true" />
+    <setting id="10" value="true" />
+    <setting id="11" value="false" />
+    <setting id="12" value="true" />
+    <setting id="13" value="true" />
+    <setting id="14" value="true" />
+    <setting id="15" value="true" />
+    <setting id="16" value="true" />
+    <setting id="17" value="true" />
+    <setting id="18" value="true" />
+    <setting id="19" value="true" />
+    <setting id="2" value="true" />
+    <setting id="20" value="true" />
+    <setting id="21" value="true" />
+    <setting id="22" value="true" />
+    <setting id="23" value="true" />
+    <setting id="24" value="true" />
+    <setting id="25" value="true" />
+    <setting id="26" value="true" />
+    <setting id="27" value="true" />
+    <setting id="28" value="true" />
+    <setting id="29" value="false" />
+    <setting id="3" value="true" />
+    <setting id="30" value="true" />
+    <setting id="31" value="true" />
+    <setting id="32" value="true" />
+    <setting id="33" value="true" />
+    <setting id="4" value="true" />
+    <setting id="4 Music" value="308" />
+    <setting id="5" value="true" />
+    <setting id="5*" value="300" />
+    <setting id="5*+1" value="300" />
+    <setting id="5USA" value="300" />
+    <setting id="5USA+1" value="300" />
+    <setting id="6" value="true" />
+    <setting id="7" value="false" />
+    <setting id="8" value="true" />
+    <setting id="9" value="false" />
+    <setting id="BBC HD" value="306" />
+    <setting id="BBC Ireland" value="304" />
+    <setting id="BBC News" value="302" />
+    <setting id="BBC One" value="306" />
+    <setting id="BBC Two" value="306" />
+    <setting id="CBBC/BBC Three" value="306" />
+    <setting id="CBEEBIES/BBC Four" value="306" />
+    <setting id="Challenge" value="307" />
+    <setting id="Channel 4" value="303" />
+    <setting id="Channel 5" value="303" />
+    <setting id="Channel5+1" value="308" />
+    <setting id="Dave" value="308" />
+    <setting id="E4" value="302" />
+    <setting id="Film 4" value="302" />
+    <setting id="FilmOn Football" value="305" />
+    <setting id="ITV" value="302" />
+    <setting id="ITV 2" value="302" />
+    <setting id="ITV 3" value="302" />
+    <setting id="ITV 4" value="302" />
+    <setting id="ITV1+1" value="302" />
+    <setting id="ITV2+1" value="302" />
+    <setting id="ITV3+1" value="302" />
+    <setting id="ITV4+1" value="302" />
+    <setting id="More4" value="302" />
+    <setting id="Pick TV" value="308" />
+    <setting id="Really" value="308" />
+    <setting id="Viva" value="308" />
+    <setting id="Yesterday" value="308" />
+    <setting id="auto-view" value="true" />
+    <setting id="default" value="500" />
+    <setting id="ga_time" value="2000-01-01 00:00:00" />
+    <setting id="pass" value="" />
+    <setting id="pop_time" value="2000-01-01 00:00:00" />
+    <setting id="res" value="false" />
+    <setting id="sort_method" value="false" />
+    <setting id="user" value="" />
+    <setting id="visitor_ga" value="" />
+</settings>

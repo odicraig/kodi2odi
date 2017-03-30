@@ -1,0 +1,42 @@
+<settings>
+    <setting id="iarl_additional_emulator_1_path" value="" />
+    <setting id="iarl_additional_emulator_1_type" value="Disabled" />
+    <setting id="iarl_additional_emulator_2_path" value="" />
+    <setting id="iarl_additional_emulator_2_type" value="Disabled" />
+    <setting id="iarl_additional_emulator_3_path" value="" />
+    <setting id="iarl_additional_emulator_3_type" value="Disabled" />
+    <setting id="iarl_enable_login" value="Enabled" />
+    <setting id="iarl_enable_netplay" value="Disabled" />
+    <setting id="iarl_external_launch_close_kodi" value="Disabled" />
+    <setting id="iarl_external_user_external_env" value="Windows" />
+    <setting id="iarl_netplay_IP" value="" />
+    <setting id="iarl_netplay_frames" value="Disabled" />
+    <setting id="iarl_netplay_hostclient" value="Player 1 Host" />
+    <setting id="iarl_netplay_nickname1" value="Kodi Player 1" />
+    <setting id="iarl_netplay_nickname2" value="Kodi Player 2" />
+    <setting id="iarl_netplay_nickname3" value="Kodi Spectator" />
+    <setting id="iarl_netplay_port" value="55435" />
+    <setting id="iarl_path_to_retroarch" value="C:\RetrODI\RetrODI\retroarch.exe" />
+    <setting id="iarl_path_to_retroarch_cfg" value="" />
+    <setting id="iarl_path_to_retroarch_system_dir" value="C:\RetrODI\RetrODI\" />
+    <setting id="iarl_setting_autoplay_trailer" value="No" />
+    <setting id="iarl_setting_cache_list" value="true" />
+    <setting id="iarl_setting_clean_list" value="true" />
+    <setting id="iarl_setting_clear_cache_value" value="false" />
+    <setting id="iarl_setting_clear_hidden_archives" value="false" />
+    <setting id="iarl_setting_default_action" value="ROM Info Page" />
+    <setting id="iarl_setting_dl_cache" value="Zero (One ROM and Supporting Files Only)" />
+    <setting id="iarl_setting_history" value="10" />
+    <setting id="iarl_setting_ia_password" value="odi4321" />
+    <setting id="iarl_setting_ia_username" value="craig@oditv.com" />
+    <setting id="iarl_setting_items_pp" value="List All" />
+    <setting id="iarl_setting_listing" value="One Big List" />
+    <setting id="iarl_setting_localfile_action" value="Prompt" />
+    <setting id="iarl_setting_naming" value="Title" />
+    <setting id="iarl_setting_rom_window_theme" value="IARL Classic Window" />
+    <setting id="iarl_setting_subprocess_launch" value="false" />
+    <setting id="iarl_setting_warn_retroarch_sys_dir" value="true" />
+    <setting id="iarl_setting_warn_size" value="true" />
+    <setting id="iarl_wizard_launcher" value="External" />
+    <setting id="iarl_wizard_launcher_group" value="Most Playable (Least CPU Intensive)" />
+</settings>

@@ -1,0 +1,4 @@
+#LWP-Cookies-2.0
+Set-Cookie3: PHPSESSID=1slbkfi1edspecjpbvfdbnq633; path="/"; domain="www.flixanity.is"; path_spec; discard; version=0
+Set-Cookie3: __utmx="JDEkNWZ0N2UxcXAkTVJ6LjBlbG95VDVBQWhuTkE3dVA3MQ%3D%3D"; path="/"; domain="www.flixanity.is"; path_spec; expires="2016-01-18 21:20:16Z"; version=0
+Set-Cookie3: loggedOut=11; path="/"; domain="www.flixanity.is"; path_spec; expires="2038-01-19 03:14:07Z"; version=0

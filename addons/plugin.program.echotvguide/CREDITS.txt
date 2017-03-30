@@ -1,0 +1,30 @@
+This guide is a forked version of Andys TV Guide which includes an amalgamation of code from FTV Guide, 
+On Tapp, Ivue and the original TV Guide by Twinthe
+
+The foundations were set by twinther [script.tvguide](https://github.com/twinther/script.tvguide)
+and others have since developed more to this gude.
+
+Thank you both for your contribution to this amazing guide!
+
+To get to this point the guide has been developed an maintained by many people, In no way do I claim to have designed, coded or
+created this addon. I have mearly made the EPG function again after the death of Andys Guide.
+
+There may very well be some issues flying around the community about the publication of this guide, but I have not done this
+for any reason other than providing the END USER with what they want.
+
+I will give credit to everyone before me and If I have missed you I am sorry, please ask and I will amend this list.
+
+This guide is a testiment to how OPEN SOURCE works. Every body that has taken this guide has enhanced it in some way 
+and that only provides the end user with a better experience and that is what Kodi is about at the end of the day.
+
+The credit for this guide goes to Andy, but the credit for the code that has been written must go to, in no particular order
+
+	Twinther
+	Rayw1986, Bluezed (FTV Guide) 
+	DixieDean(On Tapp)
+	Ivue 
+	Noobs and Nerds
+	Renegades 
+
+OPEN SOURCE DEFINITION: denoting software for which the original source code is made freely available 
+and may be redistributed and modified.

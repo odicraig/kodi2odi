@@ -1,0 +1,694 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<html lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.awntv.com/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="dns-prefetch" href="//awn.bc.cdn.bitgravity.com" />
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://www.awntv.com/categories" />
+<link rel="shortlink" href="http://www.awntv.com/categories" />
+<meta name="dcterms.title" content="Categories" />
+<meta name="dcterms.type" content="Text" />
+<meta name="dcterms.format" content="text/html" />
+<meta name="dcterms.identifier" content="http://www.awntv.com/categories" />
+  <title>Categories | AWNtv</title>  
+  <link type="text/css" rel="stylesheet" href="http://www.awntv.com/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.awntv.com/sites/default/files/css/css_1AdFXMFkstk8C9c9xGskSC5mRkrPlqGaJmBOSCYwpmw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.awntv.com/sites/default/files/css/css_3c7_XB4JzubGm3QJf7xBkb9_arzHHXxgh_x8EAHllV4.css" media="all" />
+
+<!--[if lt IE 10]>
+<link type="text/css" rel="stylesheet" href="http://www.awntv.com/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="http://www.awntv.com/sites/default/files/css/css_E97F9CTXY7eeqO54zHdSyOfsTv65GJb8ca_cGhkGL08.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.awntv.com/sites/default/files/css/css_VN1VgXG0X96PzfQHnZq0apMWIdwFDxmv9Tq0YsezYCk.css" media="all" />
+  <script type="text/javascript" src="http://www.awntv.com/sites/default/files/js/js_MpKfe1sTh5JIVGCZ17DsAuT1rqAC38MLLlkjqjQ1X_k.js"></script>
+<script type="text/javascript" src="http://www.awntv.com/sites/default/files/js/js_H7q2xORKmR9AN8Qx5spKEIBp7R_wG2apAswJoCUZY7I.js"></script>
+<script type="text/javascript" src="http://www.awntv.com/sites/default/files/js/js_NpX2cwCeepkWZZ194B6-ViyVBHleaYLOx5R9EWBOMRU.js"></script>
+<script type="text/javascript" src="http://www.awntv.com/sites/default/files/js/js_aqWyQDy79JUyKarjpVyfpUQKNKbZhdlrmYxGDGqGJoQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-10795552-2", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://oascentral.awn.com/RealMedia/ads/adstream_mjx.ads/www.awntv.com/categories//1951560709@x20,x22,x23,x84,x85,x86,x87?path=categories/&amp;site=awntv"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($){ if ($.cookie('Drupal.visitor.oasj_interstitial') <= ($.now() - 14400000) && !(/iPhone|iPod|iPad|Android|BlackBerry/).test(navigator.userAgent)) { $.cookie('Drupal.visitor.oasj_interstitial', $.now(), {path: '/'}); $.getJSON('http://oascentral.awn.com/RealMedia/ads/adstream_dx.ads/json/www.awntv.com/interstitial/1419779641@x25?_RM_OAX_REDIR_&path=interstitial', function(data){ var W = 600; var H = 400; if (data.Ad[0].W > 0 && data.Ad[0].H > 0) { W = data.Ad[0].W; H = data.Ad[0].H; } $.colorbox({ href: "http://www.awntv.com/interstitial", title: "This advertisement will automatically close in 15 seconds.", innerWidth: W, innerHeight: H, iframe: true, scrolling: false, fixed: true, open: true, onClosed: function(){ clearInterval(timer); } }); var timeleft = 16; var timer = setInterval(function(){ var grammar = ' seconds'; timeleft--; if (timeleft == 1) grammar = ' second'; if (timeleft >= 1) $('#cboxTitle').text('This advertisement will automatically close in '+timeleft+grammar+'.'); else { $.colorbox.close(); clearInterval(timer); } }, 1000); }); } });
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.awntv.com/sites/default/files/js/js_43n5FBy8pZxQHxPXkf-sQF7ZiacVZke14b0VlvSA554.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"awntv_com_main","theme_token":"FilwLlH3LDRX-7RE5IIWcQqSlyCgtT4TZ_8T1D9_0KY","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/extlink\/extlink.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"http:\/\/oascentral.awn.com\/RealMedia\/ads\/adstream_mjx.ads\/www.awntv.com\/categories\/\/1951560709@x20,x22,x23,x84,x85,x86,x87?path=categories\/\u0026site=awntv":1,"1":1,"sites\/all\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/extlink\/extlink.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/libraries\/colorbox\/example3\/colorbox.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"public:\/\/ctools\/css\/1962310b6c35d6d94a5e87a11ce0730c.css":1,"sites\/all\/themes\/awntv_com_main\/colorbox\/colorbox.css":1,"public:\/\/ctools\/css\/d41d8cd98f00b204e9800998ecf8427e.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-text.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-branding.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-menu.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-forms.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-visuals.css":1,"sites\/all\/themes\/awntv_com_main\/css\/global.css":1,"normal::sites\/all\/themes\/awntv_com_main\/css\/awntv-com-main-alpha-default.css":1,"normal::sites\/all\/themes\/awntv_com_main\/css\/awntv-com-main-alpha-default-normal.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"extlink":{"extTarget":0,"extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/categories\/":true},"omega":{"layouts":{"primary":"normal","order":["narrow","normal","wide"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)","wide":"all and (min-width: 1220px)"}}}});
+//--><!]]>
+</script>
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body class="html not-front not-logged-in page-categories context-categories">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+  <div class="region region-page-top" id="region-page-top">
+  <div class="region-inner region-page-top-inner">
+      </div>
+</div>  <div class="page clearfix" id="page">
+      <header id="section-header" class="section section-header">
+  <div id="zone-user-wrapper" class="zone-wrapper zone-user-wrapper clearfix">  
+  <div id="zone-user" class="zone zone-user clearfix container-12">
+    <div class="grid-8 region region-user-first" id="region-user-first">
+  <div class="region-inner region-user-first-inner">
+    <div class="block block-block block-1 block-block-1 odd block-without-title" id="block-block-1">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <p><b style="color:orange;">AWNtv</b> | <a href="http://www.awn.com">AnimationWorld</a> | <a href="http://www.vfxworld.com">VFXWorld</a> | <a href="http://www.animationblogspot.com">AnimationBlogspot</a> | <a href="http://www.aidb.com">AIDB</a></p>
+    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div><div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix">  
+  <div id="zone-branding" class="zone zone-branding clearfix container-12">
+    <div class="grid-12 region region-branding" id="region-branding">
+  <div class="region-inner region-branding-inner">
+        <div class="branding-data clearfix">
+            <div class="logo-img">
+        <a href="/" rel="home" title="AWNtv"><img src="http://www.awntv.com/sites/all/themes/awntv_com_main/logo.gif" alt="AWNtv" id="logo" /></a>      </div>
+                        <hgroup class="site-name-slogan">        
+                                <h2 class="site-name element-invisible"><a href="/" title="Home">AWNtv</a></h2>
+                              </hgroup>
+          </div>
+        <div class="block block-openadstream-jquery block-oasjquery-x20 block-openadstream-jquery-oasjquery-x20 odd block-without-title" id="block-openadstream-jquery-oasjquery-x20">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <script type="text/javascript">
+        OAS_RICH("x20");
+        jQuery("embed").attr("wmode", "opaque").wrap("<div>");
+      </script>    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div><div id="zone-menu-wrapper" class="zone-wrapper zone-menu-wrapper clearfix">  
+  <div id="zone-menu" class="zone zone-menu clearfix container-12">
+    <div class="grid-12 region region-menu" id="region-menu">
+  <div class="region-inner region-menu-inner">
+        <nav class="navigation">
+      <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix main-menu"><li class="menu-218 first"><a href="/">Home</a></li><li class="menu-704"><a href="/videos/latest" title="">Videos</a></li><li class="menu-708"><a href="/channels" title="">Channels</a></li><li class="menu-709 active-trail active"><a href="/categories" title="" class="active-trail active">Categories</a></li><li class="menu-744 last"><a href="/playlists" title="">Playlists</a></li></ul>          </nav>
+        <div class="block block-search block-form block-search-form odd block-without-title" id="block-search-form">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <form action="/categories/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-scXKyiKnDJ_aEvNA2tCY3JC3otrc-s4gskintaw1sXs" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+  </div>
+</div>  </div>
+</div>
+  </div>
+</div></header>    
+      <section id="section-content" class="section section-content">
+  <div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">  
+  <div id="zone-content" class="zone zone-content clearfix container-12">    
+        
+        <div class="grid-9 region region-content content-categories" id="region-content">
+  <div class="region-inner region-content-inner">
+    <a id="main-content"></a>
+                <h1 class="title" id="page-title">Categories</h1>
+                <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="panel-flexible panels-flexible-2 clearfix" >
+<div class="panel-flexible-inside panels-flexible-2-inside">
+<div class="panels-flexible-region panels-flexible-region-2-center panels-flexible-region-first panels-flexible-region-last">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-2-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-views pane-taxonomy-audience"   class="panel-pane pane-views pane-taxonomy-audience">
+  
+        <h2 class="pane-title">
+      Audience    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-taxonomy-audience view-id-taxonomy_audience view-display-id-block view-dom-id-be15b41b99790d768b26ea36866a67f3">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/all-audiences">All Audiences</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/children-kids-family">Children / Kids / Family</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/mature-adult">Mature / Adult</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-views pane-taxonomy-content-type"   class="panel-pane pane-views pane-taxonomy-content-type">
+  
+        <h2 class="pane-title">
+      Content-Type    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-taxonomy-content-type view-id-taxonomy_content_type view-display-id-block view-dom-id-714b1f0709f4b9a792f99a0bbb0a7e36">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/animation-test">Animation Test</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/commercials">Commercials</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/demo-reel-compilation">Demo Reel / Compilation</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/educational-films">Educational Films</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/feature-film-clips">Feature Film Clips</a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/feature-film-trailers">Feature Film Trailers</a></span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/feature-films">Feature Films</a></span>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/game-cinematics">Game Cinematics</a></span>  </div>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/game-trailers">Game Trailers</a></span>  </div>  </div>
+  <div class="views-row views-row-10 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/independent-short-films">Independent Short Films</a></span>  </div>  </div>
+  <div class="views-row views-row-11 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/industrial-films">Industrial Films</a></span>  </div>  </div>
+  <div class="views-row views-row-12 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/interstitials-bumpers">Interstitials / Bumpers</a></span>  </div>  </div>
+  <div class="views-row views-row-13 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/logo">Logo</a></span>  </div>  </div>
+  <div class="views-row views-row-14 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/multimedia-new-media">Multimedia / New Media</a></span>  </div>  </div>
+  <div class="views-row views-row-15 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/music-videos">Music Videos</a></span>  </div>  </div>
+  <div class="views-row views-row-16 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/previs">Previs</a></span>  </div>  </div>
+  <div class="views-row views-row-17 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/promotional-featurettes">Promotional Featurettes</a></span>  </div>  </div>
+  <div class="views-row views-row-18 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/psas">PSAs</a></span>  </div>  </div>
+  <div class="views-row views-row-19 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/short-film-clips">Short Film Clips</a></span>  </div>  </div>
+  <div class="views-row views-row-20 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/student-short-films">Student Short Films</a></span>  </div>  </div>
+  <div class="views-row views-row-21 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/studio-short-films">Studio Short Films</a></span>  </div>  </div>
+  <div class="views-row views-row-22 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/television-series">Television Series</a></span>  </div>  </div>
+  <div class="views-row views-row-23 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/television-series-clip">Television Series Clip</a></span>  </div>  </div>
+  <div class="views-row views-row-24 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/television-series-trailer">Television Series Trailer</a></span>  </div>  </div>
+  <div class="views-row views-row-25 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/television-specials">Television Specials</a></span>  </div>  </div>
+  <div class="views-row views-row-26 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/title-sequences">Title Sequences</a></span>  </div>  </div>
+  <div class="views-row views-row-27 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/tutorials">Tutorials</a></span>  </div>  </div>
+  <div class="views-row views-row-28 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/tv-clips">TV Clips</a></span>  </div>  </div>
+  <div class="views-row views-row-29 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/tv-show-trailers">TV Show Trailers</a></span>  </div>  </div>
+  <div class="views-row views-row-30 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/vfx-breakdowns">VFX Breakdowns</a></span>  </div>  </div>
+  <div class="views-row views-row-31 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/viral-downloads">Viral Downloads</a></span>  </div>  </div>
+  <div class="views-row views-row-32 views-row-even views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/webisodes">Webisodes</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-views pane-taxonomy-genre"   class="panel-pane pane-views pane-taxonomy-genre">
+  
+        <h2 class="pane-title">
+      Genre    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-taxonomy-genre view-id-taxonomy_genre view-display-id-block view-dom-id-bd2637a235bcf5a80b96c22dcb446db4">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/action-adventure">Action / Adventure</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/anime">Anime</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/biography">Biography</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/cartoons">Cartoons</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/classics">Classics</a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/comedy">Comedy</a></span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/disaster">Disaster</a></span>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/documentary">Documentary</a></span>  </div>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/drama">Drama</a></span>  </div>  </div>
+  <div class="views-row views-row-10 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/experimental">Experimental</a></span>  </div>  </div>
+  <div class="views-row views-row-11 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/fantasy">Fantasy</a></span>  </div>  </div>
+  <div class="views-row views-row-12 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/film-noir">Film Noir</a></span>  </div>  </div>
+  <div class="views-row views-row-13 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/historical">Historical</a></span>  </div>  </div>
+  <div class="views-row views-row-14 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/horror">Horror</a></span>  </div>  </div>
+  <div class="views-row views-row-15 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/melodrama">Melodrama</a></span>  </div>  </div>
+  <div class="views-row views-row-16 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/musical">Musical</a></span>  </div>  </div>
+  <div class="views-row views-row-17 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/mystery-detective-crime">Mystery / Detective / Crime</a></span>  </div>  </div>
+  <div class="views-row views-row-18 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/political">Political</a></span>  </div>  </div>
+  <div class="views-row views-row-19 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/public-domain">Public Domain</a></span>  </div>  </div>
+  <div class="views-row views-row-20 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/romance">Romance</a></span>  </div>  </div>
+  <div class="views-row views-row-21 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/satire">Satire</a></span>  </div>  </div>
+  <div class="views-row views-row-22 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/sci-fi">Sci-Fi</a></span>  </div>  </div>
+  <div class="views-row views-row-23 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/sports">Sports</a></span>  </div>  </div>
+  <div class="views-row views-row-24 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/supernatural">Supernatural</a></span>  </div>  </div>
+  <div class="views-row views-row-25 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/thrillers-suspense-spy">Thrillers / Suspense / Spy</a></span>  </div>  </div>
+  <div class="views-row views-row-26 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/war">War</a></span>  </div>  </div>
+  <div class="views-row views-row-27 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/western">Western</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-views pane-taxonomy-style-technique"   class="panel-pane pane-views pane-taxonomy-style-technique">
+  
+        <h2 class="pane-title">
+      Style-Technique    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-taxonomy-style-technique view-id-taxonomy_style_technique view-display-id-block view-dom-id-991e685c100a2df2fcfce520fe04e17a">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/2d-computer">2D Computer</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/cel">Cel</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/cg-3d-computer">CG / 3D Computer</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/clay-plastacine-sculpture">Clay / Plastacine / Sculpture</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/cut-outs">Cut-outs</a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/digital-visual-effects">Digital / Visual Effects</a></span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/engraving-film">Engraving on Film</a></span>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/flash">Flash</a></span>  </div>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/ink-paper-final-line">Ink on Paper / Final Line</a></span>  </div>  </div>
+  <div class="views-row views-row-10 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/live-action-vfx">Live Action / VFX</a></span>  </div>  </div>
+  <div class="views-row views-row-11 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/machinima">Machinima</a></span>  </div>  </div>
+  <div class="views-row views-row-12 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/motion-capture">Motion Capture</a></span>  </div>  </div>
+  <div class="views-row views-row-13 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/motion-graphics">Motion Graphics</a></span>  </div>  </div>
+  <div class="views-row views-row-14 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/paint-glass">Paint on Glass</a></span>  </div>  </div>
+  <div class="views-row views-row-15 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/painting">Painting</a></span>  </div>  </div>
+  <div class="views-row views-row-16 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/pastel">Pastel</a></span>  </div>  </div>
+  <div class="views-row views-row-17 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/pencil-other-drawing">Pencil / Other Drawing</a></span>  </div>  </div>
+  <div class="views-row views-row-18 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/photos">Photos</a></span>  </div>  </div>
+  <div class="views-row views-row-19 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/pixilation">Pixilation</a></span>  </div>  </div>
+  <div class="views-row views-row-20 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/puppets">Puppets</a></span>  </div>  </div>
+  <div class="views-row views-row-21 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/rotoscope">Rotoscope</a></span>  </div>  </div>
+  <div class="views-row views-row-22 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/sand">Sand</a></span>  </div>  </div>
+  <div class="views-row views-row-23 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/stop-motion">Stop-Motion</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+  </div>
+</div>
+</div>
+</div>
+    </div>
+  </div>
+</div>      </div>
+</div><aside class="grid-3 region region-sidebar-second" id="region-sidebar-second">
+  <div class="region-inner region-sidebar-second-inner">
+    <div class="block block-openadstream-jquery block-oasjquery-x22 block-openadstream-jquery-oasjquery-x22 odd block-without-title" id="block-openadstream-jquery-oasjquery-x22">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <script type="text/javascript">
+        OAS_RICH("x22");
+        jQuery("embed").attr("wmode", "opaque").wrap("<div>");
+      </script>    </div>
+  </div>
+</div><div class="block block-openadstream-jquery block-oasjquery-x23 block-openadstream-jquery-oasjquery-x23 even block-without-title" id="block-openadstream-jquery-oasjquery-x23">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <script type="text/javascript">
+        OAS_RICH("x23");
+        jQuery("embed").attr("wmode", "opaque").wrap("<div>");
+      </script>    </div>
+  </div>
+</div>  </div>
+</aside>  </div>
+</div><div id="zone-postscript-wrapper" class="zone-wrapper zone-postscript-wrapper clearfix">  
+  <div id="zone-postscript" class="zone zone-postscript clearfix container-12">
+    <div class="grid-3 region region-postscript-first" id="region-postscript-first">
+  <div class="region-inner region-postscript-first-inner">
+    <div class="block block-openadstream-jquery block-oasjquery-x84 block-openadstream-jquery-oasjquery-x84 odd block-without-title" id="block-openadstream-jquery-oasjquery-x84">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <script type="text/javascript">
+        OAS_RICH("x84");
+        jQuery("embed").attr("wmode", "opaque").wrap("<div>");
+      </script>    </div>
+  </div>
+</div>  </div>
+</div><div class="grid-3 region region-postscript-second" id="region-postscript-second">
+  <div class="region-inner region-postscript-second-inner">
+    <div class="block block-openadstream-jquery block-oasjquery-x85 block-openadstream-jquery-oasjquery-x85 odd block-without-title" id="block-openadstream-jquery-oasjquery-x85">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <script type="text/javascript">
+        OAS_RICH("x85");
+        jQuery("embed").attr("wmode", "opaque").wrap("<div>");
+      </script>    </div>
+  </div>
+</div>  </div>
+</div><div class="grid-3 region region-postscript-third" id="region-postscript-third">
+  <div class="region-inner region-postscript-third-inner">
+    <div class="block block-openadstream-jquery block-oasjquery-x86 block-openadstream-jquery-oasjquery-x86 odd block-without-title" id="block-openadstream-jquery-oasjquery-x86">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <script type="text/javascript">
+        OAS_RICH("x86");
+        jQuery("embed").attr("wmode", "opaque").wrap("<div>");
+      </script>    </div>
+  </div>
+</div>  </div>
+</div><div class="grid-3 region region-postscript-fourth" id="region-postscript-fourth">
+  <div class="region-inner region-postscript-fourth-inner">
+    <div class="block block-openadstream-jquery block-oasjquery-x87 block-openadstream-jquery-oasjquery-x87 odd block-without-title" id="block-openadstream-jquery-oasjquery-x87">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <script type="text/javascript">
+        OAS_RICH("x87");
+        jQuery("embed").attr("wmode", "opaque").wrap("<div>");
+      </script>    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div></section>    
+  
+      <footer id="section-footer" class="section section-footer">
+  <div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">  
+  <div id="zone-footer" class="zone zone-footer clearfix container-12">
+    <div class="grid-12 region region-footer-first" id="region-footer-first">
+  <div class="region-inner region-footer-first-inner">
+    <section class="block block-views block-featured-content-block block-views-featured-content-block odd" id="block-views-featured-content-block">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">AWNtv Featured Content</h2>
+            
+    <div class="content clearfix">
+      <div class="view view-featured-content view-id-featured_content view-display-id-block view-dom-id-74426464096b53b1e31f8ebaa11182c0">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <article about="/videos/professional-spotlight-saschka-unseld-fmx-2013" typeof="sioc:Item foaf:Document" class="node node-video node-teaser node-published node-not-promoted node-not-sticky author-dsarto odd clearfix" id="node-video-4778">
+  <div class="content clearfix">
+        
+        <div class="video-thumbnail"><div class="field field-name-field-thumbnail field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/videos/professional-spotlight-saschka-unseld-fmx-2013"><img typeof="foaf:Image" src="http://awn.bc.cdn.bitgravity.com/static/sites/default/files/styles/video/public/thumbnails/4778professional-spotlight-saschka-unseld-fmx-2013.jpg?itok=5fCaj-ka" width="160" height="120" alt="" /></a></div></div></div></div>
+        
+        <header>
+      <h2 class="node-title"><a href="/videos/professional-spotlight-saschka-unseld-fmx-2013" title="Professional Spotlight: Saschka Unseld at FMX 2013 Part 1">Professional Spotlight: Saschka Unseld at FMX 2013 Part 1</a></h2>
+    </header>
+      
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">Saschka talks about pitching and directing Pixar's latest short, The Blue Umbrella, opening in theatres with Monsters University. Part 1 of 2.</div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <article about="/videos/professional-spotlight-dan-glass-view-conference-2012-part-1" typeof="sioc:Item foaf:Document" class="node node-video node-teaser node-published node-not-promoted node-not-sticky author-dsarto even clearfix" id="node-video-4695">
+  <div class="content clearfix">
+        
+        <div class="video-thumbnail"><div class="field field-name-field-thumbnail field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/videos/professional-spotlight-dan-glass-view-conference-2012-part-1"><img typeof="foaf:Image" src="http://awn.bc.cdn.bitgravity.com/static/sites/default/files/styles/video/public/thumbnails/4695professional-spotlight-dan-glass-view-conference-2012-part-1_0.jpg?itok=6vljQSn-" width="160" height="120" alt="" /></a></div></div></div></div>
+        
+        <header>
+      <h2 class="node-title"><a href="/videos/professional-spotlight-dan-glass-view-conference-2012-part-1" title="Professional Spotlight: Dan Glass at VIEW Conference 2012 Part 1">Professional Spotlight: Dan Glass at VIEW Conference 2012 Part 1</a></h2>
+    </header>
+      
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">Dan, Chief Creative Officer at Method Studios, details the challenges of working with the Wachowski siblings and Tom Tykwer on their film, Cloud Atlas.  Part 1 of 2.</div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    <article about="/videos/professional-spotlight-douglas-trumbull-fmx-2012-part-1" typeof="sioc:Item foaf:Document" class="node node-video node-teaser node-published node-not-promoted node-not-sticky author-dsarto odd clearfix" id="node-video-4586">
+  <div class="content clearfix">
+        
+        <div class="video-thumbnail"><div class="field field-name-field-thumbnail field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/videos/professional-spotlight-douglas-trumbull-fmx-2012-part-1"><img typeof="foaf:Image" src="http://awn.bc.cdn.bitgravity.com/static/sites/default/files/styles/video/public/thumbnails/4586_professional-spotlight-douglas-trumbull-fmx-2012-part-1.jpg?itok=PXp1fc9T" width="160" height="120" alt="Professional Spotlight: Douglas Trumbull at FMX 2012 Part 1" title="Professional Spotlight: Douglas Trumbull at FMX 2012 Part 1" /></a></div></div></div></div>
+        
+        <header>
+      <h2 class="node-title"><a href="/videos/professional-spotlight-douglas-trumbull-fmx-2012-part-1" title="Professional Spotlight: Douglas Trumbull at FMX 2012 Part 1">Professional Spotlight: Douglas Trumbull at FMX 2012 Part 1</a></h2>
+    </header>
+      
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">Doug discusses opportunities for increasingly realistic immersive movie experiences through higher frame rate filmmaking coupled with advances in film projection technology.  Part 1.</div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>  </div>
+  <div class="views-row views-row-4 views-row-even">
+    <article about="/videos/professional-spotlight-eric-darnell-view-conference-2012-part-1" typeof="sioc:Item foaf:Document" class="node node-video node-teaser node-published node-not-promoted node-not-sticky author-dsarto even clearfix" id="node-video-4700">
+  <div class="content clearfix">
+        
+        <div class="video-thumbnail"><div class="field field-name-field-thumbnail field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/videos/professional-spotlight-eric-darnell-view-conference-2012-part-1"><img typeof="foaf:Image" src="http://awn.bc.cdn.bitgravity.com/static/sites/default/files/styles/video/public/thumbnails/4700professional-spotlight-eric-darnell-view-conference-2012-part-1.jpg?itok=u5h2gWve" width="160" height="120" alt="" /></a></div></div></div></div>
+        
+        <header>
+      <h2 class="node-title"><a href="/videos/professional-spotlight-eric-darnell-view-conference-2012-part-1" title="Professional Spotlight: Eric Darnell at VIEW Conference 2012 Part 1">Professional Spotlight: Eric Darnell at VIEW Conference 2012 Part 1</a></h2>
+    </header>
+      
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">Eric, a writer and director on all three Madagascar films, talks about the challenges faced on Madagascar 3: Europe's Most Wanted.  Part 1 of 2.</div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+    <article about="/videos/professional-spotlight-victoria-alonso-siggraph-2011-part-1" typeof="sioc:Item foaf:Document" class="node node-video node-teaser node-published node-not-promoted node-not-sticky author-dsarto odd clearfix" id="node-video-4117">
+  <div class="content clearfix">
+        
+        <div class="video-thumbnail"><div class="field field-name-field-thumbnail field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/videos/professional-spotlight-victoria-alonso-siggraph-2011-part-1"><img typeof="foaf:Image" src="http://awn.bc.cdn.bitgravity.com/static/sites/default/files/styles/video/public/thumbnails/4117_professional-spotlight-victoria-alonso-siggraph-2011-part-1.jpg?itok=bwiDY2FO" width="160" height="120" alt="Professional Spotlight: Victoria Alonso at SIGGRAPH 2011 Part 1" title="Professional Spotlight: Victoria Alonso at SIGGRAPH 2011 Part 1" /></a></div></div></div></div>
+        
+        <header>
+      <h2 class="node-title"><a href="/videos/professional-spotlight-victoria-alonso-siggraph-2011-part-1" title="Professional Spotlight: Victoria Alonso at SIGGRAPH 2011 Part 1">Professional Spotlight: Victoria Alonso at SIGGRAPH 2011 Part 1</a></h2>
+    </header>
+      
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">Victoria, EVP, VFX and Post Production, Marvel Studios, talks about her involvement in the making of multiple tent-pole films at the same time and discusses the company's relations with multiple vendors. Part 1 of 3.</div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</section>  </div>
+</div><div class="grid-12 region region-footer-second" id="region-footer-second">
+  <div class="region-inner region-footer-second-inner">
+    <div class="block block-block block-2 block-block-2 odd block-without-title" id="block-block-2">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <p><a href="/" title="Home">Home</a> |  <a href="/videos" title="Videos">Videos</a> |  <a href="/channels" title="Channels">Channels</a> | <a href="/categories" title="Categories">Categories</a> | <a href="/playlists" title="Playlists">Playlists</a> | <a href="/contact" title="Report a Problem">Report a Problem</a> | <a href="/contact" title="Submit your films">Submit Your Films</a><br /><a href="http://www.awn.com" title="Animation World Network" target="_blank">AWN.com</a> |  <a href="http://vfxworld.com" title="VFXWorld" target="_blank">VFXWorld.com</a> |  <a href="http://www.aidb.com" title="Animation Industry Database" target="_blank">AIDB.com</a> | <a href="http://www.animationblogspot.com" target="_blank">AnimationBlogspot.com</a> | <a href="http://www.awn.com/magazines/animation-world-magazine" title="AnimationWorld Magazine" target="_blank">AnimationWorld Magazine</a> |  <a href="http://www.awn.com/news" title="AWN Headline News" target="_blank">AWN Headline News</a> | <a href="http://jobs.awn.com" title="Career Connections" target="_blank">Career Connections</a><br /><a href="/contact" title="Contact Us">Contact Us</a> | <a href="/tos" title="Terms &amp; Conditions">Terms of Service</a> | <a href="/privacy" title="Privacy Policy">Privacy Policy</a> | <a href="http://www.awn.com/mediakit">Advertise</a><br /><br /><a href="http://www.bitgravity.com/" title="Bitgravity" target="_blank"><img src="/sites/all/themes/awntv_com_main/images/poweredbybitgravity.jpg" title="Bitgravity" border="0" /></a>         <a href="http://www.awn.com/" title="Animation World Network" target="_blank"><img src="/sites/all/themes/awntv_com_main/images/awnlogo.jpg" title="Animation World Network" border="0" /></a><br /><br /></p>
+<p class="copyright">© 2012 AWN, Inc.  AWNtv - Part of the Animation World Network - 13300 Victory Blvd. Suite 365 Van Nuys, CA 91401</p>
+    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div></footer>  </div>  </body>
+</html>

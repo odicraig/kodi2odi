@@ -1,0 +1,218 @@
+[
+  {
+    "group": "10557", 
+    "name": "TV 29 (Ensenada)", 
+    "url": "rtmp://panel.dattalive.com/8008/8008", 
+    "image": "", 
+    "type": "video", 
+    "id": "12660"
+  }, 
+  {
+    "group": "10557", 
+    "name": "Paka Paka", 
+    "url": "http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10551"
+  }, 
+  {
+    "group": "10557", 
+    "name": "One TV", 
+    "url": "http://server5.stweb.tv/radioone/live/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12189"
+  }, 
+  {
+    "group": "10557", 
+    "name": "Canal Rural", 
+    "url": "rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1", 
+    "image": "", 
+    "type": "video", 
+    "id": "10558"
+  }, 
+  {
+    "group": "10557", 
+    "name": "ARGENTINA Canal 79 (San Juan)", 
+    "url": "rtmp://painel.serveron.com.br:1935/8162/8162", 
+    "image": "", 
+    "type": "video", 
+    "id": "12089"
+  }, 
+  {
+    "group": "10557", 
+    "name": "C5N", 
+    "url": "rtmp://c5n.stweb.tv/c5n/live", 
+    "image": "http://www.buenosaires54.com/images/c5n1.jpg", 
+    "type": "video", 
+    "id": "10562"
+  }, 
+  {
+    "group": "10557", 
+    "name": "Canal 4 (Misiones)", 
+    "url": "rtmp://184.154.28.210:1935/canal4/canal4", 
+    "image": "", 
+    "type": "video", 
+    "id": "10565"
+  }, 
+  {
+    "group": "10557", 
+    "name": "Canal 6 San Rafael", 
+    "url": "https://www.youtube.com/watch?v=IIH2myknuQw?mode=3", 
+    "image": "", 
+    "type": "video", 
+    "id": "10567"
+  }, 
+  {
+    "group": "10557", 
+    "name": "TVM (Misiones)", 
+    "url": "rtmp://stream1.livestreamingservices.com/tvmlive/tvmlive", 
+    "image": "", 
+    "type": "video", 
+    "id": "10568"
+  }, 
+  {
+    "group": "10557", 
+    "name": "Canal 8 SAN JUAN", 
+    "url": "https://www.youtube.com/watch?v=TCbLRVA1ip4&mode=3", 
+    "image": "", 
+    "type": "video", 
+    "id": "10570"
+  }, 
+  {
+    "group": "10557", 
+    "name": "AMERICA 24", 
+    "url": "https://www.youtube.com/watch?v=ZEk_4qyyBq0&mode=3", 
+    "image": "http://3.bp.blogspot.com/-NesnOUZT0zY/Umg0HN_TZWI/AAAAAAAAaks/cDTGVN7fbM0/s76/a24-america-24.PNG", 
+    "type": "video", 
+    "id": "12607"
+  }, 
+  {
+    "group": "10557", 
+    "name": "Canal 26", 
+    "url": "http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w312671014_b1264000_sleng.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10571"
+  }, 
+  {
+    "group": "10557", 
+    "name": "TODO NOTICIAS", 
+    "url": "http://prepublish.f.qaotic.net/a04/ngrp:tn_live01-100083_all/Playlist.m3u8", 
+    "image": "http://laalameda.files.wordpress.com/2012/02/tn.jpg", 
+    "type": "ignore", 
+    "id": "10573"
+  }, 
+  {
+    "group": "10557", 
+    "name": "G360", 
+    "url": "http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10574"
+  }, 
+  {
+    "group": "10557", 
+    "name": "A24", 
+    "url": "https://www.youtube.com/watch?v=ZEk_4qyyBq0?mode=3", 
+    "image": "", 
+    "type": "video", 
+    "id": "10578"
+  }, 
+  {
+    "group": "10557", 
+    "name": "Canal 7 Mendoza", 
+    "url": "https://www.youtube.com/watch?v=cmo6uqcWkXc?mode=3", 
+    "image": "", 
+    "type": "video", 
+    "id": "10584"
+  }, 
+  {
+    "group": "10557", 
+    "name": "CANAL 13 SAN JUAN", 
+    "url": "https://www.youtube.com/watch?v=TCbLRVA1ip4?mode=3", 
+    "image": "", 
+    "type": "video", 
+    "id": "10579"
+  }, 
+  {
+    "group": "10557", 
+    "name": "Canal 10 Nuevo Mundo", 
+    "url": "https://www.youtube.com/watch?v=cWKiQ49RjSs?mode=3", 
+    "image": "", 
+    "type": "video", 
+    "id": "10580"
+  }, 
+  {
+    "group": "10557", 
+    "name": "XFN TV (Mar del Plata)", 
+    "url": "rtmp://painel.serveron.com.br/8172/8172", 
+    "image": "", 
+    "type": "video", 
+    "id": "11333"
+  }, 
+  {
+    "group": "10557", 
+    "name": "Magazine", 
+    "url": "rtmp://stream.mgzn.tv/live/mgzntv/mgzntv playpath=mgzntv swfUrl=http://www.mgzn.tv/sites/all/themes/magazine/images/player.swf live=1 pageUrl=http://www.mgzn.tv/vivo", 
+    "image": "", 
+    "type": "video", 
+    "id": "11334"
+  }, 
+  {
+    "group": "10557", 
+    "name": "ORBE 21", 
+    "url": "http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11541"
+  }, 
+  {
+    "group": "10557", 
+    "name": "TATETI", 
+    "url": "http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11542"
+  }, 
+  {
+    "group": "10557", 
+    "name": "VIAJAR", 
+    "url": "http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11543"
+  }, 
+  {
+    "group": "10557", 
+    "name": "TELEMAX", 
+    "url": "http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11545"
+  }, 
+  {
+    "group": "10557", 
+    "name": "TDC (Santa Fe)", 
+    "url": "rtmp://painel.serveron.com.br/8166/8166", 
+    "image": "", 
+    "type": "video", 
+    "id": "11548"
+  }, 
+  {
+    "group": "10557", 
+    "name": "Quiero Musica", 
+    "url": "mms://200.42.92.6:1755/qmusica", 
+    "image": "", 
+    "type": "video", 
+    "id": "10986"
+  }, 
+  {
+    "group": "10557", 
+    "name": "Senal Provincial", 
+    "url": "http://www.trimi.com.ar/provincial/streaming/mystream.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12608"
+  }
+]

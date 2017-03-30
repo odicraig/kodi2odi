@@ -1,0 +1,18 @@
+<settings>
+    <setting id="addon_debug" value="false" />
+    <setting id="autoplay" value="false" />
+    <setting id="current_ua" value="" />
+    <setting id="last_ua_create" value="0" />
+    <setting id="link_precheck" value="false" />
+    <setting id="livetv_base" value="http://xliveru.sx" />
+    <setting id="nba_bitrate" value="1280x720_3072" />
+    <setting id="roja_base" value="http://www.rojadirecta.me" />
+    <setting id="streamlive_pass" value="" />
+    <setting id="streamlive_show_premium" value="false" />
+    <setting id="streamlive_user" value="" />
+    <setting id="timezone_new" value="376" />
+    <setting id="ustvnow_email" value="" />
+    <setting id="ustvnow_pass" value="" />
+    <setting id="ustvnow_show_premium" value="false" />
+    <setting id="vk_bitrate" value="HD" />
+</settings>

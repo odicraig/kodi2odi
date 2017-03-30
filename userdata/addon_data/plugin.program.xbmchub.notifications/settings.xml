@@ -1,0 +1,6 @@
+<settings>
+    <setting id="noteImage" value="47" />
+    <setting id="noteMessage" value="Sorry to interrupt your Thanksgiving / Black Friday weekend, but&#x0A;we thought you might be interested in a few things we have to say...&#x0A;&#x0A;Amazon Fire TV (top Kodi device) on Sale for $74.99 USD:&#x0A;[B][COLOR white]https://www.tvaddons.ag/blackfriday/[/COLOR][/B]&#x0A;Install Kodi for Friends in Minutes (Custom Kodi Version):&#x0A;[B][COLOR white]https://www.tvaddons.ag/freetelly-launch/[/COLOR][/B]&#x0A;&#x0A;Lastly, if you&apos;re feeling generous after all that turkey and&#x0A;feel like donating to help cover web site expenses, anything&#x0A;is appreciated: [B][COLOR white]https://www.tvaddons.ag/donate/[/COLOR][/B]" />
+    <setting id="noteType" value="t" />
+    <setting id="notifications-on-startup" value="true" />
+</settings>

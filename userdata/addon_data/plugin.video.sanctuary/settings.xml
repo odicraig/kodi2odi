@@ -1,0 +1,154 @@
+<settings>
+    <setting id="Adult" value="forefingeroffury" />
+    <setting id="BAMF" value="true" />
+    <setting id="BAMF_Search" value="true" />
+    <setting id="Brettus_Anime" value="true" />
+    <setting id="Brettus_Anime_Search" value="true" />
+    <setting id="Cerberus" value="true" />
+    <setting id="Cold_As_Ice" value="true" />
+    <setting id="Cold_As_Ice_Search" value="true" />
+    <setting id="Dojo" value="true" />
+    <setting id="Dojo_Search" value="true" />
+    <setting id="Favourites" value="true" />
+    <setting id="Fido" value="true" />
+    <setting id="Freedom" value="true" />
+    <setting id="Freeview" value="true" />
+    <setting id="Freeview_Search" value="true" />
+    <setting id="INFO" value="515" />
+    <setting id="Intro_Vid" value="true" />
+    <setting id="Just_For_Him" value="true" />
+    <setting id="Latest_Episodes" value="true" />
+    <setting id="MAIN" value="500" />
+    <setting id="Maverick" value="true" />
+    <setting id="Maverick_Search" value="true" />
+    <setting id="Oblivion" value="true" />
+    <setting id="Oblivion_Search" value="true" />
+    <setting id="Only_Film" value="false" />
+    <setting id="Origin" value="true" />
+    <setting id="Origin_Search" value="true" />
+    <setting id="Pandoras_Box" value="true" />
+    <setting id="Pandoras_Box_Search" value="true" />
+    <setting id="Pyramid" value="true" />
+    <setting id="Pyramid_Search" value="true" />
+    <setting id="Quicksilver" value="true" />
+    <setting id="Quicksilver_Search" value="true" />
+    <setting id="Rays_Ravers" value="true" />
+    <setting id="Reaper_Search" value="true" />
+    <setting id="Recent_Movies" value="true" />
+    <setting id="Renegades" value="true" />
+    <setting id="Search" value="true" />
+    <setting id="Silent_Hunter" value="true" />
+    <setting id="Silent_Hunter_Search" value="true" />
+    <setting id="Supremacy" value="true" />
+    <setting id="Supremacy_Search" value="true" />
+    <setting id="TV_Guide" value="true" />
+    <setting id="Tigen&apos;s_World" value="true" />
+    <setting id="Tigen&apos;s_World_Search" value="true" />
+    <setting id="Today&apos;s_Football" value="true" />
+    <setting id="Ultra" value="true" />
+    <setting id="Ultra_Search" value="true" />
+    <setting id="Updatecommonresolvers" value="false" />
+    <setting id="add_playlist" value="true" />
+    <setting id="al_jazeera" value="TVPlayer" />
+    <setting id="ask_playlist_items" value="true" />
+    <setting id="auto-view" value="true" />
+    <setting id="bbc_alba" value="BBC iPlayer" />
+    <setting id="bbc_four" value="BBC iPlayer" />
+    <setting id="bbc_news" value="BBC iPlayer" />
+    <setting id="bbc_one" value="BBC iPlayer" />
+    <setting id="bbc_one_ni" value="BBC iPlayer" />
+    <setting id="bbc_one_scotland" value="BBC iPlayer" />
+    <setting id="bbc_one_wales" value="BBC iPlayer" />
+    <setting id="bbc_par" value="BBC iPlayer" />
+    <setting id="bbc_two" value="BBC iPlayer" />
+    <setting id="bbc_two_ni" value="BBC iPlayer" />
+    <setting id="bbc_two_scotland" value="BBC iPlayer" />
+    <setting id="bbc_two_wales" value="BBC iPlayer" />
+    <setting id="blaze" value="Direct" />
+    <setting id="bloomberg" value="TVPlayer" />
+    <setting id="box_hits" value="Direct" />
+    <setting id="box_up" value="Direct" />
+    <setting id="browse_community" value="false" />
+    <setting id="browse_xml_database" value="false" />
+    <setting id="capital" value="Direct" />
+    <setting id="cbbc" value="BBC iPlayer" />
+    <setting id="cbeebies" value="BBC iPlayer" />
+    <setting id="cbs_a" value="FilmOn" />
+    <setting id="cbs_d" value="FilmOn" />
+    <setting id="cbs_r" value="FilmOn" />
+    <setting id="cbs_r+1" value="FilmOn" />
+    <setting id="channel_4" value="TVPlayer" />
+    <setting id="channel_5" value="TVPlayer" />
+    <setting id="channel_aka" value="Direct" />
+    <setting id="chilled" value="TVPlayer" />
+    <setting id="choose_source" value="0" />
+    <setting id="citv" value="ITV Hub" />
+    <setting id="clubbingtv" value="FilmOn" />
+    <setting id="clubland" value="TVPlayer" />
+    <setting id="cnn" value="TVPlayer" />
+    <setting id="community" value="TVPlayer" />
+    <setting id="craft_chan" value="TVPlayer" />
+    <setting id="dave" value="TVPlayer" />
+    <setting id="dave_ja_vu" value="TVPlayer" />
+    <setting id="donotshowbychannels" value="false" />
+    <setting id="drama" value="TVPlayer" />
+    <setting id="e4" value="FilmOn" />
+    <setting id="film4" value="FilmOn" />
+    <setting id="five_star" value="FilmOn" />
+    <setting id="five_usa" value="FilmOn" />
+    <setting id="food_net" value="TVPlayer" />
+    <setting id="food_net+1" value="TVPlayer" />
+    <setting id="forces_tv" value="TVPlayer" />
+    <setting id="four_music" value="Direct" />
+    <setting id="ga_time" value="2000-01-01 00:00:00" />
+    <setting id="genesisorpulsar" value="0" />
+    <setting id="heart" value="Direct" />
+    <setting id="home" value="TVPlayer" />
+    <setting id="horror_ch" value="FilmOn" />
+    <setting id="itv1" value="ITV Hub" />
+    <setting id="itv1+1" value="FilmOn" />
+    <setting id="itv2" value="ITV Hub" />
+    <setting id="itv2+1" value="FilmOn" />
+    <setting id="itv3" value="ITV Hub" />
+    <setting id="itv3+1" value="FilmOn" />
+    <setting id="itv4" value="ITV Hub" />
+    <setting id="itv4+1" value="FilmOn" />
+    <setting id="itvbe" value="ITV Hub" />
+    <setting id="kerrang" value="Direct" />
+    <setting id="kic" value="TVPlayer" />
+    <setting id="kiss" value="Direct" />
+    <setting id="kix" value="FilmOn" />
+    <setting id="list_all" value="true" />
+    <setting id="london_live" value="Direct" />
+    <setting id="magic" value="Direct" />
+    <setting id="message" value="false" />
+    <setting id="more4" value="FilmOn" />
+    <setting id="new_file_source" value="" />
+    <setting id="new_url_source" value="" />
+    <setting id="now" value="Direct" />
+    <setting id="parentalblocked" value="true" />
+    <setting id="parentalblockedpin" value="1234" />
+    <setting id="pick" value="FilmOn" />
+    <setting id="pop" value="FilmOn" />
+    <setting id="pop_time" value="2000-01-01 00:00:00" />
+    <setting id="quest" value="TVPlayer" />
+    <setting id="quest+1" value="TVPlayer" />
+    <setting id="qvc" value="TVPlayer" />
+    <setting id="qvc_b" value="TVPlayer" />
+    <setting id="qvc_e" value="TVPlayer" />
+    <setting id="qvc_p" value="TVPlayer" />
+    <setting id="qvc_s" value="TVPlayer" />
+    <setting id="really" value="TVPlayer" />
+    <setting id="s4c" value="BBC iPlayer" />
+    <setting id="searchotherplugins" value="false" />
+    <setting id="sky_news" value="YouTube" />
+    <setting id="the_box" value="Direct" />
+    <setting id="tiny_pop" value="FilmOn" />
+    <setting id="tjc" value="Direct" />
+    <setting id="travel" value="TVPlayer" />
+    <setting id="travel+1" value="TVPlayer" />
+    <setting id="trutv" value="Direct" />
+    <setting id="visitor_ga" value="" />
+    <setting id="yesterday" value="TVPlayer" />
+    <setting id="yesterday+1" value="TVPlayer" />
+</settings>

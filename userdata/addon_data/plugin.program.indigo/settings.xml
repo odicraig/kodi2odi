@@ -1,0 +1,24 @@
+<settings>
+    <setting id="adult" value="true" />
+    <setting id="audio" value="true" />
+    <setting id="auto-view" value="true" />
+    <setting id="automain" value="true" />
+    <setting id="featured" value="true" />
+    <setting id="hasran" value="true" />
+    <setting id="livetv" value="true" />
+    <setting id="newest" value="true" />
+    <setting id="notifications-on-startup" value="false" />
+    <setting id="notify" value="3" />
+    <setting id="playlist" value="true" />
+    <setting id="program" value="true" />
+    <setting id="repositories" value="true" />
+    <setting id="scriptblock" value="true" />
+    <setting id="skincat" value="true" />
+    <setting id="sports" value="true" />
+    <setting id="toprepositories" value="true" />
+    <setting id="updated" value="true" />
+    <setting id="video" value="true" />
+    <setting id="wizardran" value="false" />
+    <setting id="world" value="true" />
+    <setting id="zip" value="C:\Craig_Work\" />
+</settings>

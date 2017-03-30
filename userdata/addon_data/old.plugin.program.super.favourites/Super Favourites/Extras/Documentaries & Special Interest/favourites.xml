@@ -1,0 +1,4 @@
+<favourites>
+	<favourite name="JohnLocker" thumb="special://home/addons\plugin.video.johnlocker\icon.png">ActivateWindow(10025,&quot;plugin://plugin.video.johnlocker/&quot;,return)</favourite>
+	<favourite name="Disclose.tv" thumb="special://home/addons\plugin.video.disclose_tv\icon.png">ActivateWindow(10025,&quot;plugin://plugin.video.disclose_tv/&quot;,return)</favourite>
+</favourites>

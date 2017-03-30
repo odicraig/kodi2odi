@@ -1,0 +1,17 @@
+Server: Apache
+X-Magnify-Edge-Control: cache-maxage=3600
+Cache-Control: max-age=3600, public
+Vary: Accept-Encoding
+Content-Type: text/html; charset=utf-8
+X-Magnify-Edge-Control-TTL: 3600
+X-Magnify-URL-Class: modperl-cacheable-dynamic
+Content-Length: 10300
+Accept-Ranges: bytes
+Date: Tue, 29 Dec 2015 05:42:09 GMT
+X-Varnish: 990015012 989988133
+Age: 1275
+Via: 1.1 varnish
+Connection: close
+X-Cache: HIT
+X-Local-Cache: HIT
+X-Location: http://www.engineeringtv.com/embed/player/container/300/300/?content_type=content_item&playlist_cid=&media_type=video&content=WS2VQM3HFVPXF92G&widget_type_cid=svp

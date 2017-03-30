@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+***************************************************************************
+***************************************************************************
+<poster>Blazetamer</poster>
+<fanart>http://rowthreemedia.com/xbmchub/repos/blazetamer/fanart.jpg</fanart>
+<meta>movies</meta>
+<sort>yes</sort>
+***************************************************************************
+***************************************************************************
+
+<notify>
+<new>6</new>
+<message1>Thanks for making us #1</message1>
+<message2>Resolver issues are known</message2>
+<message3>Updates forthcoming </message3>
+<old>5</old>
+</notify>
+
+
+<popup>
+<name>Blazetamer Welcomes You </name>
+<popImage>http://mecca.watchkodi.com/images/tvaddonsinfo.jpg</popImage>
+<thumbnail>https://avatars3.githubusercontent.com/u/5573032?v=3&s=460</thumbnail>
+<sound>http://cliqaddon.com/support/streams/maindir/tequila.mp3</sound>
+</popup>
+
+<info>
+<message>[COLOR orange]Addon wide Messages will be found right here[/COLOR]</message>
+<thumbnail>https://avatars3.githubusercontent.com/u/5573032?v=3&s=460</thumbnail>
+</info>
+
+<name>Testing Files</name>
+<link>http://cliqaddon.com/support/streams/maindir/tests.xml</link>
+<thumbnail>http://origin.arstechnica.com/journals/thumbs.media/sci_fi_logo_150.gif</thumbnail>
+<date>12/10/14</date>
+
+
+<name>Sort Testing Files</name>
+<link>http://cliqaddon.com/support/streams/maindir/TestMovies.xml</link>
+<thumbnail>http://origin.arstechnica.com/journals/thumbs.media/sci_fi_logo_150.gif</thumbnail>
+<date>1/05/15</date>
+
+<name>Stampy LongHead</name>
+<link>http://cliqaddon.com/support/streams/maindir/stampy.xml</link>
+<thumbnail>https://yt3.ggpht.com/-bY_OkstVA0g/AAAAAAAAAAI/AAAAAAAAAAA/x2CqwQ35Dco/s100-c-k-no/photo.jpg</thumbnail>
+<date>1/07/15</date>
+
+
+<dir>
+<name>Fanart Test 1</name>
+<link>http://cliqaddon.com/support/streams/maindir/stampy.xml</link>
+<thumbnail>https://yt3.ggpht.com/-bY_OkstVA0g/AAAAAAAAAAI/AAAAAAAAAAA/x2CqwQ35Dco/s100-c-k-no/photo.jpg</thumbnail>
+<fanart>http://postimg.org/image/yrkucq4d5/</fanart>
+</dir>
+
+
+
+
+
+

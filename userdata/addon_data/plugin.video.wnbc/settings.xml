@@ -1,0 +1,13 @@
+<settings>
+    <setting id="category_view" value="57" />
+    <setting id="enable_views" value="false" />
+    <setting id="episode_view" value="56" />
+    <setting id="init_meta" value="false" />
+    <setting id="shows_view" value="56" />
+    <setting id="sub_enable" value="false" />
+    <setting id="us_proxy" value="" />
+    <setting id="us_proxy_enable" value="false" />
+    <setting id="us_proxy_pass" value="" />
+    <setting id="us_proxy_port" value="" />
+    <setting id="us_proxy_user" value="" />
+</settings>

@@ -1,0 +1,22 @@
+[B][COLOR red]CURRENT VERSION 0.0.3[/COLOR][/B]
+[B][COLOR red]REPO VERSION 1.0.6[/COLOR][/B]
+
+
+
+[B][COLOR red]30/07/2016[/COLOR][/B]
+
+
+
+[B][COLOR white]We have currently left TVAddons, and since the change we have had a few problems, they are now sorted![/COLOR][/B]
+
+[B][COLOR white]Please delete repo and reinstall from http://www.matsbuilds.co.uk/goliath for future updates!
+
+You may notice a difference in speed in lists, they open very quickly and also the same in performance of the addon.
+
+we also now have our own website and forum they can be found at www.evolveteam.club, hope to see you there! :)
+
+also make sure you have version 2.2.5 of f4mtester [/COLOR][/B]
+
+
+
+[B][COLOR red]thank you again!![/COLOR][/B]

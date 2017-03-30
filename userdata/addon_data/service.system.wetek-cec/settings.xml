@@ -1,0 +1,4 @@
+<settings>
+    <setting id="cec_mode" value="1" />
+    <setting id="enable_cec" value="true" />
+</settings>

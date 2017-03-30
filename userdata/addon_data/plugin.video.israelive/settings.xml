@@ -1,0 +1,28 @@
+<settings>
+    <setting id="LiveStreamerPort" value="65007" />
+    <setting id="LiveTVadvanced" value="true" />
+    <setting id="StreramProtocol" value="0" />
+    <setting id="action" value="" />
+    <setting id="autoIPTV" value="true" />
+    <setting id="autoPVR" value="true" />
+    <setting id="autoStopPVR" value="false" />
+    <setting id="catColor" value="blue" />
+    <setting id="chColor" value="yellow" />
+    <setting id="dynamicPlayer" value="0" />
+    <setting id="favColor" value="green" />
+    <setting id="forceRemoteDefaults" value="true" />
+    <setting id="imExFolder" value="" />
+    <setting id="iptvList" value="1" />
+    <setting id="israeliveAdvanced" value="true" />
+    <setting id="nprColor" value="white" />
+    <setting id="prColor" value="orange" />
+    <setting id="remoteFavouritesFile" value="" />
+    <setting id="remoteFavouritesType" value="0" />
+    <setting id="remoteFavouritesUrl" value="" />
+    <setting id="remoteSettingsUrl" value="sefm0Z97eLiuvaHe2pR-sJq5r6vG,sefm0Z97eLiuvaHe2pR-sMKzoNq_,sefm0Z97eLiuvaHe2pR-sY2nkePh,sefm0Z97eLiuvaHe2pR-sLl6j6TI,sefm0Z97eLiuvaHe2pR-scGNleCl,sefm0Z97eLiuvaHe2pR-sKycveC5,sefm0Z97eLiuvaHe2pR-sY1-kNTb,sefm0Z97eLiuvaHe2pR-sb6IlOy2,sefm0Z97eLiuvaHe2pR-sLiUeerp,sefm0Z97eLiuvaHe2pR-sLl4n-O4,sefm0Z97eLiuvaHe2pR-scGResLZ,sefm0Z97eLiuvaHe2pR-sKyTkr2r,sefm0Z97eLiuvaHe2pR-sJq6rKPH,sefm0Z97eLiuvaHe2pR-sb6Toqmq,sefm0Z97eLiuvaHe2pR-scGSl9zh,sefm0Z97eLiuvaHe2pR-sYuMn765,sefm0Z97eLiuvaHe2pR-sLqwuqe7,sefm0Z97eLiuvaHe2pR-sY6se-PJ,sefm0Z97eLiuvaHe2pR-sLq9feOq,sefm0Z97eLiuvaHe2pR-sY6wsN2-,sefm0Z97eLiuvaHe2pR-sK6eeeak,sefm0Z97eLiuvaHe2pR-sLqwv764,sefm0Z97eLiuvaHe2pR-sLqxksDM,sefm0Z97eLiuvaHe2pR-sY6zfOS7,sefm0Z97eLiuvaHe2pR-sLqvgeTl,sefm0Z97eLiuvaHe2pR-sLqnv7TW,sefm0Z97eLiuvaHe2pR-scO4udq4,sefm0Z97eLiuvaHe2pR-sLqyfNy4,sefm0Z97eLiuvaHe2pR-sY61r7S3,sefm0Z97eLiuvaHe2pR-sMORjcm-,sefm0Z97eLiuvaHe2pR-sMOPgsu2,sefm0Z97eLiuvaHe2pR-sY6ulrrV,sefm0Z97eLiuvaHe2pR-sb-NvOqo,sefm0Z97eLiuvaHe2pR-sLq_squl,sefm0Z97eLiuvaHe2pR-sJu3ltzB,sefm0Z97eLiuvaHe2pR-sY60rr2q,sefm0Z97eLiuvaHe2pR-sMOWitu4,sefm0Z97eLiuvaHe2pR-sLqnvsC3,sefm0Z97eLiuvaHe2pR-sK6Ye8zi,sefm0Z97eLiuvaHe2pR-scO8r-Tc,sefm0Z97eLiuvaHe2pR-sLq2lOyl,sefm0Z97eLiuvaHe2pR-sJuvqr2l,sefm0Z97eLiuvaHe2pR-sYuRkKm-,sefm0Z97eLiuvaHe2pR-sJu1juXZ,sefm0Z97eLiuvaHe2pR-scOIetXg,sefm0Z97eLiuvaHe2pR-scO-nt29,sefm0Z97eLiuvaHe2pR-sYuKq-rE,sefm0Z97eLiuvaHe2pR-sY67vaaz,sefm0Z97eLiuvaHe2pR-sY6zs-ao,sefm0Z97eLiuvaHe2pR-sMOUgOHd,sefm0Z97eLiuvaHe2pR-scO4i8Ha,sefm0Z97eLiuvaHe2pR-scOHr9jo" />
+    <setting id="timesColor" value="burlywood" />
+    <setting id="unverifySSL" value="false" />
+    <setting id="useCategories" value="false" />
+    <setting id="useEPG" value="true" />
+    <setting id="useIPTV" value="true" />
+</settings>

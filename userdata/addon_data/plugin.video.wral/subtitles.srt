@@ -1,0 +1,1870 @@
+1
+00:00:00,00 --> 00:00:07,58
+<metadata ccrow="0" cccol="0"/>
+
+2
+00:00:07,58 --> 00:00:10,58
+<metadata ccrow="0" cccol="2"/>(Star Wars fanfare playing)
+
+3
+00:00:50,46 --> 00:00:52,46
+<metadata ccrow="0" cccol="14"/>♪ ♪
+
+4
+00:00:58,67 --> 00:01:00,75
+<metadata ccrow="0" cccol="11"/>Guys, tickets already
+went on sale!
+
+5
+00:00:58,67 --> 00:01:00,75
+<metadata ccrow="2" cccol="8"/>What?!
+
+6
+00:01:00,75 --> 00:01:02,58
+<metadata ccrow="0" cccol="6"/>They're not supposed
+to be available yet.
+
+7
+00:01:02,58 --> 00:01:04,25
+<metadata ccrow="0" cccol="7"/>I don't know what to tell
+you, but they're on sale!
+
+8
+00:01:04,25 --> 00:01:06,75
+<metadata ccrow="0" cccol="0"/>What? Wait. You're sure
+they're Star Wars tickets?
+
+9
+00:01:06,75 --> 00:01:10,62
+<metadata ccrow="0" cccol="2"/>No, it's Steel Magnolias 2:
+Even Steelier.
+
+10
+00:01:12,08 --> 00:01:13,42
+<metadata ccrow="0" cccol="5"/>The Web site's frozen.
+I can't get in!
+
+11
+00:01:13,42 --> 00:01:14,79
+<metadata ccrow="0" cccol="4"/>LEONARD: Yeah, me, too.
+
+12
+00:01:13,42 --> 00:01:14,79
+<metadata ccrow="2" cccol="6"/>WOLOWITZ: Same here!
+
+13
+00:01:14,79 --> 00:01:17,08
+<metadata ccrow="0" cccol="1"/>Guys, they're gonna sell out!
+
+14
+00:01:14,79 --> 00:01:17,08
+<metadata ccrow="2" cccol="0"/>What are we gonna do?!
+
+15
+00:01:17,08 --> 00:01:19,29
+<metadata ccrow="0" cccol="6"/>All right, this goes
+against everything I stand for,
+
+16
+00:01:19,29 --> 00:01:21,58
+<metadata ccrow="0" cccol="4"/>but desperate times call
+for desperate measures.
+
+17
+00:01:21,58 --> 00:01:23,12
+<metadata ccrow="0" cccol="12"/>Lord...
+
+18
+00:01:25,08 --> 00:01:27,08
+<metadata ccrow="0" cccol="4"/>This is Sheldon Cooper.
+
+19
+00:01:27,08 --> 00:01:29,83
+<metadata ccrow="0" cccol="0"/>You're good friends with my mom.
+
+20
+00:01:29,83 --> 00:01:33,58
+<metadata ccrow="0" cccol="3"/>I know I've spent my life
+denying that you exist.
+
+21
+00:01:33,58 --> 00:01:35,62
+<metadata ccrow="0" cccol="0"/>Got 'em!
+
+22
+00:01:33,58 --> 00:01:35,62
+<metadata ccrow="1" cccol="13"/>And I will continue
+to do so!
+
+23
+00:01:37,33 --> 00:01:40,92
+<metadata ccrow="13" cccol="6"/>♪ Our whole universe
+was in a hot, dense state ♪
+
+24
+00:01:40,92 --> 00:01:44,25
+<metadata ccrow="13" cccol="1"/>♪ Then nearly 14 billion years
+ago expansion started... Wait! ♪
+
+25
+00:01:44,25 --> 00:01:45,92
+<metadata ccrow="14" cccol="2"/>♪ The Earth began to cool ♪
+
+26
+00:01:45,92 --> 00:01:48,58
+<metadata ccrow="13" cccol="0"/>♪ The autotrophs began to drool,
+Neanderthals developed tools ♪
+
+27
+00:01:48,58 --> 00:01:51,08
+<metadata ccrow="12" cccol="5"/>♪ We built the Wall ♪
+
+28
+00:01:48,58 --> 00:01:51,08
+<metadata ccrow="14" cccol="3"/>♪ We built the pyramids ♪
+
+29
+00:01:51,08 --> 00:01:53,79
+<metadata ccrow="13" cccol="3"/>♪ Math, Science, History,
+unraveling the mystery ♪
+
+30
+00:01:53,79 --> 00:01:55,67
+<metadata ccrow="13" cccol="7"/>♪ That all started
+with a big bang ♪
+
+31
+00:01:55,67 --> 00:01:57,38
+<metadata ccrow="14" cccol="11"/>♪ Bang! ♪
+
+32
+00:02:05,25 --> 00:02:07,25
+<metadata ccrow="0" cccol="0"/>I'm really happy
+you and Amy are back together.
+
+33
+00:02:07,25 --> 00:02:08,83
+<metadata ccrow="0" cccol="18"/>Oh, thank you.
+
+34
+00:02:08,83 --> 00:02:11,17
+<metadata ccrow="0" cccol="6"/>I'm also really happy, but
+I can't pretend it's for you.
+
+35
+00:02:11,17 --> 00:02:13,04
+<metadata ccrow="0" cccol="4"/>New Star Wars in three days!
+
+36
+00:02:14,29 --> 00:02:16,29
+<metadata ccrow="0" cccol="13"/>Hey, Thursday can't
+get here soon enough.
+
+37
+00:02:16,29 --> 00:02:18,83
+<metadata ccrow="0" cccol="6"/>I'm taking off work
+to watch the original trilogy
+
+38
+00:02:18,83 --> 00:02:23,25
+<metadata ccrow="0" cccol="1"/>while I eat enough Star Wars 
+cereal to choke a Wookiee.
+
+39
+00:02:23,25 --> 00:02:26,75
+<metadata ccrow="0" cccol="2"/>Uh, sweetie, you do realize
+Thursday is Amy's birthday.
+
+40
+00:02:26,75 --> 00:02:29,25
+<metadata ccrow="0" cccol="7"/>And you do realize
+I bought my ticket
+
+41
+00:02:29,25 --> 00:02:30,83
+<metadata ccrow="0" cccol="1"/>when Amy and I were broken up?
+
+42
+00:02:32,54 --> 00:02:34,71
+<metadata ccrow="0" cccol="0"/>I hope you didn't need anything
+in that case,
+
+43
+00:02:34,71 --> 00:02:36,08
+<metadata ccrow="0" cccol="6"/>'cause it's closed.
+
+44
+00:02:36,08 --> 00:02:38,54
+<metadata ccrow="0" cccol="0"/>You guys just got back together.
+
+45
+00:02:38,54 --> 00:02:40,71
+<metadata ccrow="0" cccol="7"/>You might not want
+to ditch her on her birthday.
+
+46
+00:02:40,71 --> 00:02:42,96
+<metadata ccrow="0" cccol="3"/>I think Penny has a point.
+You can see it another day.
+
+47
+00:02:42,96 --> 00:02:44,96
+<metadata ccrow="0" cccol="7"/>But someone might
+spoil the movie.
+
+48
+00:02:44,96 --> 00:02:46,96
+<metadata ccrow="0" cccol="8"/>No one can spoil
+Amy's birthday for me.
+
+49
+00:02:46,96 --> 00:02:48,29
+<metadata ccrow="0" cccol="2"/>Surprise! She's even older.
+
+50
+00:02:48,29 --> 00:02:50,54
+<metadata ccrow="0" cccol="6"/>Who saw that coming?
+
+51
+00:02:50,54 --> 00:02:52,38
+<metadata ccrow="0" cccol="8"/>Oh, that's nice.
+
+52
+00:02:52,38 --> 00:02:54,62
+<metadata ccrow="0" cccol="5"/>Put that on her cake.
+
+53
+00:02:57,12 --> 00:02:59,58
+<metadata ccrow="0" cccol="11"/>(whirring)
+
+54
+00:03:04,58 --> 00:03:07,50
+<metadata ccrow="0" cccol="5"/>Oh, great. This again.
+
+55
+00:03:07,50 --> 00:03:11,25
+<metadata ccrow="0" cccol="1"/>Arthur, what brings you back?
+
+56
+00:03:11,25 --> 00:03:13,46
+<metadata ccrow="0" cccol="3"/>Uh, beats me. I-I just...
+
+57
+00:03:13,46 --> 00:03:15,88
+<metadata ccrow="0" cccol="1"/>hope this isn't a-a sex dream.
+
+58
+00:03:17,92 --> 00:03:19,88
+<metadata ccrow="0" cccol="1"/>In the past, you've come to me
+
+59
+00:03:19,88 --> 00:03:21,75
+<metadata ccrow="0" cccol="6"/>when I'm struggling
+with a dilemma.
+
+60
+00:03:21,75 --> 00:03:24,88
+<metadata ccrow="0" cccol="1"/>And-and the one time where...
+where you were afraid,
+
+61
+00:03:24,88 --> 00:03:28,96
+<metadata ccrow="0" cccol="4"/>and you needed me for...
+for a night light.
+
+62
+00:03:30,79 --> 00:03:32,46
+<metadata ccrow="0" cccol="2"/>What's-what's troubling you?
+
+63
+00:03:33,46 --> 00:03:35,21
+<metadata ccrow="0" cccol="12"/>Well...
+
+64
+00:03:35,21 --> 00:03:37,21
+<metadata ccrow="0" cccol="3"/>my friends are telling me
+
+65
+00:03:37,21 --> 00:03:39,62
+<metadata ccrow="0" cccol="6"/>I shouldn't abandon
+my girlfriend on her birthday
+
+66
+00:03:39,62 --> 00:03:42,42
+<metadata ccrow="0" cccol="0"/>to see the new Star Wars movie.
+
+67
+00:03:42,42 --> 00:03:44,62
+<metadata ccrow="0" cccol="6"/>Well, sounds right.
+
+68
+00:03:46,12 --> 00:03:48,62
+<metadata ccrow="0" cccol="0"/>Can... can I get out of this...
+
+69
+00:03:48,62 --> 00:03:51,50
+<metadata ccrow="0" cccol="10"/>muumuu now?
+
+70
+00:03:51,50 --> 00:03:53,62
+<metadata ccrow="0" cccol="0"/>Those are the robes of the Jedi,
+
+71
+00:03:53,62 --> 00:03:56,58
+<metadata ccrow="0" cccol="5"/>the guardians of peace
+and justice in the galaxy.
+
+72
+00:03:56,58 --> 00:04:00,62
+<metadata ccrow="0" cccol="0"/>And they... they-they don't wear
+underwear.
+
+73
+00:04:05,75 --> 00:04:07,96
+<metadata ccrow="0" cccol="1"/>So, you agree with my friends
+
+74
+00:04:07,96 --> 00:04:10,17
+<metadata ccrow="0" cccol="0"/>that I should skip the premiere?
+
+75
+00:04:10,17 --> 00:04:13,79
+<metadata ccrow="0" cccol="0"/>Uh, do... do you
+love this girl?
+
+76
+00:04:13,79 --> 00:04:15,79
+<metadata ccrow="0" cccol="28"/>Yes.
+
+77
+00:04:15,79 --> 00:04:19,08
+<metadata ccrow="0" cccol="4"/>But she knows how important
+Star Wars is to me.
+
+78
+00:04:19,08 --> 00:04:21,38
+<metadata ccrow="0" cccol="10"/>Well, maybe
+you should show her how...
+
+79
+00:04:21,38 --> 00:04:24,21
+<metadata ccrow="0" cccol="2"/>how important she is to you.
+
+80
+00:04:24,21 --> 00:04:27,71
+<metadata ccrow="13" cccol="13"/>By seeing the movie
+she'd want me to see?
+
+81
+00:04:29,12 --> 00:04:32,12
+<metadata ccrow="13" cccol="4"/>Sheldon, you-you can see
+this movie whenever you want.
+
+82
+00:04:33,21 --> 00:04:36,54
+<metadata ccrow="13" cccol="7"/>But you only have
+a limited number of days
+
+83
+00:04:36,54 --> 00:04:39,62
+<metadata ccrow="13" cccol="6"/>that you-you can be
+with this woman.
+
+84
+00:04:39,62 --> 00:04:41,29
+<metadata ccrow="14" cccol="10"/>Be with her.
+
+85
+00:04:43,29 --> 00:04:45,25
+<metadata ccrow="14" cccol="19"/>You're right.
+
+86
+00:04:45,25 --> 00:04:46,71
+<metadata ccrow="14" cccol="13"/>Great.
+
+87
+00:04:47,75 --> 00:04:49,79
+<metadata ccrow="14" cccol="12"/>Where are you going?
+
+88
+00:04:49,79 --> 00:04:54,46
+<metadata ccrow="13" cccol="2"/>I don't know, but hopefully,
+somewhere I can wear pants.
+
+89
+00:04:57,25 --> 00:04:59,25
+<metadata ccrow="14" cccol="1"/>(cell phone ringtone playing)
+
+90
+00:05:03,96 --> 00:05:05,96
+<metadata ccrow="14" cccol="5"/>Sheldon, what's wrong?
+
+91
+00:05:05,96 --> 00:05:09,29
+<metadata ccrow="13" cccol="0"/>I wanted to let you know I'll be
+spending your birthday with you.
+
+92
+00:05:10,29 --> 00:05:12,54
+<metadata ccrow="14" cccol="13"/>Okay.
+
+93
+00:05:12,54 --> 00:05:15,79
+<metadata ccrow="13" cccol="2"/>See, I-I had tickets to the
+Star Wars premiere that night,
+
+94
+00:05:15,79 --> 00:05:18,25
+<metadata ccrow="13" cccol="0"/>but Professor Proton came to me
+in a dream dressed as
+
+95
+00:05:18,25 --> 00:05:21,12
+<metadata ccrow="13" cccol="0"/>Obi-Wan Kenobi and convinced me
+I should be with you.
+
+96
+00:05:22,12 --> 00:05:24,12
+<metadata ccrow="14" cccol="11"/>Obi-what?
+
+97
+00:05:24,12 --> 00:05:26,96
+<metadata ccrow="13" cccol="3"/>I'll-I'll let you get back
+to sleep now. Good night.
+
+98
+00:05:26,96 --> 00:05:28,46
+<metadata ccrow="14" cccol="4"/>Okay. Good night. Wait.
+
+99
+00:05:28,46 --> 00:05:30,00
+<metadata ccrow="14" cccol="10"/>Um, Sheldon,
+
+100
+00:05:30,00 --> 00:05:32,62
+<metadata ccrow="13" cccol="2"/>were you actually not gonna
+spend my birthday with me?
+
+101
+00:05:34,62 --> 00:05:37,21
+<metadata ccrow="14" cccol="3"/>It's late. Got to go. Bye.
+
+102
+00:05:38,58 --> 00:05:39,96
+<metadata ccrow="14" cccol="3"/>Good for Sheldon deciding
+
+103
+00:05:39,96 --> 00:05:42,25
+<metadata ccrow="11" cccol="8"/>to stay with Amy
+on her birthday.
+
+104
+00:05:39,96 --> 00:05:42,25
+<metadata ccrow="14" cccol="25"/>I know.
+
+105
+00:05:42,25 --> 00:05:44,12
+<metadata ccrow="13" cccol="3"/>It's still gonna be weird
+to see the movie without him.
+
+106
+00:05:44,12 --> 00:05:47,92
+<metadata ccrow="13" cccol="0"/>Well, we could wait a
+couple days and see it together.
+
+107
+00:05:49,12 --> 00:05:51,08
+<metadata ccrow="14" cccol="8"/>(loud laughter)
+
+108
+00:05:51,08 --> 00:05:53,46
+<metadata ccrow="14" cccol="13"/>Hello.
+
+109
+00:05:53,46 --> 00:05:55,29
+<metadata ccrow="13" cccol="1"/>Hey. We're going to the comic
+book store. You want to come?
+
+110
+00:05:55,29 --> 00:05:56,79
+<metadata ccrow="14" cccol="10"/>No, I can't.
+
+111
+00:05:56,79 --> 00:05:58,88
+<metadata ccrow="13" cccol="2"/>I need to make preparations
+for Amy's birthday.
+
+112
+00:05:58,88 --> 00:06:00,12
+<metadata ccrow="14" cccol="18"/>Which leads me
+
+113
+00:06:00,12 --> 00:06:02,21
+<metadata ccrow="13" cccol="6"/>to the following bit
+of business.
+
+114
+00:06:02,21 --> 00:06:04,46
+<metadata ccrow="14" cccol="0"/>This is my ticket to Star Wars.
+
+115
+00:06:04,46 --> 00:06:07,04
+<metadata ccrow="13" cccol="4"/>I don't have to tell you
+it is worth far more
+
+116
+00:06:07,04 --> 00:06:10,67
+<metadata ccrow="13" cccol="6"/>than its face value
+of $15.50.
+
+117
+00:06:10,67 --> 00:06:13,33
+<metadata ccrow="13" cccol="5"/>I trust you'll give it
+to someone worthy.
+
+118
+00:06:13,33 --> 00:06:14,67
+<metadata ccrow="14" cccol="10"/>You got it.
+
+119
+00:06:14,67 --> 00:06:16,33
+<metadata ccrow="13" cccol="7"/>Well, Penny might
+want to join us.
+
+120
+00:06:16,33 --> 00:06:19,46
+<metadata ccrow="13" cccol="15"/>This is my ticket
+to Star Wars.
+
+121
+00:06:20,83 --> 00:06:22,12
+<metadata ccrow="12" cccol="11"/>(knocking)
+
+122
+00:06:20,83 --> 00:06:22,12
+<metadata ccrow="13" cccol="24"/>SHELDON:
+Penny.
+
+123
+00:06:22,12 --> 00:06:23,29
+<metadata ccrow="13" cccol="26"/>Penny?
+
+124
+00:06:22,12 --> 00:06:23,29
+<metadata ccrow="14" cccol="11"/>(knocking)
+
+125
+00:06:23,29 --> 00:06:24,46
+<metadata ccrow="13" cccol="11"/>(knocking)
+
+126
+00:06:23,29 --> 00:06:24,46
+<metadata ccrow="14" cccol="26"/>Penny?
+
+127
+00:06:24,46 --> 00:06:26,67
+<metadata ccrow="13" cccol="17"/>What happens if
+I say, "Come in"?
+
+128
+00:06:26,67 --> 00:06:28,33
+<metadata ccrow="14" cccol="8"/>Well, find out.
+
+129
+00:06:28,33 --> 00:06:29,50
+<metadata ccrow="14" cccol="24"/>Come in!
+
+130
+00:06:33,08 --> 00:06:35,12
+<metadata ccrow="12" cccol="11"/>(knocking)
+
+131
+00:06:33,08 --> 00:06:35,12
+<metadata ccrow="14" cccol="10"/>Bernadette?
+
+132
+00:06:35,12 --> 00:06:36,96
+<metadata ccrow="11" cccol="11"/>(knocking)
+
+133
+00:06:35,12 --> 00:06:36,96
+<metadata ccrow="13" cccol="21"/>Bernadette?
+Bernadette?
+
+134
+00:06:36,96 --> 00:06:39,29
+<metadata ccrow="14" cccol="0"/>Come in!
+
+135
+00:06:39,29 --> 00:06:41,29
+<metadata ccrow="13" cccol="12"/>SHELDON:
+Keep it up.
+
+136
+00:06:41,29 --> 00:06:43,29
+<metadata ccrow="14" cccol="3"/>I got nowhere else to be.
+
+137
+00:06:43,29 --> 00:06:45,08
+<metadata ccrow="14" cccol="19"/>Just come in.
+
+138
+00:06:46,46 --> 00:06:49,00
+<metadata ccrow="13" cccol="5"/>For future reference,
+if I want to watch Mean Girls,
+
+139
+00:06:49,00 --> 00:06:51,46
+<metadata ccrow="14" cccol="3"/>I'll stream it on Netflix.
+
+140
+00:06:51,46 --> 00:06:53,62
+<metadata ccrow="13" cccol="0"/>We're sorry.
+What do you need?
+
+141
+00:06:53,62 --> 00:06:55,00
+<metadata ccrow="14" cccol="14"/>Well, as you know,
+
+142
+00:06:55,00 --> 00:06:56,96
+<metadata ccrow="13" cccol="13"/>I'll be celebrating
+Amy's birthday with her,
+
+143
+00:06:56,96 --> 00:06:58,29
+<metadata ccrow="14" cccol="0"/>and I could use your assistance
+
+144
+00:06:58,29 --> 00:07:00,21
+<metadata ccrow="13" cccol="6"/>in helping me select
+the perfect gift.
+
+145
+00:07:00,21 --> 00:07:01,67
+<metadata ccrow="12" cccol="27"/>Sure.
+
+146
+00:07:00,21 --> 00:07:01,67
+<metadata ccrow="14" cccol="19"/>Well, so far,
+
+147
+00:07:01,67 --> 00:07:03,12
+<metadata ccrow="14" cccol="1"/>I've come up with three ideas.
+
+148
+00:07:03,12 --> 00:07:04,75
+<metadata ccrow="14" cccol="1"/>The first is a chance for her
+
+149
+00:07:04,75 --> 00:07:06,62
+<metadata ccrow="13" cccol="8"/>to play the harp
+with the L.A. Philharmonic.
+
+150
+00:07:06,62 --> 00:07:08,33
+<metadata ccrow="13" cccol="6"/>Wow. You can really
+arrange that?
+
+151
+00:07:08,33 --> 00:07:09,88
+<metadata ccrow="13" cccol="5"/>Well, I said a chance,
+you know.
+
+152
+00:07:09,88 --> 00:07:11,29
+<metadata ccrow="13" cccol="7"/>When you tell them
+it's your birthday
+
+153
+00:07:11,29 --> 00:07:12,62
+<metadata ccrow="13" cccol="9"/>at Bennigan's,
+they make a fuss.
+
+154
+00:07:12,62 --> 00:07:14,71
+<metadata ccrow="13" cccol="0"/>I don't see why the Philharmonic
+would be any different.
+
+155
+00:07:15,79 --> 00:07:18,21
+<metadata ccrow="13" cccol="0"/>How about something
+a little more realistic?
+
+156
+00:07:18,21 --> 00:07:20,79
+<metadata ccrow="13" cccol="16"/>Well, Amy enjoys
+knitting her own sweaters,
+
+157
+00:07:20,79 --> 00:07:23,62
+<metadata ccrow="13" cccol="0"/>so I was thinking of getting her
+an all-expense-paid trip
+
+158
+00:07:23,62 --> 00:07:26,21
+<metadata ccrow="13" cccol="5"/>to the Wisconsin Sheep
+and Wool Festival.
+
+159
+00:07:29,17 --> 00:07:31,96
+<metadata ccrow="13" cccol="6"/>Sorry. I was waiting
+for the bazinga.
+
+160
+00:07:32,88 --> 00:07:34,38
+<metadata ccrow="14" cccol="1"/>Hold on. It could be romantic.
+
+161
+00:07:34,38 --> 00:07:35,88
+<metadata ccrow="14" cccol="1"/>The two of them away together,
+
+162
+00:07:35,88 --> 00:07:38,71
+<metadata ccrow="13" cccol="9"/>keeping each other warm
+in snowy Wisconsin.
+
+163
+00:07:38,71 --> 00:07:40,29
+<metadata ccrow="13" cccol="8"/>No, no, no, no.
+She'd be going alone.
+
+164
+00:07:40,29 --> 00:07:41,83
+<metadata ccrow="13" cccol="7"/>Well, if you think
+I'm afraid of birds,
+
+165
+00:07:41,83 --> 00:07:43,21
+<metadata ccrow="14" cccol="0"/>you should see me around sheep.
+
+166
+00:07:43,21 --> 00:07:45,42
+<metadata ccrow="13" cccol="10"/>Okay, well,
+what's the third option?
+
+167
+00:07:45,42 --> 00:07:46,88
+<metadata ccrow="14" cccol="2"/>That I have coitus with her.
+
+168
+00:07:46,88 --> 00:07:48,00
+<metadata ccrow="14" cccol="3"/>(glass shatters on floor)
+
+169
+00:07:55,33 --> 00:07:58,17
+<metadata ccrow="13" cccol="1"/>What do you think about giving
+Sheldon's ticket to Stuart?
+
+170
+00:07:58,17 --> 00:07:59,79
+<metadata ccrow="14" cccol="9"/>I don't know.
+
+171
+00:07:59,79 --> 00:08:02,29
+<metadata ccrow="13" cccol="3"/>Have you ever seen a movie
+with Stuart before?
+
+172
+00:08:02,29 --> 00:08:04,79
+<metadata ccrow="13" cccol="8"/>It's like going
+with your grandpa.
+
+173
+00:08:04,79 --> 00:08:06,17
+<metadata ccrow="14" cccol="3"/>Instead of eating popcorn,
+
+174
+00:08:06,17 --> 00:08:08,42
+<metadata ccrow="13" cccol="4"/>he brings little pieces
+of chicken in Tupperware
+
+175
+00:08:08,42 --> 00:08:10,79
+<metadata ccrow="14" cccol="2"/>and a thermos full of soup.
+
+176
+00:08:10,79 --> 00:08:12,83
+<metadata ccrow="14" cccol="7"/>He's not that bad.
+
+177
+00:08:12,83 --> 00:08:15,96
+<metadata ccrow="13" cccol="0"/>Hey, Stuart, got any plans
+Thursday night?
+
+178
+00:08:15,96 --> 00:08:18,62
+<metadata ccrow="13" cccol="1"/>My, uh... my doctor's worried
+about my circulation,
+
+179
+00:08:18,62 --> 00:08:21,46
+<metadata ccrow="13" cccol="4"/>so I was thinking about
+walking around the mall.
+
+180
+00:08:21,46 --> 00:08:23,12
+<metadata ccrow="14" cccol="20"/>Why?
+
+181
+00:08:23,12 --> 00:08:25,29
+<metadata ccrow="13" cccol="0"/>Well...
+
+182
+00:08:23,12 --> 00:08:25,29
+<metadata ccrow="14" cccol="12"/>Hey, you guys.
+
+183
+00:08:25,29 --> 00:08:27,00
+<metadata ccrow="13" cccol="0"/>Oh, make sure
+to wear sensible shoes.
+
+184
+00:08:27,00 --> 00:08:29,12
+<metadata ccrow="13" cccol="8"/>Wil, want to go
+to Star Wars Thursday?
+
+185
+00:08:29,12 --> 00:08:30,29
+<metadata ccrow="14" cccol="0"/>Absolutely.
+
+186
+00:08:30,29 --> 00:08:31,96
+<metadata ccrow="14" cccol="17"/>Fine, take Wil.
+
+187
+00:08:31,96 --> 00:08:33,92
+<metadata ccrow="13" cccol="6"/>See if he brings you
+clam chowder.
+
+188
+00:08:36,29 --> 00:08:38,04
+<metadata ccrow="13" cccol="0"/>Okay, okay, okay,
+okay, okay.
+
+189
+00:08:38,04 --> 00:08:40,08
+<metadata ccrow="13" cccol="0"/>Let's-let's... let's just
+recap our options.
+
+190
+00:08:40,08 --> 00:08:43,17
+<metadata ccrow="13" cccol="6"/>All right, we've got
+harp thing, sheep thing...
+
+191
+00:08:43,17 --> 00:08:44,79
+<metadata ccrow="14" cccol="0"/>Wild thang.
+
+192
+00:08:47,79 --> 00:08:49,62
+<metadata ccrow="13" cccol="14"/>Which do you think
+she'd prefer?
+
+193
+00:08:49,62 --> 00:08:53,38
+<metadata ccrow="13" cccol="2"/>Because I checked the Sheep
+and Wool Festival Web site,
+
+194
+00:08:53,38 --> 00:08:55,62
+<metadata ccrow="13" cccol="8"/>and there's only
+8,000 tickets left.
+
+195
+00:08:57,79 --> 00:09:00,71
+<metadata ccrow="13" cccol="4"/>Sheldon, being physical with
+Amy is a huge step for you.
+
+196
+00:09:00,71 --> 00:09:02,58
+<metadata ccrow="13" cccol="0"/>Yeah, are you ready
+for this?
+
+197
+00:09:02,58 --> 00:09:05,79
+<metadata ccrow="13" cccol="6"/>Intimacy in any form
+has been challenging for me,
+
+198
+00:09:05,79 --> 00:09:08,46
+<metadata ccrow="13" cccol="4"/>but I'd like to show her
+how important she is,
+
+199
+00:09:08,46 --> 00:09:11,33
+<metadata ccrow="13" cccol="7"/>and it feels like
+now might be the right time.
+
+200
+00:09:11,33 --> 00:09:13,04
+<metadata ccrow="13" cccol="17"/>Sheldon, that's
+so beautiful.
+
+201
+00:09:13,04 --> 00:09:14,96
+<metadata ccrow="14" cccol="7"/>Then it's settled.
+
+202
+00:09:14,96 --> 00:09:17,33
+<metadata ccrow="13" cccol="5"/>Amy's birthday present
+will be my genitals.
+
+203
+00:09:25,75 --> 00:09:27,17
+<metadata ccrow="14" cccol="3"/>Thanks for taking me out.
+
+204
+00:09:27,17 --> 00:09:29,17
+<metadata ccrow="13" cccol="0"/>Well, you're spending
+your birthday with Sheldon.
+
+205
+00:09:29,17 --> 00:09:30,42
+<metadata ccrow="14" cccol="0"/>Why not celebrate early?
+
+206
+00:09:30,42 --> 00:09:32,17
+<metadata ccrow="13" cccol="21"/>So where do
+you want to go?
+
+207
+00:09:32,17 --> 00:09:34,08
+<metadata ccrow="13" cccol="0"/>I heard that new Mexican place
+on Green Street is good.
+
+208
+00:09:34,08 --> 00:09:38,17
+<metadata ccrow="13" cccol="9"/>Sure, sure. Or we could
+take you to get a bikini wax.
+
+209
+00:09:39,96 --> 00:09:43,42
+<metadata ccrow="13" cccol="8"/>Why would I get a bikini
+wax for my birthday?
+
+210
+00:09:43,42 --> 00:09:46,25
+<metadata ccrow="13" cccol="0"/>Uh, I don't know.
+It was just a thought.
+
+211
+00:09:46,25 --> 00:09:48,29
+<metadata ccrow="13" cccol="7"/>I think I'll just
+stick to Mexican.
+
+212
+00:09:48,29 --> 00:09:52,46
+<metadata ccrow="13" cccol="4"/>Great. And then maybe after,
+we can watch a dirty movie,
+
+213
+00:09:52,46 --> 00:09:55,25
+<metadata ccrow="13" cccol="0"/>and if anybody has any questions
+about what happened or how,
+
+214
+00:09:55,25 --> 00:09:57,38
+<metadata ccrow="14" cccol="6"/>we can answer them.
+
+215
+00:09:58,50 --> 00:10:00,79
+<metadata ccrow="13" cccol="22"/>Okay, what
+is going on?
+
+216
+00:10:00,79 --> 00:10:02,83
+<metadata ccrow="13" cccol="0"/>Oh, we just want you
+to be prepared
+
+217
+00:10:02,83 --> 00:10:05,12
+<metadata ccrow="13" cccol="0"/>for any surprises
+that might happen tomorrow.
+
+218
+00:10:05,12 --> 00:10:07,25
+<metadata ccrow="14" cccol="0"/>What surprises?
+
+219
+00:10:07,25 --> 00:10:09,25
+<metadata ccrow="14" cccol="24"/>Oh.
+
+220
+00:10:09,25 --> 00:10:11,50
+<metadata ccrow="13" cccol="16"/>We don't want to
+spoil anything,
+
+221
+00:10:11,50 --> 00:10:16,38
+<metadata ccrow="13" cccol="0"/>but you should know that Sheldon
+said he's ready to be physical.
+
+222
+00:10:16,38 --> 00:10:18,71
+<metadata ccrow="14" cccol="3"/>You shut your damn mouth!
+
+223
+00:10:22,50 --> 00:10:25,29
+<metadata ccrow="14" cccol="0"/>You actually heard him say this?
+
+224
+00:10:25,29 --> 00:10:26,58
+<metadata ccrow="13" cccol="0"/>Yes. He said he wants
+to do something
+
+225
+00:10:26,58 --> 00:10:28,04
+<metadata ccrow="13" cccol="0"/>to show you how much
+you mean to him.
+
+226
+00:10:28,04 --> 00:10:32,38
+<metadata ccrow="13" cccol="11"/>(exhales)
+I-I can't believe it. I...
+
+227
+00:10:34,00 --> 00:10:36,33
+<metadata ccrow="14" cccol="3"/>I don't know what to say.
+
+228
+00:10:36,33 --> 00:10:38,17
+<metadata ccrow="13" cccol="14"/>Well, we're really
+happy for you,
+
+229
+00:10:38,17 --> 00:10:39,92
+<metadata ccrow="13" cccol="17"/>and we know how
+much he cares...
+
+230
+00:10:39,92 --> 00:10:41,42
+<metadata ccrow="13" cccol="5"/>I do know what to say!
+Let's get me waxed!
+
+231
+00:10:47,21 --> 00:10:49,21
+<metadata ccrow="14" cccol="11"/>(whirring)
+
+232
+00:10:51,12 --> 00:10:55,12
+<metadata ccrow="13" cccol="7"/>Why isn't it ever
+Angie Dickinson's bedroom?
+
+233
+00:10:56,38 --> 00:10:58,17
+<metadata ccrow="14" cccol="10"/>You're back.
+
+234
+00:10:58,17 --> 00:11:02,29
+<metadata ccrow="13" cccol="7"/>It-it doesn't seem
+like it's up to me.
+
+235
+00:11:02,29 --> 00:11:04,96
+<metadata ccrow="14" cccol="0"/>I suppose you're here because...
+
+236
+00:11:04,96 --> 00:11:08,08
+<metadata ccrow="13" cccol="2"/>I've decided to be physical
+with my girlfriend,
+
+237
+00:11:08,08 --> 00:11:10,79
+<metadata ccrow="14" cccol="0"/>and I've never done that before.
+
+238
+00:11:10,79 --> 00:11:14,71
+<metadata ccrow="14" cccol="3"/>E-Excuse me for a moment.
+
+239
+00:11:20,79 --> 00:11:22,79
+<metadata ccrow="14" cccol="6"/>(lightsaber humming)
+
+240
+00:11:30,50 --> 00:11:33,17
+<metadata ccrow="14" cccol="3"/>Well, it was worth a shot.
+
+241
+00:11:35,17 --> 00:11:38,17
+<metadata ccrow="14" cccol="12"/>So, can you help me?
+
+242
+00:11:38,17 --> 00:11:40,67
+<metadata ccrow="14" cccol="6"/>Uh, all right. Um...
+
+243
+00:11:40,67 --> 00:11:44,17
+<metadata ccrow="14" cccol="0"/>once-once the man gets
+
+244
+00:11:44,17 --> 00:11:47,17
+<metadata ccrow="13" cccol="2"/>the-the woman out of her...
+out of her bloomers...
+
+245
+00:11:47,17 --> 00:11:50,17
+<metadata ccrow="13" cccol="25"/>Oh, no.
+Not that.
+
+246
+00:11:50,17 --> 00:11:52,67
+<metadata ccrow="13" cccol="18"/>I-I understand
+the mechanics.
+
+247
+00:11:52,67 --> 00:11:55,00
+<metadata ccrow="14" cccol="2"/>Oh, good, good. 'Cause, uh,
+
+248
+00:11:55,00 --> 00:11:58,79
+<metadata ccrow="13" cccol="9"/>I have no idea
+what kids these days are...
+
+249
+00:11:58,79 --> 00:12:02,00
+<metadata ccrow="14" cccol="3"/>calling their-their parts.
+
+250
+00:12:04,29 --> 00:12:06,71
+<metadata ccrow="14" cccol="4"/>I think they say "junk."
+
+251
+00:12:08,25 --> 00:12:10,92
+<metadata ccrow="14" cccol="0"/>What is happening to this world?
+
+252
+00:12:12,38 --> 00:12:16,29
+<metadata ccrow="13" cccol="8"/>What-what do you
+actually need to know?
+
+253
+00:12:17,96 --> 00:12:20,46
+<metadata ccrow="13" cccol="3"/>This is an important night
+for us,
+
+254
+00:12:20,46 --> 00:12:23,17
+<metadata ccrow="13" cccol="8"/>and I'm worried
+I might be overwhelmed
+
+255
+00:12:23,17 --> 00:12:25,33
+<metadata ccrow="14" cccol="6"/>and ruin everything.
+
+256
+00:12:26,75 --> 00:12:30,29
+<metadata ccrow="13" cccol="5"/>Sheldon, if-if you're
+with the right person,
+
+257
+00:12:30,29 --> 00:12:32,71
+<metadata ccrow="14" cccol="7"/>it-it'll be okay.
+
+258
+00:12:35,25 --> 00:12:37,50
+<metadata ccrow="14" cccol="7"/>Thank you, Arthur.
+
+259
+00:12:37,50 --> 00:12:40,75
+<metadata ccrow="14" cccol="0"/>You are the wisest of the wise.
+
+260
+00:12:40,75 --> 00:12:43,42
+<metadata ccrow="13" cccol="1"/>Well, that's-that's very nice
+of you to say,
+
+261
+00:12:43,42 --> 00:12:45,96
+<metadata ccrow="13" cccol="10"/>but I think
+I'm just an expression of...
+
+262
+00:12:45,96 --> 00:12:48,88
+<metadata ccrow="14" cccol="3"/>of your unconscious mind.
+
+263
+00:12:48,88 --> 00:12:51,50
+<metadata ccrow="14" cccol="8"/>Oh, sure. Yeah.
+
+264
+00:12:51,50 --> 00:12:55,38
+<metadata ccrow="14" cccol="2"/>Well, you're fun to look at.
+
+265
+00:12:59,21 --> 00:13:01,17
+<metadata ccrow="14" cccol="6"/>Tonight's the night!
+
+266
+00:13:01,17 --> 00:13:03,12
+<metadata ccrow="13" cccol="18"/>Yeah, the wait
+is finally over!
+
+267
+00:13:03,12 --> 00:13:06,33
+<metadata ccrow="13" cccol="0"/>I know. Then you'll finally stop
+talking about it!
+
+268
+00:13:06,33 --> 00:13:08,25
+<metadata ccrow="12" cccol="0"/>Ready to go?
+
+269
+00:13:06,33 --> 00:13:08,25
+<metadata ccrow="14" cccol="9"/>Let's do this.
+
+270
+00:13:08,25 --> 00:13:09,71
+<metadata ccrow="14" cccol="8"/>Have fun, guys!
+
+271
+00:13:09,71 --> 00:13:11,71
+<metadata ccrow="11" cccol="12"/>We will.
+
+272
+00:13:09,71 --> 00:13:11,71
+<metadata ccrow="13" cccol="0"/>I can't believe
+Sheldon gave this up.
+
+273
+00:13:11,71 --> 00:13:14,92
+<metadata ccrow="11" cccol="14"/>I know.
+
+274
+00:13:11,71 --> 00:13:14,92
+<metadata ccrow="13" cccol="0"/>We're gonna have
+so much more fun than him.
+
+275
+00:13:17,04 --> 00:13:19,54
+<metadata ccrow="13" cccol="10"/>(singsongy):
+No, they're not.
+
+276
+00:13:19,54 --> 00:13:22,75
+<metadata ccrow="14" cccol="4"/>Knowing them, they will.
+
+277
+00:13:24,12 --> 00:13:26,12
+<metadata ccrow="14" cccol="6"/>(indistinct chatter)
+
+278
+00:13:27,12 --> 00:13:29,75
+<metadata ccrow="14" cccol="0"/>T minus 15 minutes!
+
+279
+00:13:29,75 --> 00:13:31,12
+<metadata ccrow="13" cccol="0"/>Oh, did you hear
+from Wil?
+
+280
+00:13:31,12 --> 00:13:33,42
+<metadata ccrow="13" cccol="10"/>Yeah, he's on his way.
+Time for bladder check.
+
+281
+00:13:33,42 --> 00:13:34,83
+<metadata ccrow="14" cccol="13"/>Check.
+
+282
+00:13:34,83 --> 00:13:36,08
+<metadata ccrow="14" cccol="11"/>Check.
+
+283
+00:13:36,08 --> 00:13:38,46
+<metadata ccrow="14" cccol="10"/>Check. Wait.
+
+284
+00:13:39,88 --> 00:13:41,83
+<metadata ccrow="14" cccol="3"/>Screw it. I'm holding it.
+
+285
+00:13:41,83 --> 00:13:43,17
+<metadata ccrow="14" cccol="9"/>(crowd booing)
+
+286
+00:13:43,17 --> 00:13:44,92
+<metadata ccrow="13" cccol="0"/>What is everyone
+booing at?
+
+287
+00:13:44,92 --> 00:13:46,92
+<metadata ccrow="14" cccol="7"/>(booing continues)
+
+288
+00:13:51,54 --> 00:13:52,83
+<metadata ccrow="14" cccol="5"/>Hey, guys. What's up?
+
+289
+00:13:54,12 --> 00:13:56,46
+<metadata ccrow="13" cccol="0"/>Um, hey, Wil.
+What you doin'?
+
+290
+00:13:56,46 --> 00:13:59,71
+<metadata ccrow="13" cccol="4"/>I was on Star Trek. I'm just
+rooting for the home team.
+
+291
+00:13:59,71 --> 00:14:01,42
+<metadata ccrow="13" cccol="27"/>MAN:
+Star Trek stinks!
+
+292
+00:14:01,42 --> 00:14:04,46
+<metadata ccrow="13" cccol="17"/>Yeah? Live long
+and suck it!
+
+293
+00:14:07,04 --> 00:14:09,04
+<metadata ccrow="14" cccol="4"/>(romantic music playing)
+
+294
+00:14:11,38 --> 00:14:13,25
+<metadata ccrow="11" cccol="22"/>(knocking)
+
+295
+00:14:11,38 --> 00:14:13,25
+<metadata ccrow="13" cccol="24"/>SHELDON:
+Birthday girl.
+
+296
+00:14:13,25 --> 00:14:16,25
+<metadata ccrow="13" cccol="18"/>Birthday girl.
+Birthday girl.
+
+297
+00:14:18,88 --> 00:14:20,50
+<metadata ccrow="14" cccol="12"/>Come in!
+
+298
+00:14:20,50 --> 00:14:23,04
+<metadata ccrow="14" cccol="14"/>Oh!
+
+299
+00:14:28,33 --> 00:14:29,33
+<metadata ccrow="14" cccol="10"/>Hi, Sheldon.
+
+300
+00:14:29,33 --> 00:14:30,83
+<metadata ccrow="14" cccol="5"/>Hello. Sorry I'm late.
+
+301
+00:14:30,83 --> 00:14:32,50
+<metadata ccrow="14" cccol="3"/>I also got you a balloon,
+
+302
+00:14:32,50 --> 00:14:35,08
+<metadata ccrow="13" cccol="6"/>but it floated away,
+and I chased it for a while.
+
+303
+00:14:35,08 --> 00:14:37,71
+<metadata ccrow="14" cccol="4"/>That's okay. Come on in.
+
+304
+00:14:37,71 --> 00:14:39,04
+<metadata ccrow="12" cccol="0"/>Thank you.
+
+305
+00:14:37,71 --> 00:14:39,04
+<metadata ccrow="14" cccol="12"/>Mm-hmm.
+
+306
+00:14:39,04 --> 00:14:41,92
+<metadata ccrow="13" cccol="2"/>Um, I'll... I'm gonna go put
+these in water.
+
+307
+00:14:41,92 --> 00:14:43,58
+<metadata ccrow="14" cccol="13"/>Okay.
+
+308
+00:14:43,58 --> 00:14:46,21
+<metadata ccrow="14" cccol="2"/>Ooh, this is different, hmm?
+
+309
+00:14:46,21 --> 00:14:48,00
+<metadata ccrow="14" cccol="7"/>Candles and music.
+
+310
+00:14:48,00 --> 00:14:49,54
+<metadata ccrow="14" cccol="0"/>Do you like it?
+
+311
+00:14:49,54 --> 00:14:51,75
+<metadata ccrow="14" cccol="6"/>It's kind of spooky.
+
+312
+00:14:51,75 --> 00:14:53,50
+<metadata ccrow="14" cccol="5"/>I can change it back.
+
+313
+00:14:53,50 --> 00:14:55,08
+<metadata ccrow="14" cccol="0"/>No, no, no. It's your birthday.
+
+314
+00:14:55,08 --> 00:14:58,62
+<metadata ccrow="13" cccol="2"/>As long as no one jumps out
+in a hockey mask, I'll be fine.
+
+315
+00:14:59,67 --> 00:15:02,46
+<metadata ccrow="14" cccol="5"/>(panting)
+
+316
+00:15:02,46 --> 00:15:04,75
+<metadata ccrow="14" cccol="8"/>So...
+
+317
+00:15:06,25 --> 00:15:08,75
+<metadata ccrow="13" cccol="0"/>What'd you have in mind
+for tonight?
+
+318
+00:15:08,75 --> 00:15:11,42
+<metadata ccrow="13" cccol="1"/>I thought I could take you out
+to a nice birthday dinner.
+
+319
+00:15:11,42 --> 00:15:15,79
+<metadata ccrow="13" cccol="0"/>If we pick a place east of here,
+we might find the balloon.
+
+320
+00:15:15,79 --> 00:15:18,79
+<metadata ccrow="14" cccol="2"/>Um, that sounds nice, but...
+
+321
+00:15:18,79 --> 00:15:21,79
+<metadata ccrow="14" cccol="0"/>I'm not really hungry right now.
+
+322
+00:15:21,79 --> 00:15:24,46
+<metadata ccrow="14" cccol="7"/>I thought maybe...
+
+323
+00:15:24,46 --> 00:15:27,88
+<metadata ccrow="12" cccol="2"/>we could do presents first.
+
+324
+00:15:24,46 --> 00:15:27,88
+<metadata ccrow="14" cccol="29"/>Oh.
+
+325
+00:15:28,88 --> 00:15:30,54
+<metadata ccrow="14" cccol="11"/>All right.
+
+326
+00:15:30,54 --> 00:15:32,71
+<metadata ccrow="14" cccol="13"/>Um...
+
+327
+00:15:32,71 --> 00:15:36,46
+<metadata ccrow="13" cccol="3"/>I should probably tell you
+something about this gift.
+
+328
+00:15:36,46 --> 00:15:40,46
+<metadata ccrow="14" cccol="5"/>You mean before you...
+
+329
+00:15:40,46 --> 00:15:43,46
+<metadata ccrow="13" cccol="8"/>(suggestively):
+give it to me?
+
+330
+00:15:45,71 --> 00:15:48,04
+<metadata ccrow="14" cccol="14"/>Yes.
+
+331
+00:15:48,04 --> 00:15:51,88
+<metadata ccrow="13" cccol="4"/>May I ask you a question
+before I...
+
+332
+00:15:51,88 --> 00:15:54,83
+<metadata ccrow="13" cccol="8"/>(suggestively):
+give it to you?
+
+333
+00:15:54,83 --> 00:15:57,54
+<metadata ccrow="11" cccol="4"/>Of course.
+
+334
+00:15:54,83 --> 00:15:57,54
+<metadata ccrow="13" cccol="25"/>Why are
+we saying
+
+335
+00:15:57,54 --> 00:16:00,17
+<metadata ccrow="14" cccol="2"/>"give it to you" like that?
+
+336
+00:16:00,17 --> 00:16:02,88
+<metadata ccrow="14" cccol="12"/>Sheldon,
+
+337
+00:16:02,88 --> 00:16:06,21
+<metadata ccrow="14" cccol="3"/>I know your present is...
+
+338
+00:16:06,21 --> 00:16:10,17
+<metadata ccrow="14" cccol="1"/>for us to be intimate tonight.
+
+339
+00:16:10,17 --> 00:16:12,54
+<metadata ccrow="14" cccol="13"/>I see.
+
+340
+00:16:12,54 --> 00:16:14,08
+<metadata ccrow="14" cccol="7"/>Is that all right?
+
+341
+00:16:19,83 --> 00:16:22,17
+<metadata ccrow="13" cccol="11"/>I'm sorry,
+but this is a litigious society.
+
+342
+00:16:22,17 --> 00:16:24,50
+<metadata ccrow="14" cccol="1"/>I'm gonna need verbal consent.
+
+343
+00:16:26,50 --> 00:16:28,50
+<metadata ccrow="14" cccol="14"/>Yes.
+
+344
+00:16:30,04 --> 00:16:33,04
+<metadata ccrow="13" cccol="4"/>You know what, let me pull a
+quick contract off the Internet.
+
+345
+00:16:38,33 --> 00:16:41,50
+<metadata ccrow="13" cccol="5"/>So, if you don't like Star
+Wars, why are you here?
+
+346
+00:16:41,50 --> 00:16:42,83
+<metadata ccrow="14" cccol="8"/>Oh, I'm just having fun.
+
+347
+00:16:42,83 --> 00:16:44,50
+<metadata ccrow="13" cccol="12"/>Everyone takes Star
+Wars so seriously.
+
+348
+00:16:44,50 --> 00:16:47,38
+<metadata ccrow="13" cccol="8"/>Like if the movie's bad,
+it's gonna ruin their lives.
+
+349
+00:16:47,38 --> 00:16:49,17
+<metadata ccrow="13" cccol="0"/>Is it bad?
+Did you hear something?
+
+350
+00:16:49,17 --> 00:16:52,50
+<metadata ccrow="13" cccol="5"/>Oh, my God. It's bad.
+Somebody kill me.
+
+351
+00:16:52,50 --> 00:16:55,04
+<metadata ccrow="13" cccol="21"/>See? That's
+what I mean.
+
+352
+00:16:55,04 --> 00:16:57,00
+<metadata ccrow="13" cccol="9"/>When you wake up in the
+morning, whether this is
+
+353
+00:16:57,00 --> 00:16:59,17
+<metadata ccrow="13" cccol="9"/>the greatest movie ever
+or a total piece of crap,
+
+354
+00:16:59,17 --> 00:17:00,54
+<metadata ccrow="13" cccol="17"/>your life isn't
+gonna change at all.
+
+355
+00:17:01,54 --> 00:17:03,62
+<metadata ccrow="14" cccol="0"/>He's right.
+
+356
+00:17:03,62 --> 00:17:04,79
+<metadata ccrow="14" cccol="27"/>Yeah.
+
+357
+00:17:04,79 --> 00:17:06,46
+<metadata ccrow="14" cccol="4"/>No matter what happens,
+
+358
+00:17:06,46 --> 00:17:08,33
+<metadata ccrow="13" cccol="3"/>we're coming back tomorrow
+to watch it again.
+
+359
+00:17:11,12 --> 00:17:13,38
+<metadata ccrow="13" cccol="1"/>Do you think Sheldon's actually
+gonna go through with it?
+
+360
+00:17:13,38 --> 00:17:14,71
+<metadata ccrow="14" cccol="0"/>I don't know.
+
+361
+00:17:14,71 --> 00:17:17,08
+<metadata ccrow="11" cccol="6"/>He said he's ready.
+
+362
+00:17:14,71 --> 00:17:17,08
+<metadata ccrow="13" cccol="20"/>Yeah, but he
+also swore
+
+363
+00:17:17,08 --> 00:17:19,58
+<metadata ccrow="13" cccol="1"/>this was the year he'd be able
+to pull the guts out
+
+364
+00:17:19,58 --> 00:17:21,71
+<metadata ccrow="14" cccol="9"/>of a pumpkin.
+
+365
+00:17:21,71 --> 00:17:23,79
+<metadata ccrow="13" cccol="1"/>Well, I'm gonna stay positive.
+I mean, we talked.
+
+366
+00:17:23,79 --> 00:17:26,25
+<metadata ccrow="13" cccol="2"/>I told him what women like,
+and after he stopped giggling,
+
+367
+00:17:26,25 --> 00:17:28,38
+<metadata ccrow="13" cccol="5"/>he seemed pretty sure
+of himself.
+
+368
+00:17:41,46 --> 00:17:42,88
+<metadata ccrow="14" cccol="14"/>Hi.
+
+369
+00:17:42,88 --> 00:17:44,88
+<metadata ccrow="14" cccol="13"/>Hello.
+
+370
+00:17:46,38 --> 00:17:49,50
+<metadata ccrow="14" cccol="11"/>So, um...
+
+371
+00:17:49,50 --> 00:17:52,17
+<metadata ccrow="13" cccol="1"/>should I get under the covers
+with you?
+
+372
+00:17:53,21 --> 00:17:55,25
+<metadata ccrow="14" cccol="11"/>All right.
+
+373
+00:17:58,25 --> 00:18:00,33
+<metadata ccrow="14" cccol="17"/>(clears throat)
+
+374
+00:18:15,67 --> 00:18:17,67
+<metadata ccrow="13" cccol="0"/>Hello.
+
+375
+00:18:15,67 --> 00:18:17,67
+<metadata ccrow="14" cccol="29"/>Hi!
+
+376
+00:18:20,67 --> 00:18:23,58
+<metadata ccrow="13" cccol="0"/>Why are you shaking?
+Are you cold?
+
+377
+00:18:23,58 --> 00:18:27,08
+<metadata ccrow="14" cccol="0"/>I'm just, um... really nervous.
+
+378
+00:18:27,08 --> 00:18:28,54
+<metadata ccrow="14" cccol="14"/>Why?
+
+379
+00:18:28,54 --> 00:18:31,25
+<metadata ccrow="14" cccol="12"/>Well...
+
+380
+00:18:31,25 --> 00:18:33,67
+<metadata ccrow="13" cccol="3"/>I've been waiting for this
+for so long,
+
+381
+00:18:33,67 --> 00:18:37,33
+<metadata ccrow="13" cccol="4"/>I've just... built it up
+in my head.
+
+382
+00:18:37,33 --> 00:18:40,21
+<metadata ccrow="13" cccol="20"/>I don't know
+what to expect.
+
+383
+00:18:40,21 --> 00:18:43,21
+<metadata ccrow="14" cccol="2"/>Neither do I.
+
+384
+00:18:43,21 --> 00:18:47,67
+<metadata ccrow="13" cccol="0"/>But... we can find out
+together.
+
+385
+00:18:49,67 --> 00:18:51,67
+<metadata ccrow="14" cccol="22"/>Okay.
+
+386
+00:18:58,67 --> 00:19:01,62
+<metadata ccrow="14" cccol="6"/>I'm really nervous.
+
+387
+00:19:02,67 --> 00:19:04,17
+<metadata ccrow="14" cccol="0"/>I know.
+
+388
+00:19:04,17 --> 00:19:07,38
+<metadata ccrow="13" cccol="3"/>We've been waiting so long
+for this.
+
+389
+00:19:07,38 --> 00:19:11,54
+<metadata ccrow="13" cccol="5"/>And we've built it up
+in our heads so much.
+
+390
+00:19:11,54 --> 00:19:14,33
+<metadata ccrow="13" cccol="22"/>Guys, it's
+just a movie.
+
+391
+00:19:14,33 --> 00:19:15,92
+<metadata ccrow="14" cccol="16"/>That's true.
+
+392
+00:19:15,92 --> 00:19:17,58
+<metadata ccrow="12" cccol="0"/>He's right.
+
+393
+00:19:15,92 --> 00:19:17,58
+<metadata ccrow="14" cccol="13"/>It is.
+
+394
+00:19:17,58 --> 00:19:21,71
+<metadata ccrow="13" cccol="16"/>Although, we all
+remember Jar Jar.
+
+395
+00:19:21,71 --> 00:19:25,08
+<metadata ccrow="13" cccol="0"/>Leonard,
+I-I'm scared again.
+
+396
+00:19:30,88 --> 00:19:34,71
+<metadata ccrow="13" cccol="6"/>Well, I enjoyed that
+more than I thought I would.
+
+397
+00:19:41,71 --> 00:19:44,96
+<metadata ccrow="14" cccol="21"/>Me, too.
+
+398
+00:19:44,96 --> 00:19:49,96
+<metadata ccrow="13" cccol="0"/>I look forward to your next
+birthday when we do it again.
+
+399
+00:19:51,58 --> 00:19:53,92
+<metadata ccrow="14" cccol="7"/>That works for me.
+
+400
+00:19:53,92 --> 00:19:57,29
+<metadata ccrow="13" cccol="9"/>I enjoyed that
+more than I thought I would.
+
+401
+00:20:00,29 --> 00:20:04,29
+<metadata ccrow="13" cccol="12"/>I don't think
+I can walk right now.
+
+402
+00:20:11,54 --> 00:20:14,21
+<metadata ccrow="13" cccol="0"/>ARTHUR:
+Uh, Sheldon?
+
+403
+00:20:14,21 --> 00:20:15,67
+<metadata ccrow="14" cccol="5"/>Sheldon.
+
+404
+00:20:15,67 --> 00:20:17,00
+<metadata ccrow="14" cccol="12"/>Arthur.
+
+405
+00:20:17,00 --> 00:20:18,33
+<metadata ccrow="13" cccol="20"/>What are you
+doing here?
+
+406
+00:20:18,33 --> 00:20:19,33
+<metadata ccrow="14" cccol="17"/>I-I don't think
+
+407
+00:20:19,33 --> 00:20:22,00
+<metadata ccrow="14" cccol="4"/>I need any more advice.
+
+408
+00:20:22,00 --> 00:20:24,42
+<metadata ccrow="14" cccol="5"/>I-I was just curious.
+
+409
+00:20:25,75 --> 00:20:29,25
+<metadata ccrow="14" cccol="8"/>How-How'd it go?
+
+410
+00:20:29,25 --> 00:20:30,79
+<metadata ccrow="14" cccol="14"/>Oh.
+
+411
+00:20:33,62 --> 00:20:35,12
+<metadata ccrow="14" cccol="8"/>It was amazing.
+
+412
+00:20:36,12 --> 00:20:37,62
+<metadata ccrow="14" cccol="2"/>I-I saw it a few days later.
+
+413
+00:20:37,62 --> 00:20:39,75
+<metadata ccrow="14" cccol="9"/>What a movie.
+
+414
+00:20:44,12 --> 00:20:47,00
+<metadata ccrow="14" cccol="1"/>But, uh, what-what about Amy?
+
+415
+00:20:47,00 --> 00:20:50,00
+<metadata ccrow="14" cccol="1"/>Oh. Uh, uh, she liked it fine.
+
+416
+00:20:50,00 --> 00:20:54,29
+<metadata ccrow="13" cccol="0"/>But she doesn't have the history
+with the franchise I do.
+
+417
+00:20:55,33 --> 00:20:57,92
+<metadata ccrow="14" cccol="13"/>Okay.
+
+418
+00:20:57,92 --> 00:20:59,92
+<metadata ccrow="14" cccol="7"/>Good... good talk.
+

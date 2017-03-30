@@ -1,0 +1,6 @@
+<NAME=>smurfs</NAME><URL=>cartoon</URL>
+<NAME=>flintstones</NAME><URL=>cartoon</URL>
+<NAME=>paw patrol</NAME><URL=>cartoon</URL>
+<NAME=>mickey mouse</NAME><URL=>cartoon</URL>
+<NAME=>spider-man</NAME><URL=>cartoon</URL>
+<NAME=>spiderman</NAME><URL=>cartoon</URL>

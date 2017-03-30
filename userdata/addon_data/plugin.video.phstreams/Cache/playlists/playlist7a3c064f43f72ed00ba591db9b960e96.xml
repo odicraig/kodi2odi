@@ -1,0 +1,22 @@
+#######################################################################################################################################
+<poster>Team Phoenix</poster>
+<fanart>http://s20.postimg.org/w4r6o7t3x/Phoenix_Fanart.png</fanart>
+#######################################################################################################################################
+
+<dir>
+<name>Music TV</name>
+<link>http://shanghai.watchkodi.com/Sections/Music/Music%20Channels.xml</link>
+<thumbnail>http://s20.postimg.org/gfkn1r125/Music_Icon.png</thumbnail>
+</dir>
+
+<dir>
+<name>Radio</name>
+<link>http://shanghai.watchkodi.com/Sections/Music/Radio%20Stations.xml</link>
+<thumbnail>http://s20.postimg.org/iy6c2fmsd/Radio_Icon.png</thumbnail>
+</dir>
+
+<dir>
+<name>Artist Radio</name>
+<link>http://shanghai.watchkodi.com/Sections/Music/Artists%20Radio.xml</link>
+<thumbnail>http://s20.postimg.org/8kjaef671/artists_pay_radio_playes_650.png</thumbnail>
+</dir>

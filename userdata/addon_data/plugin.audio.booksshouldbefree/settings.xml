@@ -1,0 +1,13 @@
+<settings>
+    <setting id="ASK_FILENAME" value="true" />
+    <setting id="ASK_FOLDER" value="false" />
+    <setting id="RECORD_FOLDER" value="" />
+    <setting id="RESULTS" value="30" />
+    <setting id="RESUME_CHAPTER" value="0" />
+    <setting id="RESUME_INFO" value="http://www.archive.org/download/dracula_1006_librivox/dracula_01_stoker_64kb.mp3%7C%7C800%7C%7CDracula%7C%7CChapter+01%7C%7Chttp%3A%2F%2Fwww.loyalbooks.com%2Fimage%2Flayout2%2FDracula-Bram-Stoker.jpg" />
+    <setting id="RESUME_TIME" value="10" />
+    <setting id="SEARCH" value="20" />
+    <setting id="SORT" value="Popularity" />
+    <setting id="VERSION" value="1.0.8" />
+    <setting id="VIEW" value="Title" />
+</settings>

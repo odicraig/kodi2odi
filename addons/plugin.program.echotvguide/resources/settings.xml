@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<settings>
+	<category label="30101">
+		<setting label="[COLOR=gold]Reset[/COLOR] EPG next start" type="action" action="RunScript($CWD/resources/maintenance/Reset.py)" />
+        <setting label="[COLOR=gold]Reset[/COLOR] Skin" type="action" action="RunScript($CWD/resources/maintenance/skins.py)" />
+		<setting label="[COLOR=gold]Reset[/COLOR] [COLOR red]EVERYTHING[/COLOR]" type="action" action="RunScript($CWD/resources/maintenance/resetsettings.py)" />
+		<setting id="xmltv.type_select" label="30123" type="action" action="RunScript($CWD/guideTypes.py)"/>
+        <setting id="xmltv.type" type="number" enable="true" visible="false"/>
+        <setting id="xmltv.interval" label="30128" type="enum" default="2" lvalues="30129|30130|30131|30132" />
+        <setting id="xmltv.file" label="[COLOR=gold]Choose[/COLOR] custom xml" type="file" visible="eq(-2,6)" />
+        <setting id="xmltv.refresh" label="30149" type="bool" default="false" visible="eq(-3,6)"/>
+
+        <setting id="addons.ini.type" label="30144" type="enum" default="0" lvalues="30143|30142"/>
+        <setting id="addons.ini.file" label="[COLOR=gold]Choose[/COLOR] custom addons.ini (addons2.ini is auto merged)" type="file" visible="eq(-1,1)" />
+        <setting id="ignore.stream" label="Always Choose Stream and not link to Database" type="bool" default="true" visible="true"/>	       
+
+		<setting id="skin" label="Download A Skin" type="action" action="RunScript($CWD/resources/maintenance/skins.py)"/>        
+        <setting id="skin" label="Choose Skin" type="select" source="../../userdata/addon_data/plugin.program.echotvguide/resources/skins/" mask="/" default="Default"/>      
+        			
+		<setting id="logos.enabled" label="30117" type="bool" default="true" />
+        <setting id="logos.source" label="30146" type="enum" default="1" lvalues="30143|30147" visible="eq(-1,true)" />
+        <setting id="logos.folder" label="[COLOR=gold]Choose custom channel logo directory[/COLOR]" type="folder" default="special://userdata\addon_data\plugin.program.echotvguide\resources\skins\Default\logos" visible="eq(-2,true) + eq(-1,1)" />
+        
+		<setting id="rss.enabled" label="Enable RSS Feed  WIP" type="bool" default="true"  visible="false" />
+	</category>
+	
+
+
+	<category label="Maintenance">
+		<setting label="[COLOR=gold]Reset[/COLOR] TV Guide files (database ini and xml)" type="action" action="RunScript($CWD/resources/maintenance/delete_files.py)" />					
+		<setting type="lsep" label="[COLOR=red]addons.ini is overwritten when the guide is run. addons2.ini is autoloaded[/COLOR]"/>
+		
+		<setting id="addpass" label="[COLOR=gold]Refresh[/COLOR] possible ini and m3u files  (enable PVR first if applicable)" type="action" action="RunScript($CWD/add.py)"/>
+		
+		<setting label="[COLOR=gold]Maintenance[/COLOR] m3u and ini  (Windows only currently)" type="action" action="RunScript($CWD/resources/maintenance/ini_m3u.py)" />	
+			
+		<setting label="[COLOR=gold]Maintenance[/COLOR] Kodi System" type="action" action="RunScript($CWD/resources/maintenance/kodi_system.py)" />	
+
+		<setting label="[COLOR=gold]Add[/COLOR] .m3u and guide.xml to iptv.simple.client settings.xml" type="action" action="RunScript($CWD/resources/maintenance/iptvsimpleclient.py)" />
+		
+	    <setting label="[COLOR=gold]Add[/COLOR] extra players to plugin.video.meta  (enable afterwards in settings)" type="action" visible="true" action="RunScript($CWD/resources/maintenance/meta_players.py)" />
+ 
+        <setting label="[COLOR=gold]Log[/COLOR] File" type="action" action="RunScript($CWD/resources/maintenance/log_viewer.py)" />	   
+ 
+        <setting label="[COLOR=gold]Browse[/COLOR] File Manager" type="action" action="RunScript($CWD/resources/maintenance/filemanager.py)" visible="false"/> 
+
+        <setting label="[COLOR=gold]Add[/COLOR] Advancedsettings.xml" type="action" action="RunScript($CWD/resources/maintenance/advancedsettings.py)" />	
+ 
+        <setting label="Clear cache" type="action" action="RunScript($CWD/resources/maintenance/Clear_Cache.py)" />	
+
+		<setting id="unstable.playback" label="Use Unstable addons" type="bool" default="true" visible="false"/>		
+		<setting id="backup.stuff" label="[COLOR=gold]Backup[/COLOR] settings to zip for other devices" type="action" action="RunScript($CWD/resources/maintenance/backup.py)" visible="false"/>		
+
+		<!--Something i dont have a use for yet.  Maybe radio-->	
+		<setting id="playlist.type" label="IPTV Playlist (WIP for a shortcut)" type="enum" default="URL" values="URL|File" visible="true"/>
+		<setting id="playlist.file" label="File" type="file" visible="eq(-1,1)" />
+		<setting id="playlist.url"  label="URL"  type="text" default="" visible="eq(-2,0)"/>
+
+		<!--<setting type="lsep" label="[COLOR=blue]This can update credentials in addons2.ini and m3u8.[/COLOR]"/>-->
+		<!--<setting type="lsep" label="[COLOR=blue]IPTVsubs and DexterTV should already be fixed automatically as of April 14[/COLOR]"/>-->
+		<!--<setting label="Click me to Run" type="action" visible="true" action="RunScript($CWD/generate_iptvsubs_files.py, -uIPTVSUBSuser, -pIPTVSUBSpass, -oiptvsubs.m3u, -gENGLISH, -s, -c iptvsubs_channel_ids.txt)" />-->
+		<!--<setting label="Click me to Run" type="action" visible="true" action="RunScript($CWD/iptv_maintenance.py, -uIPTVSUBSuser, -pIPTVSUBSpass, -oiptv.m3u, -gENGLISH, -s, -c channel_ids.txt)" />-->	
+		<!--<setting label="Click me to Run" type="action" visible="true" action="RunScript($CWD/resources/iptv_maintenance.py, -uuser, -ppass, -oiptv.m3u, -gENGLISH)" />-->		
+		<!--<setting label="Click me to Run (User_data Custom settings you manually edit)" type="action" visible="true" action="RunScript(special://profile/addon_data/plugin.program.echotvguide/maintenance.py)" />-->	
+	</category>
+
+
+
+	<category label="30114">
+		<setting id="VERSION" type="text" label="" default="0.0.0" visible="false"/>
+<setting id="idle" label="Quit Stream If Idle For"  type="enum"      values="Never|1 Hour|2 Hours|3 Hours|4 Hours" default="4"  visible="false"/>
+        <setting id="autostart" label="30900" type="bool" default="false" />
+		<setting id="enable.osd" label="30118" type="bool" default="true" enable="eq(2,false)" />
+		<setting label="30119" type="lsep" />
+		<setting id="alternative.playback" label="30120" type="bool" default="false" />
+		<setting label="30121" type="lsep" />
+		<setting id="background.service" label="30400" type="bool" default="false" />
+        <setting id="service.interval" label="30401" type="enum" default="1" lvalues="30402|30403|30404|30405" visible="eq(-1,true)" />
+
+		<setting id="notifications.enabled" label="30106" type="bool" default="true" />
+		<setting label="30108" type="action" action="RunScript($CWD/notification.py)" />
+        
+        <!-- Custom Addons 1 2 3 -->
+        <setting id="CustomAddon1" label="Custom Addon1 for skin Menu" type="select" source="..\" mask="/" default="plugin.video.iptvsubs"/>  	   	
+        <setting id="CustomAddon2" label="Custom Addon2 for skin Menu" type="select" source="..\" mask="/" default="plugin.video.ruyaiptv"/>   	   	
+        <setting id="CustomAddon3" label="Custom Addon3 for skin Menu" type="select" source="..\" mask="/" default="plugin.video.dex"/>
+	</category>
+
+
+
+
+	<category label="Addons Used">
+	
+		<setting type="lsep" label="Paid Addons (I prefer ts to m3u for cache)"/>
+	    <setting label="iptvsubs  https://www.iptvsubs.is/channels/" type="action" action="PlayMedia(plugin://plugin.video.iptvsubs)" />		    	
+	    <setting label="iptvsubs Beta WIP  https://www.iptvsubs.is/channels/" type="action" action="PlayMedia(plugin://plugin.video.ruyaiptv)" />	
+	    <setting label="DexterTV  https://www.facebook.com/groups/1658561757736772" type="action" action="PlayMedia(plugin://plugin.video.dex)" />
+	    <setting label="Ntv       http://ntv.mx/" type="action" action="PlayMedia(plugin://plugin.video.ntv)" />
+	    <!--<setting label="ChannelUp  http://channelup.tv/" type="action" action="PlayMedia(plugin://plugin.video.channelup)" />-->
+	    <setting label="Stream Supreme  http://franz.lockedtv.xyz/" type="action" action="PlayMedia(plugin://plugin.video.lockedtv)" />	    
+	    <setting label="WhiteLabel" type="action" action="PlayMedia(plugin://plugin.video.wliptv)" />	    
+	    <setting label="StealthStreams" type="action" action="PlayMedia(plugin://plugin.video.stealthstreams)" />	    
+	    <setting label="UseMyTv" type="action" action="PlayMedia(plugin://plugin.video.usemYTV)" />        
+	    <setting label="Stalker" type="action" action="PlayMedia(plugin://plugin.video.stalker)" />		
+	    <setting label="Xtream-Codes   http://go.teamexpat.ninja" type="action" action="PlayMedia(plugin://plugin.video.xtream-codes)" />		
+		
+		<setting type="lsep" label="Free and stable (Click to install if a repo has it)"/>	
+	    <setting label="UStv Now  (Set Pass in addon)  https://watch.ustvnow.com/subscription/free-channels" type="action" action="PlayMedia(plugin://plugin.video.ustvnow.tva)" />
+	    <setting label="F.T.V.     Filmon.TV  http://www.filmon.com/tv/" type="action" action="PlayMedia(plugin://plugin.video.F.T.V)" />
+	    <setting label="Notfilmon  Filmon.TV  http://www.filmon.com/tv/" type="action" action="PlayMedia(plugin://plugin.video.notfilmon)" />		
+	    <setting label="expatTV    Filmon.TV" type="action" action="PlayMedia(plugin://plugin.video.expattv)" />
+	    <setting label="CanTVLive" type="action" action="PlayMedia(plugin://plugin.video.CanTVLive)" />
+	    <setting label="UK Turk" type="action" action="PlayMedia(plugin://plugin.video.ukturk)" />	    
+	    <setting label="Livemix  (UKtvnow)" type="action" action="PlayMedia(plugin://plugin.video.ukturk)" />	      	
+	    <setting label="UKTVNow" type="action" action="PlayMedia(plugin://plugin.video.uktvnow)" />	
+	
+		<setting type="lsep" label="Special (Click to install if a repo has it)"/>	
+	    <setting label="Playlist Loader (Straight Links)" type="action" action="PlayMedia(plugin://plugin.video.playlistLoader)" />	
+	    <setting label="Super Favourites (May or may not work)" type="action" action="PlayMedia(plugin://plugin.program.super.favourites)" />		
+	    <setting label="Meta (Needs players installed)" type="action" action="PlayMedia(plugin://plugin.video.meta)" />		
+	    <setting label="Metalliq WIP (Needs players installed)" type="action" action="PlayMedia(plugin://plugin.video.metalliq)" />	
+	    <setting label="PVR" type="action" action="PlayMedia(plugin://pvr.iptvsimple)" />		
+	    <setting label="Plexus  (P2P  Try to use VPN)" type="action" action="PlayMedia(plugin://program.plexus)" />		
+	    <setting label="f4mTester  (Needed for some addons)" type="action" action="PlayMedia(plugin://plugin.video.f4mTester)" />		
+		
+		<setting type="lsep" label="Free  (Click to install if a repo has it)"/>
+	    <setting label="-VidTime" type="action" action="PlayMedia(plugin://plugin.video.VidTime)" />
+	    <setting label="ZemTV  (UKtvnow)" type="action" action="PlayMedia(plugin://plugin.video.ZemTV-shani)" />
+	    <setting label="Castaway" type="action" action="PlayMedia(plugin://plugin.video.castaway)" />
+	    <setting label="Channelpear" type="action" action="PlayMedia(plugin://plugin.video.channelpear)" />	    
+	    <setting label="FSSport" type="action" action="PlayMedia(plugin://plugin.video.FSSport)" />		    
+	    <setting label="Bulldogstreams" type="action" action="PlayMedia(plugin://plugin.video.bulldogstreams)" />		
+	    <setting label="AK-47" type="action" action="PlayMedia(plugin://plugin.video.AK-47)" />	
+	    <setting label="Adriansports" type="action" action="PlayMedia(plugin://plugin.video.adriansports)" />		    
+	    <setting label="Phoenix" type="action" action="PlayMedia(plugin://plugin.video.phstreams)" />
+	    <setting label="ProjectCypher" type="action" action="PlayMedia(plugin://plugin.video.ProjectCypher)" />  
+	    <setting label="DNAtv" type="action" action="PlayMedia(plugin://plugin.video.dnatv)" />	    
+	    <setting label="DNAtv-reborn" type="action" action="PlayMedia(plugin://plugin.video.dnatv-reborn)" />	     
+ 	    <setting label="EliteSports" type="action" action="PlayMedia(plugin://plugin.video.EliteSports)" />		
+	    <setting label="xo1000sports" type="action" action="PlayMedia(plugin://plugin.video.xo1000sports)" />   
+	    <setting label="Evolve" type="action" action="PlayMedia(plugin://plugin.video.Evolve)" />    
+        <!--
+	    <setting label="Ccloud tv" type="action" action="PlayMedia(plugin://plugin.video.ccloudtv)" />
+	    <setting label="Operation Robocop Ultimate" type="action" action="PlayMedia(plugin://plugin.video.Operation_RobocopUltimate)" />
+	    <setting label="SportsDevil" type="action" action="PlayMedia(plugin://plugin.video.SportsDevil)" />
+	    <setting label="NJM Soccer" type="action" action="PlayMedia(plugin://plugin.video.NJMSoccer)" />
+	    -->
+    </category>
+
+
+
+	<!--
+	<category label="30140">
+		<setting type="lsep" label="30137"/>
+		<setting type="lsep" label="30138"/>
+        <setting id="firstrun" type="bool" label="First Run" default="false" visible="false"/> 
+        <setting label="Full Reset of the Database    ***This WILL delete all linked channels***" type="action" action="RunScript($CWD/resources/ResetDatabase.py)" />
+		<setting label="Delete Guide listing Choices  ***This will not effect linked channels***" type="action" action="RunScript($CWD/resources/ResetGuidesini.py)" />
+		<setting label="Delete Guide Data Files       ***This will not effect linked channels***" type="action" action="RunScript($CWD/resources/ResetXmlfiles.py)" />
+		<setting label="Delete Addons ini file        ***This will not effect locally linked channels***" type="action" action="RunScript($CWD/resources/Resetaddonini.py)" />        
+    </category>
+    -->
+    	
+	    
+</settings>

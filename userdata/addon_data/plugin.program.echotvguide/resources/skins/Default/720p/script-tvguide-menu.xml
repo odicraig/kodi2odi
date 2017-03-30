@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Menu Tab MOD-->
+<window type="dialog">
+
+	<allowoverlay>no</allowoverlay>
+	<defaultcontrol always="true">4005</defaultcontrol>
+	<!--<defaultcontrol always="true">4005</defaultcontrol>-->
+	
+	<coordinates>
+		<system>1</system>
+		<posx>0</posx>
+		<posy>-33</posy>
+	</coordinates>
+    <controls>
+    
+		<control type="image">
+			<posx>40</posx>
+			<posy>288</posy>
+			<width>1200</width>
+			<height>36</height>
+			<texture>menu_top_border.png</texture>	
+			<animation type="WindowOpen">
+				<effect type="fade" start="0" end="100" time="500" tween="sine" easing="out"/>
+				<effect type="slide" start="0,20" end="0,0" time="300"/>
+			</animation>
+			<animation type="WindowClose">
+				<effect type="fade" start="100" end="0" time="100" tween="sine" easing="out"/>
+				<effect type="slide" start="0,0" end="0,20" time="300"/>
+			</animation>
+		</control>				
+		<!-- ----------- Logo ----------- -->
+        <control type="image" id="4100">
+            <posx>40</posx>
+            <posy>200</posy>
+            <width>240</width>
+            <height>80</height>
+            <aspectratio>keep</aspectratio>
+			<visible>false</visible>
+        </control>       
+		<!-- ----------- Title ----------- -->
+        <control type="label" id="4101">
+            <posx>40</posx>
+            <posy>200</posy>
+            <width>240</width>
+            <height>30</height>
+            <align>center</align>
+            <font>font15</font>
+            <textcolor>ffffffff</textcolor>       
+			<visible>false</visible>
+        </control>
+        <!-- Watch Stream -->
+		<!-- ----------- Watch not used ----------- -->
+        <control type="button" id="4000">
+            <posx>40</posx>
+            <posy>253</posy>
+            <width>200</width>
+            <height>28</height>
+            <texturefocus>menu-grey-focus.png</texturefocus>
+            <texturenofocus>menu-grey.png</texturenofocus>
+			<onup>4004</onup>
+            <onright>4001</onright>
+			<onleft>4005</onleft>
+			<ondown>4004</ondown>
+            <align>center</align>
+            <font>font12</font>
+			<wrapmultiline>true</wrapmultiline>	
+			<visible>false</visible>
+			<animation type="WindowOpen">
+				<effect type="fade" start="0" end="100" time="500" tween="sine" easing="out"/>
+				<effect type="slide" start="0,20" end="0,0" time="300"/>
+			</animation>
+			<animation type="WindowClose">
+				<effect type="fade" start="100" end="0" time="300" tween="sine" easing="out"/>
+				<effect type="slide" start="0,0" end="0,20" time="300"/>
+			</animation>
+        </control>
+		<!-- ----------- Watch not used ----------- -->
+
+
+
+
+        
+		<!-- ----------- Close Menu ----------- -->
+        <control type="button" id="30440">
+            <posx>15</posx>
+            <posy>295</posy>
+            <width>25</width>
+            <height>25</height>
+			<aspectratio>scale</aspectratio>
+            <texturefocus>button_focus-exit.png</texturefocus>
+            <texturenofocus>button_exit.png</texturenofocus>  
+            <onup>4306</onup>
+            <ondown>4001</ondown>
+			<onright>30441</onright>
+            <onleft></onleft>
+            <label></label>
+			<visible>true</visible>				
+			<animation type="WindowOpen">
+				<effect type="fade" start="0" end="100" time="500" tween="sine" easing="out"/>
+				<effect type="slide" start="0,20" end="0,0" time="300"/>
+			</animation>
+			<animation type="WindowClose">
+				<effect type="fade" start="100" end="0" time="300" tween="sine" easing="out"/>
+				<effect type="slide" start="0,0" end="0,20" time="300"/>
+			</animation>
+        </control>
+
+
+
+
+		<!-- ----------- Categories  ----------- -->
+		<control type="button" id="30441">
+            <posx>45</posx>
+            <posy>295</posy>
+            <width>160</width>
+            <height>25</height>
+            <texturefocus>tvguide-program-menu-focus1.png</texturefocus>
+            <texturenofocus>11.png</texturenofocus>
+            <onleft>30440</onleft>
+            <onright>4005</onright>
+			<onup>40044</onup>
+			<ondown>40044</ondown>
+            <align>center</align>
+            <font>font12</font>
+			<textcolor>ffffffff</textcolor>
+			<label>Categories</label>
+			<visible>true</visible>			
+            <onclick>RunScript(special://home/addons/plugin.program.echotvguide/guideTypes.py)</onclick>
+			<animation type="WindowOpen">
+				<effect type="fade" start="0" end="100" time="500" tween="sine" easing="out"/>
+				<effect type="slide" start="0,20" end="0,0" time="300"/>
+			</animation>
+			<animation type="WindowClose">
+				<effect type="fade" start="100" end="0" time="300" tween="sine" easing="out"/>
+				<effect type="slide" start="0,0" end="0,20" time="300"/>
+			</animation>
+        </control>        
+         <control type="image" id="30020">
+            <posx>175</posx>
+            <posy>275</posy>
+            <width>5</width>
+            <height>45</height>
+            <texture>.png</texture>
+            <animation type="WindowOpen">
+				<effect type="fade" start="0" end="100" time="500" tween="sine" easing="out"/>
+				<effect type="slide" start="0,20" end="0,0" time="300"/>
+			</animation>
+			<animation type="WindowClose">
+				<effect type="fade" start="100" end="0" time="300" tween="sine" easing="out"/>
+				<effect type="slide" start="0,0" end="0,20" time="300"/>
+			</animation>
+        </control>
+ 
+
+
+ 		<!-- ----------- watch from beginning ----------- -->
+		<control type="button" id="4005">
+            <posx>210</posx>
+            <posy>295</posy>
+            <width>160</width>
+            <height>25</height>
+       <!--<texturefocus>menu-grey-focus.png</texturefocus>
+       <texturenofocus>menu-grey.png</texturenofocus>-->
+            <texturefocus>tvguide-program-menu-focus1.png</texturefocus>
+            <texturenofocus>11.png</texturenofocus>
+            <onleft>30441</onleft>
+            <onright>4002</onright>
+			<onup>40044</onup>
+			<ondown>40044</ondown>
+            <align>center</align>
+            <font>font12</font>
+			<textcolor>ffffffff</textcolor>
+			<label>Watch From Start</label>
+			<visible>true</visible>			
+			<animation type="WindowOpen">
+				<effect type="fade" start="0" end="100" time="500" tween="sine" easing="out"/>
+				<effect type="slide" start="0,20" end="0,0" time="300"/>
+			</animation>
+			<animation type="WindowClose">
+				<effect type="fade" start="100" end="0" time="300" tween="sine" easing="out"/>
+				<effect type="slide" start="0,0" end="0,20" time="300"/>
+			</animation>
+        </control>
+        <control type="image" id="30020">
+            <posx>370</posx>
+            <posy>275</posy>
+            <width>5</width>
+            <height>45</height>
+            <texture>.png</texture>
+            <animation type="WindowOpen">
+				<effect type="fade" start="0" end="100" time="500" tween="sine" easing="out"/>
+				<effect type="slide" start="0,20" end="0,0" time="300"/>
+			</animation>
+			<animation type="WindowClose">
+				<effect type="fade" start="100" end="0" time="300" tween="sine" easing="out"/>
+				<effect type="slide" start="0,0" end="0,20" time="300"/>
+			</animation>
+        </control>
+        
+        	       
+	       
+		<!-- ----------- Remind Text ----------- -->
+        <control type="label" id="4102">
+            <posx>830</posx>
+            <posy>50</posy>
+            <width>260</width>
+            <height>30</height>
+            <align>center</align>
+            <font>font12</font>
+            <textcolor>ff00edff</textcolor>
+			<visible>false</visible>
+        </control>
+		<!-- ----------- Remind Text ----------- -->
+        <control type="label" id="4102">
+            <posx>480</posx>
+            <posy>329</posy>
+            <width>323</width>
+            <height>30</height>
+            <align>center</align>
+            <font>font12</font>
+            <textcolor>ff00edff</textcolor>
+			<scroll>true</scroll>
+            <visible>[Control.HasFocus(4000) | Control.HasFocus(4002)]</visible>
+			<visible>false</visible>
+        </control>
+		<!-- ----------- Remind ----------- -->
+        <control type="button" id="4002">
+            <posx>375</posx>
+            <posy>295</posy>
+            <width>160</width>
+            <height>25</height>
+            <texturefocus>tvguide-program-menu-focus1.png</texturefocus>
+            <texturenofocus>11.png</texturenofocus>
+            <onleft>4005</onleft>
+            <onright>4001</onright>
+			<onup>40044</onup>
+			<ondown>40044</ondown>
+            <align>center</align>
+            <font>font12</font>
+            <textcolor>ffffffff</textcolor>
+            <label>Remind</label>
+			<animation type="WindowOpen">
+				<effect type="fade" start="0" end="100" time="500" tween="sine" easing="out"/>
+				<effect type="slide" start="0,20" end="0,0" time="300"/>
+			</animation>
+			<animation type="WindowClose">
+				<effect type="fade" start="100" end="0" time="300" tween="sine" easing="out"/>
+				<effect type="slide" start="0,0" end="0,20" time="300"/>
+			</animation>
+        </control>
+        <control type="image" id="30020">
+            <posx>495</posx>
+            <posy>275</posy>
+            <width>5</width>
+            <height>45</height>
+            <texture>.png</texture>
+            <animation type="WindowOpen">
+				<effect type="fade" start="0" end="100" time="500" tween="sine" easing="out"/>
+				<effect type="slide" start="0,20" end="0,0" time="300"/>
+			</animation>
+			<animation type="WindowClose">
+				<effect type="fade" start="100" end="0" time="300" tween="sine" easing="out"/>
+				<effect type="slide" start="0,0" end="0,20" time="300"/>
+			</animation>
+        </control>  
+  
+
+
+	
+		<!-- ----------- Choose/Remove Stream ----------- -->
+        <control type="button" id="4001">
+            <posx>540</posx>
+            <posy>295</posy>
+            <width>160</width>
+            <height>25</height>
+            <texturefocus>tvguide-program-menu-focus1.png</texturefocus>
+            <texturenofocus>11.png</texturenofocus>
+            <onleft>4002</onleft>
+            <onright>4003</onright>
+			<onup>40044</onup>
+			<ondown>40044</ondown>
+            <align>center</align>
+            <font>font12</font>
+            <textcolor>ffffffff</textcolor>			
+            <label>$ADDON[plugin.program.echotvguide 30304]</label>
+			<visible>true</visible>
+			<animation type="WindowOpen">
+				<effect type="fade" start="0" end="100" time="500" tween="sine" easing="out"/>
+				<effect type="slide" start="0,20" end="0,0" time="300"/>
+			</animation>
+			<animation type="WindowClose">
+				<effect type="fade" start="100" end="0" time="300" tween="sine" easing="out"/>
+				<effect type="slide" start="0,0" end="0,20" time="300"/>
+			</animation>
+        </control>
+        <control type="image" id="30020">
+            <posx>650</posx>
+            <posy>275</posy>
+            <width>5</width>
+            <height>45</height>
+            <texture>.png</texture>
+            <animation type="WindowOpen">
+				<effect type="fade" start="0" end="100" time="500" tween="sine" easing="out"/>
+				<effect type="slide" start="0,20" end="0,0" time="300"/>
+			</animation>
+			<animation type="WindowClose">
+				<effect type="fade" start="100" end="0" time="300" tween="sine" easing="out"/>
+				<effect type="slide" start="0,0" end="0,20" time="300"/>
+			</animation>
+        </control>  
+        
+
+        
+		<!-- ----------- My Recordings not used ----------- -->
+		<!--
+		<control type="button" id="4011">
+            <posx>675</posx>
+            <posy>293</posy>
+            <width>137</width>
+            <height>28</height>
+            <texturefocus>tvguide-program-menu-focus.png</texturefocus>
+            <texturenofocus></texturenofocus>
+			<onup>4004</onup>
+            <onleft>4002</onleft>
+            <onright>4003</onright>
+			<ondown>4004</ondown>
+            <align>center</align>
+            <font>font12</font>
+            <textcolor>ffffffff</textcolor>
+			<label>$ADDON[plugin.program.echotvguide 30319]</label>
+			<visible>true</visible>
+			<animation type="WindowOpen">
+				<effect type="fade" start="0" end="100" time="500" tween="sine" easing="out"/>
+				<effect type="slide" start="0,20" end="0,0" time="300"/>
+			</animation>
+			<animation type="WindowClose">
+				<effect type="fade" start="100" end="0" time="300" tween="sine" easing="out"/>
+				<effect type="slide" start="0,0" end="0,20" time="300"/>
+			</animation>
+        </control>
+        -->
+        
+
+        
+		<!-- ----------- Channels ----------- -->
+		<control type="button" id="4003">
+            <posx>705</posx>
+            <posy>295</posy>
+            <width>160</width>
+            <height>25</height>
+            <texturefocus>tvguide-program-menu-focus1.png</texturefocus>
+            <texturenofocus>11.png</texturenofocus>
+            <onleft>4001</onleft>
+            <onright>30450</onright>
+			<onup>40044</onup>
+			<ondown>40044</ondown>
+            <align>center</align>
+            <font>font12</font>
+            <textcolor>ffffffff</textcolor>
+			<label>$ADDON[plugin.program.echotvguide 30307]</label>
+			<visible>true</visible>
+			<animation type="WindowOpen">
+				<effect type="fade" start="0" end="100" time="500" tween="sine" easing="out"/>
+				<effect type="slide" start="0,20" end="0,0" time="300"/>
+			</animation>
+			<animation type="WindowClose">
+				<effect type="fade" start="100" end="0" time="300" tween="sine" easing="out"/>
+				<effect type="slide" start="0,0" end="0,20" time="300"/>
+			</animation>
+        </control>        
+        <control type="image" id="30020">
+            <posx>755</posx>
+            <posy>275</posy>
+            <width>5</width>
+            <height>45</height>
+            <texture>.png</texture>
+            <animation type="WindowOpen">
+				<effect type="fade" start="0" end="100" time="500" tween="sine" easing="out"/>
+				<effect type="slide" start="0,20" end="0,0" time="300"/>
+			</animation>
+			<animation type="WindowClose">
+				<effect type="fade" start="100" end="0" time="300" tween="sine" easing="out"/>
+				<effect type="slide" start="0,0" end="0,20" time="300"/>
+			</animation>
+        </control>  
+        
+        
+
+		<!-- ----------- Settings ----------- -->
+		<control type="button" id="30450">
+            <!--<posx>959</posx>
+            <posy>293</posy>-->
+            <posx>870</posx>
+            <posy>295</posy>
+            <width>160</width>
+            <height>25</height>
+            <texturefocus>tvguide-program-menu-focus1.png</texturefocus>
+            <texturenofocus>11.png</texturenofocus>
+            <onleft>4003</onleft>
+            <onright>30451</onright>
+			<onup>40044</onup>
+			<ondown>40044</ondown>
+            <align>center</align>
+            <font>font12</font>
+            <textcolor>ffffffff</textcolor>
+			<label>Settings</label>
+            <onclick>Addon.OpenSettings(plugin.program.echotvguide)</onclick>
+			<animation type="WindowOpen">
+				<effect type="fade" start="0" end="100" time="500" tween="sine" easing="out"/>
+				<effect type="slide" start="0,20" end="0,0" time="300"/>
+			</animation>
+			<animation type="WindowClose">
+				<effect type="fade" start="100" end="0" time="300" tween="sine" easing="out"/>
+				<effect type="slide" start="0,0" end="0,20" time="300"/>
+			</animation>
+        </control>        
+         <control type="image" id="30020">
+            <posx>1000</posx>
+            <posy>275</posy>
+            <width>5</width>
+            <height>45</height>
+            <texture>.png</texture>
+            <animation type="WindowOpen">
+				<effect type="fade" start="0" end="100" time="500" tween="sine" easing="out"/>
+				<effect type="slide" start="0,20" end="0,0" time="300"/>
+			</animation>
+			<animation type="WindowClose">
+				<effect type="fade" start="100" end="0" time="300" tween="sine" easing="out"/>
+				<effect type="slide" start="0,0" end="0,20" time="300"/>
+			</animation>
+        </control>
+        
+        
+        
+        
+        
+        
+               		
+        		
+        		
+<!-- ---------------------- -->       		
+        		
+        		
+		
+		
+	    <!-- ----------- playlist ----------- -->
+		<control type="button" id="30451">
+            <posx>1035</posx>
+            <posy>295</posy>
+            <width>30</width>
+            <height>25</height>
+            <texturefocus>tvguide-program-menu-focus4.png</texturefocus>
+            <texturenofocus>button_channels.png</texturenofocus>
+            <!--<onclick>ActivateWindow(10025,&quot;plugin://plugin.video.VidTime/?mode=USTV%20RIGHT%20NOW&quot;,return)</onclick>--> 
+            <!--<onclick>ActivateWindow(10025,&quot;special://profile/playlists/video/iptv.m3u&quot;,return)</onclick>-->
+            <!--<onclick>ActivateWindow(10025,&quot;special://profile/addon_data/plugin.program.echotvguide/&quot;,return)</onclick>-->
+            <onclick>ActivateWindow(10025,&quot;special://profile/addon_data/plugin.program.echotvguide/playlist.m3u&quot;,return)</onclick>
+            <onleft>30450</onleft>
+            <onright>30452</onright>
+			<onup>40044</onup>
+			<ondown>40044</ondown>
+            <align>center</align>
+            <font>font12</font>
+            <textcolor>ffffffff</textcolor>
+            <label></label>
+			<animation type="WindowOpen">
+				<effect type="fade" start="0" end="100" time="500" tween="sine" easing="out"/>
+				<effect type="slide" start="0,20" end="0,0" time="300"/>
+			</animation>
+			<animation type="WindowClose">
+				<effect type="fade" start="100" end="0" time="300" tween="sine" easing="out"/>
+				<effect type="slide" start="0,0" end="0,20" time="300"/>
+			</animation>
+        </control>	
+
+
+		
+	    <!-- ----------- Radio ----------- -->
+		<control type="button" id="30452">
+            <posx>1070</posx>
+            <posy>295</posy>
+            <width>30</width>
+            <height>25</height>
+            <texturefocus>tvguide-program-menu-focus6.png</texturefocus>
+            <texturenofocus>button_radio.png</texturenofocus>
+            <onleft>30451</onleft>
+            <onright>30453</onright>
+			<onup>40044</onup>
+			<ondown>40044</ondown>
+            <align>center</align>
+            <font>font12</font>
+            <textcolor>ffffffff</textcolor>
+            <!--<onclick>ActivateWindow(10025,&quot;special://home/addons/plugin.program.echotvguide/resources/Radio.m3u&quot;,return)</onclick>-->
+            <onclick>ActivateWindow(10025,&quot;https://raw.githubusercontent.com/halikus/_AndyRepo/master/_epg/Radio.m3u&quot;,return)</onclick>
+            <label></label>
+			<animation type="WindowOpen">
+				<effect type="fade" start="0" end="100" time="500" tween="sine" easing="out"/>
+				<effect type="slide" start="0,20" end="0,0" time="300"/>
+			</animation>
+			<animation type="WindowClose">
+				<effect type="fade" start="100" end="0" time="300" tween="sine" easing="out"/>
+				<effect type="slide" start="0,0" end="0,20" time="300"/>
+			</animation>
+        </control>	
+	
+	
+
+
+	    <!-- ----------- Clean Cache ----------- -->
+		<control type="button" id="30453">
+            <posx>1105</posx>
+            <posy>295</posy>
+            <width>30</width>
+            <height>25</height>
+            <onclick>RunScript(special://home/addons/plugin.program.echotvguide/resources/maintenance/Clear_Cache.py)</onclick>
+            <texturefocus>tvguide-program-menu-focus7.png</texturefocus>
+            <texturenofocus>button_clean.png</texturenofocus>
+            <onleft>30452</onleft>
+            <onright>30454</onright>
+			<onup>40044</onup>
+			<ondown>40044</ondown>
+            <align>center</align>
+            <font>font12</font>
+            <textcolor>ffffffff</textcolor>
+            <label></label>
+			<animation type="WindowOpen">
+				<effect type="fade" start="0" end="100" time="500" tween="sine" easing="out"/>
+				<effect type="slide" start="0,20" end="0,0" time="300"/>
+			</animation>
+			<animation type="WindowClose">
+				<effect type="fade" start="100" end="0" time="300" tween="sine" easing="out"/>
+				<effect type="slide" start="0,0" end="0,20" time="300"/>
+			</animation>
+        </control>	
+
+
+
+	
+	
+
+	    <!-- -----------File manager----------- -->
+		<control type="button" id="30454">
+            <posx>1140</posx>
+            <posy>297</posy>
+            <width>30</width>
+            <height>25</height>
+            <texturefocus>tvguide-program-menu-focus8.png</texturefocus>
+            <texturenofocus>button_filemanager.png</texturenofocus>
+            <!--<onclick>ActivateWindow(FileManager, return)</onclick>-->
+            <!--<onclick>ActivateWindow(10003,&quot;special://profile/addon_data/plugin.program.echotvguide/&quot;,return)</onclick>-->
+            <onclick>ActivateWindow(FileManager, return)</onclick>            
+            <onleft>30453</onleft>
+            <onright>30455</onright>
+			<onup>40044</onup>
+			<ondown>40044</ondown>
+            <align>center</align>
+            <font>font12</font>
+            <textcolor>ffffffff</textcolor>
+            <label></label>
+			<animation type="WindowOpen">
+				<effect type="fade" start="0" end="100" time="500" tween="sine" easing="out"/>
+				<effect type="slide" start="0,20" end="0,0" time="300"/>
+			</animation>
+			<animation type="WindowClose">
+				<effect type="fade" start="100" end="0" time="300" tween="sine" easing="out"/>
+				<effect type="slide" start="0,0" end="0,20" time="300"/>
+			</animation>
+        </control>	
+
+
+
+
+		
+	    <!-- ----------- video addons----------- -->
+		<control type="button" id="30455">
+            <posx>1175</posx>
+            <posy>297</posy>
+            <width>30</width>
+            <height>25</height>
+            <texturefocus>tvguide-program-menu-focus3.png</texturefocus>
+            <texturenofocus>button_tv.png</texturenofocus>
+            <onclick>ActivateWindow(Videos, Addons, return)</onclick>
+            <onleft>30454</onleft>
+            <onright>30456</onright>
+			<onup>40044</onup>
+			<ondown>40044</ondown>
+            <align>center</align>
+            <font>font12</font>
+            <textcolor>ffffffff</textcolor>
+            <label></label>
+			<animation type="WindowOpen">
+				<effect type="fade" start="0" end="100" time="500" tween="sine" easing="out"/>
+				<effect type="slide" start="0,20" end="0,0" time="300"/>
+			</animation>
+			<animation type="WindowClose">
+				<effect type="fade" start="100" end="0" time="300" tween="sine" easing="out"/>
+				<effect type="slide" start="0,0" end="0,20" time="300"/>
+			</animation>
+        </control>	
+
+
+	    <!-- ----------- Fireplace ----------- -->
+		<control type="button" id="30456">
+            <posx>1210</posx>
+            <posy>295</posy>
+            <width>30</width>
+            <height>25</height>
+            <onleft>30455</onleft>
+            <onright>30010</onright>
+			<onup>40044</onup>
+			<ondown>40044</ondown>
+            <align>center</align>
+            <font>font12</font>
+            <textcolor>ffffffff</textcolor>
+            <label></label>
+            <texturefocus>tvguide-program-menu-focus5.png</texturefocus>
+            <texturenofocus>button_fire.png</texturenofocus>
+            <onclick>PlayMedia(&quot;plugin://plugin.video.youtube/play/?video_id=ABchBDajyw8&quot;)</onclick>
+            <visible>System.HasAddon(plugin.video.youtube)</visible>            
+			<animation type="WindowOpen">
+				<effect type="fade" start="0" end="100" time="500" tween="sine" easing="out"/>
+				<effect type="slide" start="0,20" end="0,0" time="300"/>
+			</animation>
+			<animation type="WindowClose">
+				<effect type="fade" start="100" end="0" time="300" tween="sine" easing="out"/>
+				<effect type="slide" start="0,0" end="0,20" time="300"/>
+			</animation>
+        </control>	
+
+
+		
+		
+	    <!-- ----------- Addon 1 ----------- -->
+		<control type="button" id="30010">
+            <posx>1240</posx>
+            <posy>280</posy>
+            <width>28</width>
+            <height>28</height>
+            <texturefocus>tvguide-program-menu-focus9.png</texturefocus>
+            <texturenofocus>button_1.png</texturenofocus>
+            <onleft>30456</onleft>
+            <onright></onright>
+			<onup>30011</onup>
+			<ondown>40044</ondown>
+            <align>center</align>
+            <font>font12</font>
+            <textcolor>ffffffff</textcolor>
+            <label></label>
+			<animation type="WindowOpen">
+				<effect type="fade" start="0" end="100" time="500" tween="sine" easing="out"/>
+				<effect type="slide" start="0,20" end="0,0" time="300"/>
+			</animation>
+			<animation type="WindowClose">
+				<effect type="fade" start="100" end="0" time="300" tween="sine" easing="out"/>
+				<effect type="slide" start="0,0" end="0,20" time="300"/>
+			</animation>
+        </control>	
+
+		<!-- ----------- Addon 2 ----------- -->
+		<control type="button" id="30011">
+            <posx>1240</posx>
+            <posy>245</posy>
+            <width>28</width>
+            <height>28</height>
+            <texturefocus>tvguide-program-menu-focus10.png</texturefocus>
+            <texturenofocus>button_2.png</texturenofocus>
+            <onleft></onleft>
+            <onright></onright>
+			<onup>30012</onup>
+			<ondown>30010</ondown>
+            <align>center</align>
+            <font>font12</font>
+            <textcolor>ffffffff</textcolor>
+            <label></label>
+			<animation type="WindowOpen">
+				<effect type="fade" start="0" end="100" time="500" tween="sine" easing="out"/>
+				<effect type="slide" start="0,20" end="0,0" time="300"/>
+			</animation>
+			<animation type="WindowClose">
+				<effect type="fade" start="100" end="0" time="300" tween="sine" easing="out"/>
+				<effect type="slide" start="0,0" end="0,20" time="300"/>
+			</animation>
+        </control>
+
+		<!-- ----------- Addon 3 ----------- -->
+		<control type="button" id="30012">
+            <posx>1240</posx>
+            <posy>210</posy>
+            <width>28</width>
+            <height>28</height>
+            <texturefocus>tvguide-program-menu-focus11.png</texturefocus>
+            <texturenofocus>button_3.png</texturenofocus>
+            <onleft></onleft>
+            <onright>550313</onright>
+			<onup>30313</onup>
+			<ondown>30011</ondown>
+            <align>center</align>
+            <font>font12</font>
+            <textcolor>ffffffff</textcolor>
+            <label></label>
+			<animation type="WindowOpen">
+				<effect type="fade" start="0" end="100" time="500" tween="sine" easing="out"/>
+				<effect type="slide" start="0,20" end="0,0" time="300"/>
+			</animation>
+			<animation type="WindowClose">
+				<effect type="fade" start="100" end="0" time="300" tween="sine" easing="out"/>
+				<effect type="slide" start="0,0" end="0,20" time="300"/>
+			</animation>
+        </control>
+		
+	        <!-- PVR Button right top  -->
+               <control type="button" id="30313">
+                    <visible>PVR.HasTVChannels</visible>
+                    <description>PVR Button</description>
+                    <posx>1240</posx>
+                    <posy>175</posy>
+                    <width>35</width>
+                    <height>30</height>
+					<onup>30312</onup>
+	                <ondown>30012</ondown>
+			        <aligny>center</aligny>
+                    <align>center</align>
+                    <onclick>ActivateWindow(TVChannels,return)</onclick>
+                    <texturefocus>button_pvr1.png</texturefocus>
+                    <texturenofocus>button_pvr.png</texturenofocus>
+             </control>
+				                <!-- PVR EPG Button right top  -->
+             <control type="button" id="30312">
+                    <visible>PVR.HasTVChannels</visible>
+                    <description>PVR Button</description>
+                    <posx>1240</posx>
+                    <posy>140</posy>
+                    <width>35</width>
+                    <height>30</height>
+					<onup>30311</onup>
+	                <ondown>30313</ondown>
+                    <aligny>center</aligny>
+                    <align>center</align>
+                    <onclick>ActivateWindow(TVGuide,return)</onclick>
+                    <texturefocus>button_guide1.png</texturefocus>
+                    <texturenofocus>button_guide.png</texturenofocus>
+             </control>  
+				                
+                <!-- Superfavs  right top -->
+             <control type="button" id="30311">
+                    <description>Superfavs</description>
+                    <posx>1240</posx>
+                    <posy>105</posy>
+                    <width>35</width>
+                    <height>30</height>
+					<onup>30310</onup>
+	                <ondown>30312</ondown>
+                    <aligny>center</aligny>
+                    <align>center</align>
+                    <texturefocus>button_super1.png</texturefocus>
+                    <texturenofocus>button_super.png</texturenofocus>
+                    <!--<onclick>Addon.OpenSettings(plugin.program.echotvguide)</onclick>-->
+                    <onclick>RunAddon(plugin.program.super.favourites)</onclick>
+                    <visible>System.HasAddon(plugin.program.super.favourites)</visible>
+             </control>
+
+            <!-- -->
+            
+                <!-- Favs  right top -->
+            <control type="button" id="30310">
+                    <description>Favs</description>
+                    <posx>1240</posx>
+                    <posy>70</posy>
+                    <width>35</width>
+                    <height>30</height>
+					<onup>4306</onup>
+	                <ondown>30311</ondown>
+                    <aligny>center</aligny>
+                    <align>center</align>
+                    <texturenofocus>button_fav.png</texturenofocus>
+                    <!--<texturefocus>program-menu-focus.png</texturefocus>-->
+                    <texturefocus>button_fav1.png</texturefocus>                    
+                    <onclick>ActivateWindow(Favourites)</onclick>
+             </control>
+
+				
+			 <control type="button" id="4306">
+               <description>exit</description>
+               <posx>1240</posx>
+               <posy>35</posy>
+               <width>35</width>
+               <height>30</height>
+			   	<onup>30441</onup>
+	            <ondown>30310</ondown>
+               <textcolor>ffffffff</textcolor>
+               <font>font13</font>
+               <label></label>
+               <texturefocus>button_close1.png</texturefocus>
+               <texturenofocus>button_close.png</texturenofocus>
+            </control> 
+            
+
+
+    </controls>
+</window>

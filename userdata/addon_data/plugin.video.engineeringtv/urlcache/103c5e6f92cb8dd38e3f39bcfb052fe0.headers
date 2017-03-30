@@ -1,0 +1,15 @@
+Server: Apache
+Set-Cookie: mvp_session=4e2ff1e06b2af9679ce65d9a3421fd0d; path=/; expires=Wed, 30-Dec-2015 05:42:03 GMT
+Vary: Accept-Encoding
+Content-Type: Text/HTML; charset=utf-8
+X-Magnify-URL-Class: modperl-nocache-dynamic
+Content-Length: 6909
+Accept-Ranges: bytes
+Date: Tue, 29 Dec 2015 05:42:03 GMT
+X-Varnish: 1998839762
+Age: 0
+Via: 1.1 varnish
+Connection: close
+X-Cache: MISS
+X-Local-Cache: HIT
+X-Location: http://www.engineeringtv.com/pages/about.us

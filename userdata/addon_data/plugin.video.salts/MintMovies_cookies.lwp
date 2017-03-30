@@ -1,0 +1,3 @@
+#LWP-Cookies-2.0
+Set-Cookie3: __cfduid=d94137bf6d6f204c19610824bbed8a5031453150139; path="/"; domain=".mintmovies.net"; path_spec; domain_dot; expires="2017-01-17 20:48:59Z"; HttpOnly=None; version=0
+Set-Cookie3: wordpress_test_cookie="WP+Cookie+check"; path="/"; domain=".www.mintmovies.net"; path_spec; discard; version=0

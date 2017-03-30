@@ -1,0 +1,86 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Watch &quot;Cypress Semiconductor: How to Create a Traffic Light Controller using UDBs with PSoC 5LP (Part 1)&quot; Video at Engineering TV</title>
+<meta name="twitter:card" content="summary"/>
+<meta name="description" content="This video combines the UDB based down counter and traffic light state machine controller  previously created to implement a traffic light with variable time slots for each state." />
+<meta name="twitter:description" content="This video combines the UDB based down counter and traffic light state machine controller  previously created to implement a traffic light with variable time slots for each state." />
+<meta name="keywords" content="part,member_cypress,PSoC,UDB,Library,State,counter,Digital,light,1,companyvideo,5LP,creation,how,Machine,Sparkfun,Workshop,controller,cypress,4" />
+<meta name="title" content="Watch &quot;Cypress Semiconductor: How to Create a Traffic Light Controller using UDBs with PSoC 5LP (Part 1)&quot; Video at Engineering TV" />
+<meta name="twitter:title" content="Watch &quot;Cypress Semiconductor: How to Create a Traffic Light Controller using UDBs with PSoC 5LP (Part 1)&quot; Video at Engineering TV" />
+<meta name="twitter:image" content="http://s3.amazonaws.com/magnifythumbs/RKVGJF1MPL0VSYJB-l.jpg" />
+
+<meta name="medium" content="video">
+<meta name="video_type" content="application/x-shockwave-flash">
+<meta name="video_width" content="500">
+<meta name="video_height" content="300">
+<link rel="video_src" href="http://decor1.magnify.net/decor/players/flowplayer_3_2/flowplayer-3.2.7.swf?config=%7B%22plugins%22%3A%7B%22controls%22%3A%7B%22timeColor%22%3A%22%23FFFFFF%22%2C%22autoHide%22%3A%220%22%2C%22zIndex%22%3A%225000%22%2C%22bufferColor%22%3A%22%232C303B%22%2C%22progressColor%22%3A%22%23728B94%22%2C%22display%22%3A%22block%22%2C%22buttonColor%22%3A%22%23525763%22%2C%22timeSeparator%22%3A%22%2F%22%2C%22backgroundColor%22%3A%22%231C1F26%5C%5C%27%2C%20backgroundGradient%3A%20%5C%5C%27none%22%7D%7D%2C%22clip%22%3A%7B%22autoPlay%22%3A1%2C%22scaling%22%3A%22fit%22%2C%22autoBuffering%22%3A1%2C%22url%22%3A%22http%3A%2F%2Fs3.amazonaws.com%2Fmagnifythumbs%2FRKVGJF1MPL0VSYJB-l.jpg%22%7D%2C%22debug%22%3A0%2C%22canvas%22%3A%7B%22backgroundGradient%22%3A%5B0%2C0%2C0%5D%2C%22backgroundColor%22%3A%22%23000000%22%7D%2C%22playlist%22%3A%5B%7B%22autoPlay%22%3A1%2C%22scaling%22%3A%22fit%22%2C%22autoBuffering%22%3A1%2C%22url%22%3A%22http%3A%2F%2Fvideos.media.magnify.net%2FRKVGJF1MPL0VSYJB-PSoC5LP_4_Traffic_light1_HiRes_483_336_384x0.mp4%22%2C%22clipId%22%3A%22WS2VQM3HFVPXF92G%22%7D%5D%7D
+">
+<link rel="image_src" href="http://s3.amazonaws.com/magnifythumbs/RKVGJF1MPL0VSYJB-l.jpg">
+<meta property="og:url" content="http://www.engineeringtv.com/video.mason/Cypress-Semiconductor-How-to-11/player?">
+<meta property="og:site_name" content="Engineering TV">
+<meta property="og:type" content="movie">
+<meta property="og:title" content="Watch &quot;Cypress Semiconductor: How to Create a Traffic Light Controller using UDBs with PSoC 5LP (Part 1)&quot; Video at Engineering TV">
+<meta property="og:description" content="This video combines the UDB based down counter and traffic light state machine controller  previously created to implement a traffic light with variable time slots for each state.">
+<meta property="og:video:width" content="500">
+<meta property="og:video:height" content="300">
+<meta property="og:image" content="http://s3.amazonaws.com/magnifythumbs/RKVGJF1MPL0VSYJB-l.jpg">
+<meta property="og:image:secure_url" content="https://s3.amazonaws.com/magnifythumbs/RKVGJF1MPL0VSYJB-l.jpg">
+<meta property="og:video:type" content="application/x-shockwave-flash">
+<meta property="og:video" content="http://decor1.magnify.net/decor/players/flowplayer_3_2/flowplayer-3.2.7.swf?config=%7B%22plugins%22%3A%7B%22controls%22%3A%7B%22timeColor%22%3A%22%23FFFFFF%22%2C%22autoHide%22%3A%220%22%2C%22zIndex%22%3A%225000%22%2C%22bufferColor%22%3A%22%232C303B%22%2C%22progressColor%22%3A%22%23728B94%22%2C%22display%22%3A%22block%22%2C%22buttonColor%22%3A%22%23525763%22%2C%22timeSeparator%22%3A%22%2F%22%2C%22backgroundColor%22%3A%22%231C1F26%5C%5C%27%2C%20backgroundGradient%3A%20%5C%5C%27none%22%7D%7D%2C%22clip%22%3A%7B%22autoPlay%22%3A1%2C%22scaling%22%3A%22fit%22%2C%22autoBuffering%22%3A1%2C%22url%22%3A%22http%3A%2F%2Fs3.amazonaws.com%2Fmagnifythumbs%2FRKVGJF1MPL0VSYJB-l.jpg%22%7D%2C%22debug%22%3A0%2C%22canvas%22%3A%7B%22backgroundGradient%22%3A%5B0%2C0%2C0%5D%2C%22backgroundColor%22%3A%22%23000000%22%7D%2C%22playlist%22%3A%5B%7B%22autoPlay%22%3A1%2C%22scaling%22%3A%22fit%22%2C%22autoBuffering%22%3A1%2C%22url%22%3A%22http%3A%2F%2Fvideos.media.magnify.net%2FRKVGJF1MPL0VSYJB-PSoC5LP_4_Traffic_light1_HiRes_483_336_384x0.mp4%22%2C%22clipId%22%3A%22WS2VQM3HFVPXF92G%22%7D%5D%7D
+">
+<meta property="og:video:secure_url" content="https://decor1.magnify.net/decor/players/flowplayer_3_2/flowplayer-3.2.7.swf?config=%7B%22plugins%22%3A%7B%22controls%22%3A%7B%22timeColor%22%3A%22%23FFFFFF%22%2C%22autoHide%22%3A%220%22%2C%22zIndex%22%3A%225000%22%2C%22bufferColor%22%3A%22%232C303B%22%2C%22progressColor%22%3A%22%23728B94%22%2C%22display%22%3A%22block%22%2C%22buttonColor%22%3A%22%23525763%22%2C%22timeSeparator%22%3A%22%2F%22%2C%22backgroundColor%22%3A%22%231C1F26%5C%5C%27%2C%20backgroundGradient%3A%20%5C%5C%27none%22%7D%7D%2C%22clip%22%3A%7B%22autoPlay%22%3A1%2C%22scaling%22%3A%22fit%22%2C%22autoBuffering%22%3A1%2C%22url%22%3A%22http%3A%2F%2Fs3.amazonaws.com%2Fmagnifythumbs%2FRKVGJF1MPL0VSYJB-l.jpg%22%7D%2C%22debug%22%3A0%2C%22canvas%22%3A%7B%22backgroundGradient%22%3A%5B0%2C0%2C0%5D%2C%22backgroundColor%22%3A%22%23000000%22%7D%2C%22playlist%22%3A%5B%7B%22autoPlay%22%3A1%2C%22scaling%22%3A%22fit%22%2C%22autoBuffering%22%3A1%2C%22url%22%3A%22http%3A%2F%2Fvideos.media.magnify.net%2FRKVGJF1MPL0VSYJB-PSoC5LP_4_Traffic_light1_HiRes_483_336_384x0.mp4%22%2C%22clipId%22%3A%22WS2VQM3HFVPXF92G%22%7D%5D%7D
+">
+
+<style type="text/css">
+html, body {  margin: 0px; background: #FFFFFF url('http://static.media.magnify.net.s3.amazonaws.com/img/loading_indicator.gif') center center no-repeat; width: 100%; height: 100%; font: 12px arial, helvetica, sans-serif; }
+</style>
+</head>
+<body>
+
+<script type="text/javascript">	
+	var totalWidth, totalHeight, cid = "", referrerObj = {}, referrer = "", queryString = 'content_type=content_item&playlist_cid=&media_type=video&content=WS2VQM3HFVPXF92G&widget_type_cid=svp';
+	try {
+		referrerObj = {
+referer: "(null)",
+host: "www.engineeringtv.com"
+};
+		referrer = referrerObj.referer != "(null)" ? referrerObj.referer : "";
+		queryString += (queryString.length ? "&" : "") + "referrer=" + encodeURIComponent(referrer);
+	} catch(e) { }
+	
+	checkWindowSizing = function() {
+		var isIE = navigator.userAgent.indexOf("MSIE");
+		document.body.style.height = (isIE ? document.documentElement.clientHeight : window.innerHeight) + 'px';
+		document.body.style.width = (isIE ? document.documentElement.clientWidth : window.innerWidth) + 'px';
+		
+		if ( self.innerHeight )  {
+			totalWidth = self.innerWidth;
+			totalHeight = self.innerHeight;
+		} else if ( document.documentElement && document.documentElement.clientHeight ) {
+			totalWidth = document.documentElement.clientWidth;
+			totalHeight = document.documentElement.clientHeight;
+		} else if ( document.body ) {
+			totalWidth = document.body.clientWidth;
+			totalHeight = document.body.clientHeight;
+		}
+		
+		var counter = 0;
+		
+		if ( ( (totalWidth === 0) || (totalHeight === 0) ) && ( counter < 3 ) ) {
+			counter++;
+			setTimeout(checkWindowSizing, 1000);
+		} else {
+			doRedirect();
+		}
+	}
+	
+	doRedirect = function() {
+    var url = "//" + window.location.hostname + "/embed/player/container/" + totalWidth + "/" + totalHeight + "/" + (queryString ? "?" + queryString : "");
+    location.replace( url );
+  }
+
+  window.onload = checkWindowSizing;
+</script>
+</body>
+</html>

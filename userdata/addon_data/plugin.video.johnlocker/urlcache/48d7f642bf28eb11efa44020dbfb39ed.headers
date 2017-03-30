@@ -1,0 +1,10 @@
+Server: nginx/1.8.0
+Date: Tue, 26 Jan 2016 06:04:09 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding,Cookie
+Cache-Control: max-age=3, must-revalidate
+WP-Super-Cache: Served supercache file from PHP
+X-Local-Cache: HIT
+X-Location: http://johnlocker.com/history/the-code-story-of-linux-documentary-2014-multisub-youtube-com/#respond

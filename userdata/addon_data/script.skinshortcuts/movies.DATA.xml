@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID>31200</defaultID>
+		<label>$SKIN[31200|skin.bello|My Movies]</label>
+		<label2 />
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(1113)</action>
+		<visible>Library.HasContent(Movies)</visible>
+	</shortcut>
+	<shortcut>
+		<defaultID>movies</defaultID>
+		<label>Movies</label>
+		<label2>Favourite</label2>
+		<icon>DefaultFolder.png</icon>
+		<thumb>special://home/addons\plugin.program.super.favourites\icon.png</thumb>
+		<action>ActivateWindow(10001,"plugin://plugin.program.super.favourites/?label=Movies&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper%20Favourites%5CMovies&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.program.super.favourites%5Cfanart.jpg%26_options_sf",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>movies</defaultID>
+		<label>Movies</label>
+		<label2>Favourite</label2>
+		<icon>DefaultFolder.png</icon>
+		<thumb>art\themes\Classic\movies.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.1channel/?mode=BrowseListMenu&amp;section=movie",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>135</defaultID>
+		<label>135</label>
+		<label2 />
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,MovieGenres,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>652</defaultID>
+		<label>652</label>
+		<label2 />
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,MovieYears,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>344</defaultID>
+		<label>344</label>
+		<label2 />
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,MovieActors,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>20348</defaultID>
+		<label>20348</label>
+		<label2 />
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,MovieDirectors,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>20388</defaultID>
+		<label>20388</label>
+		<label2 />
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,MovieStudios,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>136</defaultID>
+		<label>136</label>
+		<label2 />
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,Playlists,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>20434</defaultID>
+		<label>20434</label>
+		<label2 />
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,MovieSets,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>14022</defaultID>
+		<label>14022</label>
+		<label2 />
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,root)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>744</defaultID>
+		<label>744</label>
+		<label2 />
+		<icon>DefaultFile.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,Files,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>24001</defaultID>
+		<label>24001</label>
+		<label2 />
+		<icon>DefaultAddon.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,Addons,return)</action>
+	</shortcut>
+</shortcuts>

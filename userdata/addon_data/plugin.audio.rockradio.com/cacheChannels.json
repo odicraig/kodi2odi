@@ -1,0 +1,586 @@
+(lp0
+(dp1
+S'streamUrl'
+p2
+S'http://pub7.rockradio.com:80/rr_classicrock_aac'
+p3
+sS'name'
+p4
+VClassic Rock
+p5
+sS'isNew'
+p6
+I1
+sS'description'
+p7
+VClassic rock hits from the 70s and 80s
+p8
+sS'bitrate'
+p9
+I40
+sS'asset'
+p10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005cclassicrock.png
+p11
+sa(dp12
+g2
+S'http://pub5.rockradio.com:80/rr_80srock_aac'
+p13
+sg4
+V80s Rock
+p14
+sg6
+I1
+sg7
+VGet your 80s rock nostalgia fix
+p15
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005c80srock.png
+p16
+sa(dp17
+g2
+S'http://pub8.rockradio.com:80/rr_classicmetal_aac'
+p18
+sg4
+VClassic Metal
+p19
+sg6
+I1
+sg7
+VClassic Metal hits and artists
+p20
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005cclassicmetal.png
+p21
+sa(dp22
+g2
+S'http://pub7.rockradio.com:80/rr_bluesrock_aac'
+p23
+sg4
+VBlues Rock
+p24
+sg6
+I1
+sg7
+VA fusion of Blues and Rock.
+p25
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005cbluesrock.png
+p26
+sa(dp27
+g2
+S'http://pub5.rockradio.com:80/rr_60srock_aac'
+p28
+sg4
+V60s Rock
+p29
+sg6
+I1
+sg7
+VThe very best in classic 60s Rock!
+p30
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005c60srock.png
+p31
+sa(dp32
+g2
+S'http://pub8.rockradio.com:80/rr_hardrock_aac'
+p33
+sg4
+VHard Rock
+p34
+sg6
+I1
+sg7
+VThe best selection of Hard Rock hits anywhere
+p35
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005chardrock.png
+p36
+sa(dp37
+g2
+S'http://pub5.rockradio.com:80/rr_symphonicmetal_aac'
+p38
+sg4
+VSymphonic Metal
+p39
+sg6
+I1
+sg7
+VSoaring vocals with power riffs 
+p40
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005csymphonicmetal.png
+p41
+sa(dp42
+g2
+S'http://pub8.rockradio.com:80/rr_70srock_aac'
+p43
+sg4
+V70s Rock
+p44
+sg6
+I1
+sg7
+VRock music from the golden era of a changing sonic landscape. Psychedelic, heavy and absolutely classic.
+p45
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005c70srock.png
+p46
+sa(dp47
+g2
+S'http://pub5.rockradio.com:80/rr_softrock_aac'
+p48
+sg4
+VSoft Rock
+p49
+sg6
+I1
+sg7
+VThe best variety of Soft Rock tracks you know and love
+p50
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005csoftrock.png
+p51
+sa(dp52
+g2
+S'http://pub8.rockradio.com:80/rr_alternativerock_aac'
+p53
+sg4
+VAlternative Rock
+p54
+sg6
+I1
+sg7
+VBorn in the 80s underground, an always evolving sound which defines those living outside the box.
+p55
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005calternativerock.png
+p56
+sa(dp57
+g2
+S'http://pub7.rockradio.com:80/rr_90srock_aac'
+p58
+sg4
+V90s Rock
+p59
+sg6
+I1
+sg7
+VIf it ROCKED in the 90s you will hear it here
+p60
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005c90srock.png
+p61
+sa(dp62
+g2
+S'http://pub5.rockradio.com:80/rr_modernrock_aac'
+p63
+sg4
+VModern Rock
+p64
+sg6
+I1
+sg7
+VModern hits from the greats to the new bands
+p65
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005cmodernrock.png
+p66
+sa(dp67
+g2
+S'http://pub8.rockradio.com:80/rr_hairbands_aac'
+p68
+sg4
+VHair Bands
+p69
+sg6
+I1
+sg7
+VHair-flying metal and rock!
+p70
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005chairbands.png
+p71
+sa(dp72
+g2
+S'http://pub8.rockradio.com:80/rr_00srock_aac'
+p73
+sg4
+V00s Rock
+p74
+sg6
+I1
+sg7
+VAll your favorite rock from the start of the decade. From familiar favorites to overlooked greats.
+p75
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005c00srock.png
+p76
+sa(dp77
+g2
+S'http://pub8.rockradio.com:80/rr_thrashmetal_aac'
+p78
+sg4
+VThrash Metal
+p79
+sg6
+I1
+sg7
+VAdrenaline fuelled, head-banging Thrash Metal!
+p80
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005cthrashmetal.png
+p81
+sa(dp82
+g2
+S'http://pub8.rockradio.com:80/rr_alternative90s_aac'
+p83
+sg4
+V90s Alternative
+p84
+sg6
+I1
+sg7
+VThe best in Alternative hits from the 90s.
+p85
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005calternative90s.png
+p86
+sa(dp87
+g2
+S'http://pub7.rockradio.com:80/rr_classichardrock_aac'
+p88
+sg4
+VClassic Hard Rock
+p89
+sg6
+I1
+sg7
+VClassic Hard Rock hits from the 70s, 80s, and 90s
+p90
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005cclassichardrock.png
+p91
+sa(dp92
+g2
+S'http://pub7.rockradio.com:80/rr_poprock_aac'
+p93
+sg4
+VPop Rock
+p94
+sg6
+I1
+sg7
+VThe catchiest Rock channel on the net
+p95
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005cpoprock.png
+p96
+sa(dp97
+g2
+S'http://pub8.rockradio.com:80/rr_punkrock_aac'
+p98
+sg4
+VPunk Rock
+p99
+sg6
+I1
+sg7
+VThe best variety in Punk from its inception until now
+p100
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005cpunkrock.png
+p101
+sa(dp102
+g2
+S'http://pub8.rockradio.com:80/rr_heavymetal_aac'
+p103
+sg4
+VHeavy Metal
+p104
+sg6
+I1
+sg7
+VWhere the heavier side of metal is heard
+p105
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005cheavymetal.png
+p106
+sa(dp107
+g2
+S'http://pub5.rockradio.com:80/rr_metal_aac'
+p108
+sg4
+VMetal
+p109
+sg6
+I1
+sg7
+VFeaturing all metal from its inception until today
+p110
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005cmetal.png
+p111
+sa(dp112
+g2
+S'http://pub5.rockradio.com:80/rr_progressiverock_aac'
+p113
+sg4
+VProgressive Rock
+p114
+sg6
+I1
+sg7
+VProgressive Rock inspired by Jazz, Blues and Funk.
+p115
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005cprogressiverock.png
+p116
+sa(dp117
+g2
+S'http://pub5.rockradio.com:80/rr_alternative80s_aac'
+p118
+sg4
+V80s Alternative
+p119
+sg6
+I1
+sg7
+VThe best in Alternative hits from the 80s.
+p120
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005calternative80s.png
+p121
+sa(dp122
+g2
+S'http://pub8.rockradio.com:80/rr_rockballads_aac'
+p123
+sg4
+VRock Ballads
+p124
+sg6
+I1
+sg7
+VHold up your lighters for these Rock Ballads!
+p125
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005crockballads.png
+p126
+sa(dp127
+g2
+S'http://pub8.rockradio.com:80/rr_industrial_aac'
+p128
+sg4
+VIndustrial
+p129
+sg6
+I1
+sg7
+VIndustrialized Rock with heavy machinery
+p130
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005cindustrial.png
+p131
+sa(dp132
+g2
+S'http://pub7.rockradio.com:80/rr_metalcore_aac'
+p133
+sg4
+VMetalcore
+p134
+sg6
+I1
+sg7
+VMelodic choruses and Hardcore breakdowns
+p135
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005cmetalcore.png
+p136
+sa(dp137
+g2
+S'http://pub8.rockradio.com:80/rr_numetal_aac'
+p138
+sg4
+VNu Metal
+p139
+sg6
+I1
+sg7
+VNu Metal variety from the beginning to today
+p140
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005cnumetal.png
+p141
+sa(dp142
+g2
+S'http://pub5.rockradio.com:80/rr_deathmetal_aac'
+p143
+sg4
+VDeath Metal
+p144
+sg6
+I1
+sg7
+VGet your death fix now
+p145
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005cdeathmetal.png
+p146
+sa(dp147
+g2
+S'http://pub5.rockradio.com:80/rr_powermetal_aac'
+p148
+sg4
+VPower Metal
+p149
+sg6
+I1
+sg7
+VNon-stop amazing guitar work and grandiose vocals
+p150
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005cpowermetal.png
+p151
+sa(dp152
+g2
+S'http://pub5.rockradio.com:80/rr_melodicdeathmetal_aac'
+p153
+sg4
+VMelodic Death Metal
+p154
+sg6
+I1
+sg7
+VA Melodic blend of Heavy and Death Metal.
+p155
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005cmelodicdeathmetal.png
+p156
+sa(dp157
+g2
+S'http://pub5.rockradio.com:80/rr_indierock_aac'
+p158
+sg4
+VIndie Rock
+p159
+sg6
+I1
+sg7
+VHear the best of Indie Rock
+p160
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005cindierock.png
+p161
+sa(dp162
+g2
+S'http://pub8.rockradio.com:80/rr_blackmetal_aac'
+p163
+sg4
+VBlack Metal
+p164
+sg6
+I1
+sg7
+VFrom its dark inception until today
+p165
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005cblackmetal.png
+p166
+sa(dp167
+g2
+S'http://pub8.rockradio.com:80/rr_screamoemo_aac'
+p168
+sg4
+VScreamo-Emo
+p169
+sg6
+I1
+sg7
+VEmotionally charged music
+p170
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005cscreamoemo.png
+p171
+sa(dp172
+g2
+S'http://pub7.rockradio.com:80/rr_grunge_aac'
+p173
+sg4
+VGrunge
+p174
+sg6
+I1
+sg7
+VHardcore Punk meets Heavy Metal
+p175
+sg9
+I40
+sg10
+VC:\u005cUsers\u005cdarkn\u005cDesktop\u005cODITV_USB_091915 - KODI 15\u005cportable_data\u005cuserdata\u005caddon_data\u005cplugin.audio.rockradio.com\u005cgrunge.png
+p176
+sa.

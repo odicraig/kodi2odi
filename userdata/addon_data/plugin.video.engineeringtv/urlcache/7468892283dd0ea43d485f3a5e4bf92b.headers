@@ -1,0 +1,17 @@
+Server: Apache
+Content-Location: recent.rss.mason
+Vary: negotiate,Accept-Encoding
+TCN: choice
+Set-Cookie: mvp_session=387a227316286b70cc5bbd74d901313b; path=/; expires=Wed, 30-Dec-2015 05:42:06 GMT
+Content-Type: text/xml
+X-Magnify-URL-Class: modperl-nocache-dynamic
+Content-Length: 2509
+Accept-Ranges: bytes
+Date: Tue, 29 Dec 2015 05:42:06 GMT
+X-Varnish: 1314394050
+Age: 0
+Via: 1.1 varnish
+Connection: close
+X-Cache: MISS
+X-Local-Cache: HIT
+X-Location: http://www.engineeringtv.com/feed/recent.rss

@@ -1,0 +1,74 @@
+[
+  {
+    "group": "10709", 
+    "name": "Duna World", 
+    "url": "duna-world?mode=36", 
+    "image": "", 
+    "type": "video", 
+    "id": "12655"
+  }, 
+  {
+    "group": "10709", 
+    "name": "Duna", 
+    "url": "duna?mode=36", 
+    "image": "", 
+    "type": "video", 
+    "id": "12656"
+  }, 
+  {
+    "group": "10709", 
+    "name": "M1", 
+    "url": "mtv1?mode=36", 
+    "image": "", 
+    "type": "video", 
+    "id": "12657"
+  }, 
+  {
+    "group": "10709", 
+    "name": "M2", 
+    "url": "mtv2?mode=36", 
+    "image": "", 
+    "type": "video", 
+    "id": "12658"
+  }, 
+  {
+    "group": "10709", 
+    "name": "M4 Sport", 
+    "url": "mtv4?mode=36", 
+    "image": "", 
+    "type": "video", 
+    "id": "12659"
+  }, 
+  {
+    "group": "10709", 
+    "name": "ATV", 
+    "url": "rtmp://195.228.75.100/atvliveedge/_definst_/atvstream_2_aac", 
+    "image": "", 
+    "type": "video", 
+    "id": "12507"
+  }, 
+  {
+    "group": "10709", 
+    "name": "hir TV", 
+    "url": "http://streamserver.mno.netrix.hu/delayed.php.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12508"
+  }, 
+  {
+    "group": "10709", 
+    "name": "BPTV", 
+    "url": "http://cloudfront44.lexanetwork.com:1935/relay20/bptv.sdp/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12509"
+  }, 
+  {
+    "group": "10709", 
+    "name": "Fehervar TV", 
+    "url": "rtmp://91.82.85.71:1935/liverelay/fehervartv.sdp", 
+    "image": "", 
+    "type": "video", 
+    "id": "12510"
+  }
+]

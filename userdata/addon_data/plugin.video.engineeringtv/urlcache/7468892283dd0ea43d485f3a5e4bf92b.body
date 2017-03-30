@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+>
+
+<channel>
+<title>Engineering TV</title>
+<link>http://www.engineeringtv.com/</link>
+<description>Engineering TV</description>
+<language>en-us</language>
+<copyright>Copyright 2007, Waywire Networks</copyright>
+<pubDate>Tue, 29 Dec 2015 05:42:06 +0000</pubDate>
+<lastBuildDate>Tue, 29 Dec 2015 05:42:06 +0000</lastBuildDate>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<managingEditor>WaywireSupport@waywire.com</managingEditor>
+<webMaster>WaywireSupport@waywire.com</webMaster>
+<generator>XML::RSS</generator>
+
+<item>
+<title>Mouser: New at Mouser Electronics: Murata Wireless Modules for Freescale i.MX</title>
+<link>http://www.engineeringtv.com/video/Mouser-New-at-Mouser-Electro-25</link>
+<description>Murata has partnered with Freescale Semiconductor to offer Murata wireless module kits that interface with the...</description>
+<author>Mouser Electronics</author>
+<guid isPermaLink="true">http://www.engineeringtv.com/video/Mouser-New-at-Mouser-Electro-25</guid>
+<pubDate>Thu, 03 Dec 2015 08:52:20 -0500</pubDate>
+<enclosure url="https://s3.amazonaws.com/item.thumbnail/media/KCFVDH1LG8Q0TGT7/large.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>GaN Wireless Power Demonstration</title>
+<link>http://www.engineeringtv.com/video/GaN-Wireless-Power-Demonstratio</link>
+<description>In this video, Michael de Rooij from Efficient Power Conversion demonstrates the benefits of GaN technology in...</description>
+<author>Curtis Ellzey</author>
+<guid isPermaLink="true">http://www.engineeringtv.com/video/GaN-Wireless-Power-Demonstratio</guid>
+<pubDate>Mon, 16 Nov 2015 11:39:24 -0500</pubDate>
+<enclosure url="https://s3.amazonaws.com/item.thumbnail/content/KNZ1D81M5S1THF8F/regular.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>GaN IC&#x27;s for Wireless Power</title>
+<link>http://www.engineeringtv.com/video/GaN-IC-s-for-Wireless-Power</link>
+<description>There is an immediate consumer desire to &#x22;cut the cord&#x22; of electrical power - and go wireless!  Finally the...</description>
+<author>Curtis Ellzey</author>
+<guid isPermaLink="true">http://www.engineeringtv.com/video/GaN-IC-s-for-Wireless-Power</guid>
+<pubDate>Fri, 13 Nov 2015 13:04:04 -0500</pubDate>
+<enclosure url="https://s3.amazonaws.com/item.thumbnail/content/XZ6VKG0SW2HL9Z6R/regular.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Where is GaN Going?</title>
+<link>http://www.engineeringtv.com/video/Where-is-GaN-Going</link>
+<description>In this video, CEO and Co-founder of Efficient Power Conversion Alex Lidow discusses the wide variety of applications...</description>
+<author>Curtis Ellzey</author>
+<guid isPermaLink="true">http://www.engineeringtv.com/video/Where-is-GaN-Going</guid>
+<pubDate>Fri, 13 Nov 2015 12:04:18 -0500</pubDate>
+<enclosure url="https://s3.amazonaws.com/item.thumbnail/content/FHS2201NX29RKRXR/regular.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Mouser: New at Mouser Electronics: Kemet T598 Polymer Automotive Caps</title>
+<link>http://www.engineeringtv.com/video/Mouser-New-at-Mouser-Electro-22</link>
+<description>KEMET T598 Automotive Polymer Electrolytic Capacitors are a high performance automotive grade series developed to...</description>
+<author>Mouser Electronics</author>
+<guid isPermaLink="true">http://www.engineeringtv.com/video/Mouser-New-at-Mouser-Electro-22</guid>
+<pubDate>Wed, 11 Nov 2015 08:53:33 -0500</pubDate>
+<enclosure url="https://s3.amazonaws.com/item.thumbnail/media/R8Z68Y2QGLDHXKT1/large.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Mouser: New at Mouser Electronics: Texas Instruments LDC1101EVM</title>
+<link>http://www.engineeringtv.com/video/Mouser-New-at-Mouser-Electro-23</link>
+<description>Texas Instruments LDC1101EVM Evaluation Module demonstrates the use of inductive sensing technology to sense and...</description>
+<author>Mouser Electronics</author>
+<guid isPermaLink="true">http://www.engineeringtv.com/video/Mouser-New-at-Mouser-Electro-23</guid>
+<pubDate>Wed, 11 Nov 2015 09:02:04 -0500</pubDate>
+<enclosure url="https://s3.amazonaws.com/item.thumbnail/media/9B2SNR1YLGJBK2SF/large.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Mouser: New at Mouser Electronics: Silicon Labs Bluetooth Smart Module</title>
+<link>http://www.engineeringtv.com/video/Mouser-New-at-Mouser-Electro-24</link>
+<description>Silicon Labs BGM111 Blue Gecko Bluetooth&#xAE; Smart Module is targeted for Bluetooth Smart applications in which good RF...</description>
+<author>Mouser Electronics</author>
+<guid isPermaLink="true">http://www.engineeringtv.com/video/Mouser-New-at-Mouser-Electro-24</guid>
+<pubDate>Wed, 11 Nov 2015 09:07:43 -0500</pubDate>
+<enclosure url="https://s3.amazonaws.com/item.thumbnail/media/23CFSV1W68W7WPTH/large.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>500 W GaN-based 1/8th Brick DC/DC Converter</title>
+<link>http://www.engineeringtv.com/video/500-W-GaN-based-1-8th-Brick-DC</link>
+<description>In this video, EPC (Efficient Power Conversion) demonstrates a fully regulated, fully isolated 500 W 1/8th brick...</description>
+<author>Curtis Ellzey</author>
+<guid isPermaLink="true">http://www.engineeringtv.com/video/500-W-GaN-based-1-8th-Brick-DC</guid>
+<pubDate>Wed, 11 Nov 2015 09:58:45 -0500</pubDate>
+<enclosure url="https://s3.amazonaws.com/item.thumbnail/content/PVRZ4R2JSKQ6XTHM/regular.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Linear Technology:Driving High Resolution SAR ADCs</title>
+<link>http://www.engineeringtv.com/video/Linear-Technology-Driving-High</link>
+<description>Driving high resolution SAR ADCs often requires tradeoffs between power consumption, linearity, and noise.  The...</description>
+<author>Linear</author>
+<guid isPermaLink="true">http://www.engineeringtv.com/video/Linear-Technology-Driving-High</guid>
+<pubDate>Wed, 04 Nov 2015 15:04:37 -0500</pubDate>
+<enclosure url="http://s3.amazonaws.com/magnifythumbs/7D4H7T1RZY9QL91D.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Linear Technology: Simultaneously Digitize Eight High-Voltage Arbitrary Swing Signals</title>
+<link>http://www.engineeringtv.com/video/Linear-Technology-Simultaneousl</link>
+<description>Many common monitoring and control applications require multiple analog input signals to be simultaneously sampled...</description>
+<author>Linear</author>
+<guid isPermaLink="true">http://www.engineeringtv.com/video/Linear-Technology-Simultaneousl</guid>
+<pubDate>Wed, 04 Nov 2015 15:16:02 -0500</pubDate>
+<enclosure url="http://s3.amazonaws.com/magnifythumbs/8R6YYN091MG97XD5.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Linear Technology: Wide Common Mode Range Current Sensing</title>
+<link>http://www.engineeringtv.com/video/Linear-Technology-Wide-Common-M</link>
+<description>The LT6375 difference amplifier enables very accurate wide common mode current sensing applications. Its superior...</description>
+<author>Linear</author>
+<guid isPermaLink="true">http://www.engineeringtv.com/video/Linear-Technology-Wide-Common-M</guid>
+<pubDate>Wed, 04 Nov 2015 15:33:55 -0500</pubDate>
+<enclosure url="http://s3.amazonaws.com/magnifythumbs/8Y7QYP1S41869HDS.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Aquila: Beaming Internet Coverage Via Solar Powered UAVs</title>
+<link>http://www.engineeringtv.com/video/Aquila-Beaming-Internet-Coverag</link>
+<description>The Facebook Project &#x201C;internet.org&#x201D; is taking its next step to provide worldwide internet coverage.  Aquila is a...</description>
+<author>Engineering TV</author>
+<guid isPermaLink="true">http://www.engineeringtv.com/video/Aquila-Beaming-Internet-Coverag</guid>
+<pubDate>Fri, 30 Oct 2015 11:49:00 -0400</pubDate>
+<enclosure url="http://s3.amazonaws.com/magnifythumbs/WMK5722F6KDQ3PJ2.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>EPC: GaN is Reliable</title>
+<link>http://www.engineeringtv.com/video/GaN-is-Reliable</link>
+<description>Thirty years of silicon power-MOSFET development taught us that one of the key variables controlling the adoption...</description>
+<author>Curtis Ellzey</author>
+<guid isPermaLink="true">http://www.engineeringtv.com/video/GaN-is-Reliable</guid>
+<pubDate>Wed, 28 Oct 2015 18:02:24 -0400</pubDate>
+<enclosure url="http://s3.amazonaws.com/magnifythumbs/TPY6QQ1LB9HLK4WT.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Cypress Semiconductor: How to Create a Traffic Light Controller using UDBs with PSoC 5LP (Part 2)</title>
+<link>http://www.engineeringtv.com/video/Cypress-Semiconductor-How-to-10</link>
+<description>This video combines a UDB based down counter and traffic light state machine UDB  previously created to implement a...</description>
+<author>Cypress</author>
+<guid isPermaLink="true">http://www.engineeringtv.com/video/Cypress-Semiconductor-How-to-10</guid>
+<pubDate>Tue, 27 Oct 2015 15:40:08 -0400</pubDate>
+<enclosure url="http://s3.amazonaws.com/magnifythumbs/CXT4GK3NNN45TSVK.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Cypress Semiconductor: How to Create a Traffic Light Controller using UDBs with PSoC 5LP (Part 1)</title>
+<link>http://www.engineeringtv.com/video/Cypress-Semiconductor-How-to-11</link>
+<description>(Rated 10.00 based on 1 reviews.) 
+This video combines the UDB based down counter and traffic light state machine controller  previously created to...</description>
+<author>Cypress</author>
+<guid isPermaLink="true">http://www.engineeringtv.com/video/Cypress-Semiconductor-How-to-11</guid>
+<pubDate>Tue, 27 Oct 2015 15:44:55 -0400</pubDate>
+<enclosure url="http://s3.amazonaws.com/magnifythumbs/RKVGJF1MPL0VSYJB.jpg" type="image/jpeg" />
+</item>
+</channel>
+</rss>
+
+

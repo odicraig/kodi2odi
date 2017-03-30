@@ -1,0 +1,23 @@
+<settings>
+    <setting id="download-folder" value="" />
+    <setting id="dpms-action" value="0" />
+    <setting id="enable-checksums" value="true" />
+    <setting id="enable-china" value="true" />
+    <setting id="enable-dubai" value="true" />
+    <setting id="enable-greenland" value="true" />
+    <setting id="enable-hawaii" value="true" />
+    <setting id="enable-hongkong" value="true" />
+    <setting id="enable-liwa" value="true" />
+    <setting id="enable-london" value="true" />
+    <setting id="enable-losangeles" value="true" />
+    <setting id="enable-newyorkcity" value="true" />
+    <setting id="enable-nyork" value="true" />
+    <setting id="enable-sanfrancisco" value="true" />
+    <setting id="enable-sfrancisco" value="true" />
+    <setting id="is_locked" value="false" />
+    <setting id="manual-dpms" value="5" />
+    <setting id="show-notifications" value="true" />
+    <setting id="time-of-day" value="0" />
+    <setting id="toggle-cecoff" value="false" />
+    <setting id="toggle-displayoff" value="false" />
+</settings>

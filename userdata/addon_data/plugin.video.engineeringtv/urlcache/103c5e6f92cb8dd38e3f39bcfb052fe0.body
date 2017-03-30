@@ -1,0 +1,743 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	
+		<title></title>
+<meta name="twitter:card" content="summary"/>
+<meta name="keywords" content="engineering,videos,tech,technology,aerospace,defense,analog,automotive,communications,consumer electronics,electronics,EDA,CAD,CAM,embedded,energy,medical,RF,Microwave,robot,robots,robotics,automation,mechatronics,power,smart grid,test,measurement,electrical,mechanical,cars,automobiles,military,digital,science,education,design,TV,Engineering and technology videos for the electrical and mechanical design engineer.,Engineering and technology videos for the electrical and mechanical design engineer.,videos" />
+
+
+
+		<link rel="stylesheet" type="text/css" href="//decor.magnify.net//style/shared.css?1403316945" />			
+		<link rel="stylesheet" href="/decor/javascript/tooltips/tooltips.css" type="text/css" />
+		<link rel="stylesheet" type="text/css" href="//media.magnify.net/media/site/86C09T2JXDW5M2C0/local_style.css?1451367708" />
+
+	
+		<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+	<!--[if IE 8]>	
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<![endif]-->
+
+		<script type="text/javascript" language="javascript" src="http://www.google.com/jsapi"></script>		
+		<script type="text/javascript" language="javascript">
+			google.load("jquery", "1.6.4");
+		</script>	
+			
+
+	   <script type="text/javascript"> 
+	   			jQuery.noConflict();			
+						</script>	
+
+		<script src="//ajax.googleapis.com/ajax/libs/prototype/1.7.2.0/prototype.js" ></script>
+		<script src="//ajax.googleapis.com/ajax/libs/scriptaculous/1.9.0/scriptaculous.js" ></script>
+		<script type="text/javascript" src="/decor/javascript/jquery/jquery.tools.min.js" ></script>
+		<script type="text/javascript" src="/decor/javascript/tooltips/tooltips.js" ></script>		
+		<script src="//decor.magnify.net//javascript/elements.js?4" type="text/javascript" ></script>
+		<script src="//decor.magnify.net//javascript/event-selectors.js" type="text/javascript" ></script>
+
+		<script src="//decor.magnify.net//javascript/swfobject.js" type="text/javascript"></script>	
+		<script type="text/javascript">
+			var statsHostname = "http://st.magnify.net";
+		</script>
+		<script type="text/javascript" src="/decor/javascript/magnify_stats.js?v1.2"></script>		
+		<script type="text/javascript" src="/decor/javascript/magnify_pipeline.js?v1.3"></script>
+
+	<!--[if lt IE 7]>
+		<script type="text/javascript" src="/decor/javascript/iepngfix_tilebg.js"></script>
+		<script defer type="text/javascript" src="/decor/javascript/pngfix.js"></script>
+	<![endif]-->	
+	
+	<link rel="shortcut icon" href="http://www.engineeringtv.com/media/site/86C09T2JXDW5M2C0/uploads/favicon.ico">
+
+
+
+<meta name="google-site-verification" content="VmEbkL8i0b0dj_tFtfCLBSPx0448CNo4pbkdY95oHW8" />
+
+
+
+<script src="http://insidepenton.com/magnify/demandbase_call.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="http://api.demandbase.com/api/v2/ip.json?token=b155ec5d50b5dcb41662f36b4d10a6f7702c87e6 &callback=dbase_parse"></script> 
+
+
+
+<script type="text/javascript">
+
+var s_account="pentonengtv,pentonpisces"
+
+</script>
+
+
+
+<script language="javascript" src="http://insidepenton.com/magnify/s_code.js"></script>
+
+<script type="text/javascript">
+var _elqQ = _elqQ || [];
+_elqQ.push(['elqSetSiteId', '1904481191']);
+_elqQ.push(['elqTrackPageView']);
+(function () {
+function async_load() {
+var s = document.createElement('script'); s.type = 'text/javascript';
+s.async = true; s.src = '//img.en25.com/i/elqCfg.min.js';
+var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore (s, x);
+}
+if (window.addEventListener) window.addEventListener('DOMContentLoaded',
+async_load, false);
+else if (window.attachEvent) window.attachEvent('onload', async_load);
+})();</script>	
+		<script type="text/javascript">
+		Object.extend(Sortable, {
+		  SERIALIZE_RULE: /^[^_]*_(.*)$/
+		});	
+		
+		Effect.Opacity = Class.create(Effect.Base, {
+		  initialize: function(element) {
+			this.element = $(element);
+			if (!this.element) throw(Effect._elementDoesNotExistError);
+			// make this work on IE on elements without 'layout'
+			if (Prototype.Browser.IE && (this.element.currentStyle && !this.element.currentStyle.hasLayout))
+			  this.element.setStyle({zoom: 1});
+			var options = Object.extend({
+			  from: this.element.getOpacity() || 0.0,
+			  to:   1.0
+			}, arguments[1] || { });
+			this.start(options);
+		  },
+		  update: function(position) {
+			this.element.setOpacity(position);
+		  }
+		});
+		</script>	
+		<!-- Load AdBlock checker -->
+		<script type="text/javascript" src="/decor/javascript/AdBlock/checkadblock.js"></script>
+	</head>
+	<body class="mvp_html_doc mvp_modular_layout mvp_section_custom_page mvp_section_about_us mvp_section_custom_page_about_us mvp_location_pages_about mvp_location_pages">
+
+
+
+	<script type="text/javascript" src="//decor.magnify.net//javascript/brwsniff.js"></script>
+	<script type="text/javascript">
+		mvp_warn_browser_compatibility();
+	</script>
+
+	
+
+
+	<div id="magnify_page" class="mvp_site mvp_public">
+		<div class="mvp_leftbackground">
+		<div class="mvp_rightbackground">
+			
+<!-- Begin Waywire.com Tracking Image -->
+<img align="right" style="position: absolute; top: 0;" src="http://st.magnify.net/decor/track/dot.gif?sp=enterprise&session_id=4e2ff1e06b2af9679ce65d9a3421fd0d&rand=443558&site=86C09T2JXDW5M2C0&time=1451367723" alt="tracking" />
+<!-- End Waywire.com Tracking Image -->
+
+<div id="magnify_site_top" class="magnify_site_top" style=""></div></div></div></div>
+<script type="text/javascript">
+var zone = 'adtarget' ;
+</script>
+<div id="mvp_engineeringtv_header">
+    <div id="mvp_engineeringtv_topnav">
+    	<div id="mvp_engineeringtv_utilitynav">
+			<a href="/login/">Log In</a> | 
+			<a href="/pages/about.us">About Us</a> |  
+			<a href="/pages/contact">Contact</a> |
+			<a href="/pages/advertise">Advertise</a>
+			<br>
+			<a href="http://www.engineeringtv.com/pages/enewsletter"><img src="http://www.engineeringtv.com/media/site/86C09T2JXDW5M2C0/uploads/subscribe_small.png" border="0" align="absmiddle"><b>to the ETV Newsletter</b></a>
+		</div>
+    </div>
+     <div id="mvp_engineeringtv_background">
+        <a href="/"><div id="mvp_engineeringtv_logo"></div></a>
+         <a href="http://www.enterprise.waywire.com"><div id="mvp_engineeringtv_tagline">
+<img src="http://www.engineeringtv.com/media/site/86C09T2JXDW5M2C0/uploads/poweredbyWaywires.png" border="0">
+</div></a>
+    </div>
+    <div id="mvp_engineeringtv_navbar" class="clearfix">
+    	<ul id="mvp_engineeringtv_nav_container">
+    		<li class="mvp-engineeringtv-nav-first"><a href="/">Home</a></li>
+    		<li class="mvp-engineeringtv-nav"><a href="/pages/companies">Companies</a></li>
+    		<li class="mvp-engineeringtv-nav"><a href="/pages/technology">Technology</a></li>
+    		<li class="mvp-engineeringtv-nav"><a href="/pages/programs">Video Series</a></li>
+    		<li class="mvp-engineeringtv-nav"><a href="/pages/trade.shows">Trade Shows</a></li>
+    		<li class="mvp-engineeringtv-navt"><a href="/pages/publications">Related Sites</a></li>
+    		<li class="mvp-engineeringtv-nav-last"><a name="search">Search:</a> </li>
+    	</ul>
+
+    	<div id="mvp_engineeringtv_search_container">
+    	<form name="search_form" id="mvp_engineeringtv_search_form" method="get" action="/search/">
+    		<input type="text" name="search" id="mvp_engineeringtv_search" value="" /> <input type="image" src="http://engineeringtv.magnify.net/media/site/86C09T2JXDW5M2C0/uploads/searchIcon.gif" name="search_button" id="mvp_engineeringtv_search_button" value="" alt="Submit Search" />
+		</form>
+    	</div> 
+    </div>
+</div></div>
+
+
+		<div id="magnify_site_content">
+			
+
+		<div id="magnify_site_header" class="mvp_navbar_style_round">
+
+			<div style="position: absolute; top: 5px; left: 0px; width: 280px; height: 65px; background: url(/media/themes/round/2b303a/fff/fff/nav_leftside.gif) no-repeat;">
+			</div>
+
+			<div style="text-align: right; font-weight: bold; font-size: 14px; height: 22px; padding: 4px 8px 0px;">
+				
+				<script>
+	var waywireuser = {};
+</script>
+	<a href="/login/" id="mvp_navbar_login" class="mvp_navbar_link">Sign In</a>
+
+	<span class="mvp_navbar_separator">|</span>
+	<a href="http://www.magnify.net/support" id="mvp_navbar_help" class="mvp_navbar_link">Support</a>
+
+
+
+			</div>
+
+			<div id="magnify_site_navbar" style="position: relative; top: -10px;">
+
+				
+				<a id="mvp_navlink_home" href="/"><img src="/media/themes/round/2b303a/fff/fff/nav_main_b.gif"  width="70" height="55"  border="0" /></a>
+								<a id="mvp_navlink_playlists" href="/watch/"><img src="/media/themes/round/2b303a/fff/fff/nav_watch_b.gif"  width="70" height="55"  border="0" /></a>
+								<a id="mvp_navlink_search" href="/search/"><img src="/media/themes/round/2b303a/fff/fff/nav_search_b.gif"  width="70" height="55"  border="0" /></a>
+								<a id="mvp_navlink_submit" href="/publish/"><img src="/media/themes/round/2b303a/fff/fff/nav_publish_b.gif"  width="70" height="55"  border="0" /></a>
+								<!-- <a href="/account/"><img src="/media/themes/round/2b303a/fff/fff/nav_profile_b.gif" width="70" height="55" border="0" /></a> -->
+								<a id="mvp_navlink_members" href="/users/"><img src="/media/themes/round/2b303a/fff/fff/nav_friends_b.gif"  width="70" height="55"  border="0" /></a>
+								
+				<a id="mvp_navlink_account" href="/account/"><img src="/media/themes/round/2b303a/fff/fff/nav_account_b.gif"  width="70" height="55"  border="0" /></a>
+									<!-- ><a href="/help/"><img src="/media/themes/round/2b303a/fff/fff/nav_help_b.gif" width="70" height="55" border="0" /></a> -->
+							</div>
+
+		
+	<div class="empty_clear_floats"></div>
+
+</div>
+
+
+
+
+			<div id="magnify_contentarea" class="clearfix">
+			
+
+
+
+
+
+
+<div class="clearfix">
+
+
+<div id="magnify_std_sidebar_area" class="std_sidebar magnify_std_sidebar_column magnify_site_layout_column magnify_site_layout_column_border_left magnify_site_layout_column_border_right magnify_site_layout_column_border_both" >
+	
+
+<div id="magnify_only_row_area" class="clearfix magnify_only_row_row magnify_site_layout_row magnify_site_layout_row_border_left magnify_site_layout_row_border_right magnify_site_layout_row_border_both">
+	
+
+<div id="magnify_side_area" class="magnify_side_area magnify_site_layout_area magnify_site_layout_area_border_left">
+	
+
+
+
+
+
+
+
+
+<style type="text/css">
+.mvp-global-nav { padding: 10px; }
+.mvp-global-nav-0 { padding: 2px 0px 0px 8px; margin: 0px 0px 2px 0px; }
+.mvp-global-nav-1 { padding: 2px 0px 0px 8px; margin: 0px 0px 2px 16px; }
+</style>
+<div class="mvp-global-nav-container">
+<div class="mvp_block mvp_block_area">
+	<div class="mvp_block_begin mvp_block_open">	
+			<span class="mvp_roundboxb1 mvp_topbottomborder"></span>
+			<span class="mvp_roundboxb2 mvp_boxborder"></span>
+			<span class="mvp_roundboxb3 mvp_boxborder"></span>
+			<span class="mvp_roundboxb4 mvp_boxborder"></span>	
+	</div>
+	<div class="mvp_block_content clearfix">
+		<div class="mvp_block_delimit mvp_block_open"></div>
+		
+
+<div class="mvp-global-nav">
+<div class="mvp-global-nav-0">
+	<a href="/pages/all.videos">All Videos</a>
+</div>
+<div class="mvp-global-nav-0">
+	<a href="/pages/aerospace">Aerospace/Defense</a>
+</div>
+<div class="mvp-global-nav-0">
+	<a href="/pages/analog">Analog</a>
+</div>
+<div class="mvp-global-nav-0">
+	<a href="/pages/automotive">Automotive</a>
+</div>
+<div class="mvp-global-nav-0">
+	<a href="/pages/communications">Communications</a>
+</div>
+<div class="mvp-global-nav-0">
+	<a href="/pages/consumerelectronics">Consumer Electronics</a>
+</div>
+<div class="mvp-global-nav-0">
+	<a href="/pages/eda">EDA/CAD/CAM</a>
+</div>
+<div class="mvp-global-nav-0">
+	<a href="/pages/embedded">Embedded</a>
+</div>
+<div class="mvp-global-nav-0">
+	<a href="/pages/energy">Energy</a>
+</div>
+<div class="mvp-global-nav-0">
+	<a href="/pages/medical">Medical</a>
+</div>
+<div class="mvp-global-nav-0">
+	<a href="/pages/rf">RF/Microwave</a>
+</div>
+<div class="mvp-global-nav-0">
+	<a href="/pages/robotics">Robotics/Automation</a>
+</div>
+<div class="mvp-global-nav-0">
+	<a href="/pages/smartpower">Smart Power</a>
+</div>
+<div class="mvp-global-nav-0">
+	<a href="/pages/measurement">Test and Measurement</a>
+</div>
+<div class="mvp-global-nav-0">
+	<a href="/pages/moreengineeringvideos">More Engineering Videos</a>
+</div>
+
+</div>
+		<div class="mvp_block_delimit mvp_block_close"></div>
+	</div>
+	<div class="mvp_block_end mvp_block_close">		
+			<span class="mvp_roundboxb4 mvp_boxborder"></span>
+			<span class="mvp_roundboxb3 mvp_boxborder"></span>
+			<span class="mvp_roundboxb2 mvp_boxborder"></span>
+			<span class="mvp_roundboxb1 mvp_topbottomborder"></span>	
+	</div>
+</div>
+
+ 
+</div>
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="mvp_block mvp_block_area mvp_block_type_info_box">
+	<div class="mvp_block_begin mvp_block_open">	
+		<span class="mvp_roundboxb1 mvp_topbottomborder"></span>
+		<span class="mvp_roundboxb2 mvp_boxborder"></span>
+		<span class="mvp_roundboxb3 mvp_boxborder"></span>
+		<span class="mvp_roundboxb4 mvp_boxborder"></span>	
+	</div>
+	<div class="mvp_block_content clearfix">
+		<div class="mvp_block_delimit mvp_block_open"></div>
+		 
+	<div class="mvp_tool_block_title">Follow Engineering TV</div>
+	<div class="bodyfont mvp_intro_body">
+		<table width="100%" cellpadding="0">
+<tr>
+<td width="20%" align="center"><a href="http://www.facebook.com/pages/Engineering-TV/193561761794?ref=ts" target="_blank"><img src="http://engineeringtv.magnify.net/media/site/86C09T2JXDW5M2C0/uploads/facebook.png" border="0" width="30"></a></td>
+<td width="20%" align="center"><a href="http://www.linkedin.com/groupRegistration?gid=3761662" target="_blank"><img src="http://www.engineeringtv.com/media/site/86C09T2JXDW5M2C0/uploads/linkedin.png" border="0" width="30"></a></td>
+<td width="20%" align="center"><a href="http://twitter.com/engineeringtv" target="_blank"><img src="http://engineeringtv.magnify.net/media/site/86C09T2JXDW5M2C0/uploads/twitter.png" border="0" width="30"></a></td>
+<td width="20%" align="center"><a href="http://www.google.com/ig/directory?hl=en&url=hosting.gmodules.com%2Fig%2Fgadgets%2Ffile%2F110886248881620655604%2FEngineeringTV.xml" target="_blank"><img src="http://www.engineeringtv.com/media/site/86C09T2JXDW5M2C0/uploads/igoogle.png" border="0" width="30"></a></td>
+<td width="20%" align="center"><a href="http://www.engineeringtv.com/feed/recent.rss" target="_blank"><img src="http://www.engineeringtv.com/media/site/86C09T2JXDW5M2C0/uploads/rssfeed.png" border="0" width="30"></a></td>
+</tr>
+</table>
+	</div>
+
+		<div class="mvp_block_delimit mvp_block_close"></div>
+	</div>
+	<div class="mvp_block_end mvp_block_close">		
+		<span class="mvp_roundboxb4 mvp_boxborder"></span>
+		<span class="mvp_roundboxb3 mvp_boxborder"></span>
+		<span class="mvp_roundboxb2 mvp_boxborder"></span>
+		<span class="mvp_roundboxb1 mvp_topbottomborder"></span>	
+	</div>
+</div>
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="mvp_block mvp_block_area mvp_block_type_info_box">
+	<div class="mvp_block_begin mvp_block_open">	
+		<span class="mvp_roundboxb1 mvp_topbottomborder"></span>
+		<span class="mvp_roundboxb2 mvp_boxborder"></span>
+		<span class="mvp_roundboxb3 mvp_boxborder"></span>
+		<span class="mvp_roundboxb4 mvp_boxborder"></span>	
+	</div>
+	<div class="mvp_block_content clearfix">
+		<div class="mvp_block_delimit mvp_block_open"></div>
+		 
+	<div class="mvp_tool_block_title">Start Receiving ETV Updates Automatically</div>
+	<div class="bodyfont mvp_intro_body">
+		<div align="center">
+<a href="http://www.engineeringtv.com/pages/enewsletter"><img src="http://www.engineeringtv.com/media/site/86C09T2JXDW5M2C0/uploads/subscribe_big.png" border="0"></a>
+</div>
+	</div>
+
+		<div class="mvp_block_delimit mvp_block_close"></div>
+	</div>
+	<div class="mvp_block_end mvp_block_close">		
+		<span class="mvp_roundboxb4 mvp_boxborder"></span>
+		<span class="mvp_roundboxb3 mvp_boxborder"></span>
+		<span class="mvp_roundboxb2 mvp_boxborder"></span>
+		<span class="mvp_roundboxb1 mvp_topbottomborder"></span>	
+	</div>
+</div>
+
+
+</div>
+
+
+	
+
+<div id="magnify_main_area" class="magnify_main_area magnify_site_layout_area magnify_site_layout_area_border_right">
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="mvp_block mvp_block_area mvp_block_type_info_box">
+	<div class="mvp_block_begin mvp_block_open">	
+		<span class="mvp_roundboxb1 mvp_topbottomborder"></span>
+		<span class="mvp_roundboxb2 mvp_boxborder"></span>
+		<span class="mvp_roundboxb3 mvp_boxborder"></span>
+		<span class="mvp_roundboxb4 mvp_boxborder"></span>	
+	</div>
+	<div class="mvp_block_content clearfix">
+		<div class="mvp_block_delimit mvp_block_open"></div>
+		 
+	<div class="bodyfont mvp_intro_body">
+		<body><a href="http://landing.ni.com/form-download-multisim-blue-en/?utm_source=engineeringtv&utm_medium=display&utm_campaign=MOUSER-form-download-multisim-blue-en&utm_content=MultiSimBlueDownloadNow-728x90">
+<img width="728" height="90" border="0" src="http://www.engineeringtv.com/media/site/86C09T2JXDW5M2C0/uploads/MSB-Launch-728x90.jpg" alt="Mouser Empowering Innovation">
+</a></body>
+	</div>
+
+		<div class="mvp_block_delimit mvp_block_close"></div>
+	</div>
+	<div class="mvp_block_end mvp_block_close">		
+		<span class="mvp_roundboxb4 mvp_boxborder"></span>
+		<span class="mvp_roundboxb3 mvp_boxborder"></span>
+		<span class="mvp_roundboxb2 mvp_boxborder"></span>
+		<span class="mvp_roundboxb1 mvp_topbottomborder"></span>	
+	</div>
+</div>
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="mvp_block mvp_block_area mvp_block_type_info_box">
+	<div class="mvp_block_begin mvp_block_open">	
+		<span class="mvp_roundboxb1 mvp_topbottomborder"></span>
+		<span class="mvp_roundboxb2 mvp_boxborder"></span>
+		<span class="mvp_roundboxb3 mvp_boxborder"></span>
+		<span class="mvp_roundboxb4 mvp_boxborder"></span>	
+	</div>
+	<div class="mvp_block_content clearfix">
+		<div class="mvp_block_delimit mvp_block_open"></div>
+		 
+	<div class="mvp_tool_block_title">About Us</div>
+	<div class="bodyfont mvp_intro_body">
+		<div>
+
+        <p><b>Penton Media launched Engineering TV in 2007 across its design engineering group which includes Electronic Design, Machine Design, Power Electronics Technology, Microwaves & RF, Mobile Dev & Design, Medical Design, Motion System Design, Source ESB and Electronic Design Europe. Since that time it has generated millions of page views and hundreds of thousands of unique visitors.</b>
+
+<p><b>Since the launch, EngineeringTV has produced over 2,000 episodes, generated referrals from the likes of Google, Yahoo, MSN, Carnegie Mellon, University of Michigan College of Engineering, and many societies, associations and engineer blogs.</b>
+
+<p><b>Watch thousands of engineering videos on www.EngineeringTV.com!</b>
+	</div>
+
+		<div class="mvp_block_delimit mvp_block_close"></div>
+	</div>
+	<div class="mvp_block_end mvp_block_close">		
+		<span class="mvp_roundboxb4 mvp_boxborder"></span>
+		<span class="mvp_roundboxb3 mvp_boxborder"></span>
+		<span class="mvp_roundboxb2 mvp_boxborder"></span>
+		<span class="mvp_roundboxb1 mvp_topbottomborder"></span>	
+	</div>
+</div>
+
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+
+
+		<div class="empty_clear_floats"></div>
+			</div>
+			
+<div id="mvp_poweredby_bar"> <!-- www.engineeringtv.com -->
+		<a href="http://www.magnify.net/" class="active_color">
+		Powered by Waywire.com
+	</a>
+		<span id="mvp_poweredby_links">
+				<a href="http://www.magnify.net/terms/privacy" class="linked_color">
+			Privacy
+		</a>
+		<a href="/help/" class="linked_color">
+			Send Us Feedback
+		</a>
+	</span>
+</div>
+
+			<div class="empty_clear_floats"></div>
+
+		</div>
+		<div id="magnify_site_footer" class="magnify_site_footer" style="clear: both;  "><div id="magfooter" style="position: relative; height: 40px;"><a href="http://enterprise.waywire.com" target="_blank" style="text-decoration:none; border: 0;" ><img src="http://video.clinicaladvisor.com/media/site/804D1Q0VJNH2Z2QB/uploads/curationpoweredby.png" width="178" height="40" style="float:left; margin-left:20px; border: 0;"/></a>
+</div>
+
+</div>
+<div id="mvp_engineeringtv_footer">
+	<div id="mvp_engineeringtv_footer_nav">
+		<p class="mvp-engineeringtv-footer-related">related sites</p>
+		<p>
+			<a href="http://electronicdesign.com/" target="_blank">Electronic Design</a>
+			<span class="mvp-engineeringtv-footer-sep">|</span>
+			<a href="http://electronicdesign.com/electronic-design-europe-0">Electronic Design Europe</a>
+			<span class="mvp-engineeringtv-footer-sep" target="_blank">|</span>
+			<a href="http://www.globalpurchasing.com/">Global Purchasing</a>
+			<span class="mvp-engineeringtv-footer-sep" target="_blank">|</span>
+			<a href="http://www.mwrf.com/">Microwaves & RF</a>
+			<span class="mvp-engineeringtv-footer-sep" target="_blank">|</span>
+			<a href="http://powerelectronics.com/">Power Electronics</a>
+			<span class="mvp-engineeringtv-footer-sep" target="_blank">|</span>
+			<a href="http://www.defenseelectronicsmag.com/">Defense Electronics</a>
+		</p>
+		<p>
+			<a href="http://machinedesign.com/" target="_blank">Machine Design</a>
+			<span class="mvp-engineeringtv-footer-sep">|</span>
+			<a href="http://medicaldesign.com/" target="_blank">Medical Design</a>
+			<span class="mvp-engineeringtv-footer-sep">|</span>
+			<a href="http://www.hydraulicspneumatics.com/" target="_blank">Hydraulics & Pneumatics</a>
+			<span class="mvp-engineeringtv-footer-sep">|</span>
+			<a href="http://www.sourceesb.com/" target="_blank">Source ESB</a>
+		</p>		
+	</div>
+	
+	<div id="mvp_engineeringtv_footer_utilitynav"> 
+		<p>
+			<a href="/pages/about.us">About Us</a>
+			<span class="mvp-engineeringtv-footer-sep">|</span>
+			<a href="/pages/contact">Contact Us</a>
+			<span class="mvp-engineeringtv-footer-sep">|</span>
+			<a href="http://www.engineeringtv.com/pages/enewsletter">Subscribe</a>
+			<span class="mvp-engineeringtv-footer-sep">|</span>
+			<a href="/pages/advertise">Advertise</a>
+<br>
+			<a href="http://www.penton.com/TermsofUse/tabid/71/Default.aspx" target="_blank">Terms of Use Policy</a>
+			<span class="mvp-engineeringtv-footer-sep">|</span>
+			<a href="http://www.penton.com/PrivacyStatement/tabid/75/Default.aspx" target="_blank">Privacy Policy</a>
+			<span class="mvp-engineeringtv-footer-sep">|</span>
+			<a href="http://www.penton.com/AcceptableUsePolicy.aspx" target="_blank">Acceptable Use Policy</a>
+			
+			
+		</p>
+		<p class="mvp-engineeringtv-footer-copyright">© 2015 Penton Media, Inc.</p>
+	</div>
+</div>
+
+
+<script type="text/javascript">
+$$('.mvp_block_type_related_resource_player').each( 
+	function ( el ) {
+		if ( el ) {
+			el.insert( { top: '<div class="etv-gb-curve-top"><div class="etv-gb-curve-topl"></div><div class="etv-gb-curve-topr"></div></div>' } );
+			el.insert('<div class="etv-gb-curve-bottom"><div class="etv-gb-curve-bottoml"></div><div class="etv-gb-curve-bottomr"></div></div>');
+		}
+	}
+);
+
+$$('#mvp_related_resources_container').each( 
+	function ( el ) {
+		if ( el ) {
+			el.insert( { top: '<div class="etv-wh-curve-top"><div class="etv-wh-curve-topl"></div><div class="etv-wh-curve-topr"></div></div>' } );
+			el.insert('<div class="etv-wh-curve-bottom"><div class="etv-wh-curve-bottoml"></div><div class="etv-wh-curve-bottomr"></div></div>');
+		}
+	}
+);
+
+$$('#mvp_related_resources_container').each( 
+	function ( el ) {
+		if ( el ) {
+			el.insert( { before: '<div class="etv-bl-curve-top clearfix"><div class="etv-bl-curve-topr"></div></div>' } );
+			el.insert( { after: '<div class="etv-bl-curve-bottom clearfix"><div class="etv-bl-curve-bottoml"></div><div class="etv-bl-curve-bottomr"></div></div>' } );
+		}
+	}
+);
+
+$$('#mvp_player_side .mvp_page_title').each( 
+	function ( el ) {
+		if ( el ) {
+			el.insert( { before: '<div class="etv-bl-curve-top" style="height: 8px; width: ' + el.offsetWidth + 'px;"><div class="etv-bl-curve-topl"></div><div class="etv-bl-curve-topr"></div></div>' } );
+			el.style.width = el.offsetWidth + 'px';
+			el.style.display = 'block';
+			el.style.padding = '0px';
+		}
+	}
+);
+
+$$('#magnify_modular_player_page_area .mvp_block_type_related_items div.mvp_tool_block_title').each( 
+	function ( el ) {
+		if ( el ) {
+			el.insert( { before: '<div class="etv-gb-curve-top" style="height: 8px; width: ' + el.offsetWidth + 'px;"><div class="etv-gb-curve-topl"></div><div class="etv-gb-curve-topr"></div></div>' } );
+			el.style.width = el.offsetWidth + 'px';
+			el.style.display = 'block';
+			el.style.padding = '0px';
+		}
+	}
+);
+</script></div>
+
+
+
+		</div>
+		</div>
+	</div>
+	
+<script type="text/javascript">
+processStats = function() {	
+	var config = {
+		site: '86C09T2JXDW5M2C0',
+		viewer: ( typeof(magnifyViewer) != 'undefined' ? magnifyViewer : '' ),
+		referrer: ( typeof(magnifyReferrer) != 'undefined' ? magnifyReferrer : '' ),
+		adCampaign: ( typeof(magnifyAdCampaign) != 'undefined' ? magnifyAdCampaign : '' ),
+		servicePlan: 'enterprise',
+		debug: false
+	};
+	var mvpPageStats = new MagnifyStats.Page(config);
+	mvpPageStats.createPixel();
+	MagnifyStats.gatherStats(config);
+}
+
+if (window.addEventListener) 
+	window.addEventListener("load", processStats, false);
+else if (window.attachEvent) 
+	window.attachEvent("onload", processStats);
+</script>
+
+	
+
+
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	  ga('create', 'UA-504941-1', 'magnify.net');
+	  ga('send', 'pageview');
+	
+	</script>
+
+
+
+	
+	<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+	<script type="text/javascript">
+	_qacct="p-bfS52hbjajA9Y"; quantserve();
+	</script>
+	<noscript><img src="http://pixel.quantserve.com/pixel/p-bfS52hbjajA9Y.gif" style="display: none" height="1" width="1" alt="Quantcast"/></noscript>
+
+	<script type="text/javascript">
+	var _sf_async_config={uid:2250,domain:"aggregate.magnify.net"};
+	</script>
+
+	
+
+<!-- SiteCatalyst code version: H.24.3. Copyright 1997-2012 Omniture, Inc. More info available at http://www.omniture.com -->
+
+
+<script language="javascript">
+s.linkTrackVars="eVar43,prop45,eVar44,eVar42,events";
+s.linkTrackEvents="event42,event40,event41,event43,event44,event45,event46";
+
+var contentTitle = '';
+s.pageName= "video:" + (contentTitle || location.href);
+s.channel="video";
+s.prop6="video";
+s.prop7 = "D=g";
+s.eVar35 = "";
+
+s.linkInternalFilters="javascript:,engineeringtv.com,electronicdesign.com"
+s.visitorNamespace="pentonmedia"
+s.trackingServer="metrics.engineeringtv.com"
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//-->
+</script>
+
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.24.3. -->
+
+
+
+
+  </body>
+</html>
+

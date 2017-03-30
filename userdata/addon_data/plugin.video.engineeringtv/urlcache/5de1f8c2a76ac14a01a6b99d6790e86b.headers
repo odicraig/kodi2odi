@@ -1,0 +1,16 @@
+Server: Apache
+X-Magnify-Edge-Control: cache-maxage=3600, dca=esi
+Vary: Accept-Encoding
+Content-Type: text/html; charset=utf-8
+X-Magnify-Edge-Control-TTL: 3600
+X-Magnify-URL-Class: modperl-cacheable-dynamic
+X-Magnify-ESI-Done: YES
+Transfer-Encoding: chunked
+Date: Tue, 29 Dec 2015 05:42:09 GMT
+X-Varnish: 1009848881
+Age: 0
+Via: 1.1 varnish
+Connection: close
+X-Cache: MISS
+X-Local-Cache: HIT
+X-Location: http://www.engineeringtv.com/video/Cypress-Semiconductor-How-to-11/player
